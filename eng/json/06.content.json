@@ -80,6 +80,7 @@
         {
           "reference_id": 18726,
           "content_id": 19558,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 3:10",
           "language": "eng"
         }
@@ -187,6 +188,7 @@
         {
           "reference_id": 10445,
           "content_id": 11277,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 3:15",
           "language": "eng"
         }
@@ -1034,6 +1036,7 @@
         {
           "reference_id": 18760,
           "content_id": 19592,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 5:9",
           "language": "eng"
         }
@@ -1541,6 +1544,7 @@
         {
           "reference_id": 18632,
           "content_id": 19464,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 2:1",
           "language": "eng"
         }
@@ -1688,6 +1692,7 @@
         {
           "reference_id": 203127,
           "content_id": 500184,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Complete Dedication",
           "language": "eng"
         }
@@ -1895,6 +1900,7 @@
         {
           "reference_id": 18736,
           "content_id": 19568,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 3:5",
           "language": "eng"
         }
@@ -2162,6 +2168,7 @@
         {
           "reference_id": 10195,
           "content_id": 11027,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 12:37",
           "language": "eng"
         }
@@ -2469,6 +2476,7 @@
         {
           "reference_id": 18726,
           "content_id": 19558,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 3:10",
           "language": "eng"
         }
@@ -2536,6 +2544,7 @@
         {
           "reference_id": 18791,
           "content_id": 19623,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 7:2",
           "language": "eng"
         }
@@ -2663,12 +2672,14 @@
         {
           "reference_id": 10305,
           "content_id": 11137,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 20:1-23.33",
           "language": "eng"
         },
         {
           "reference_id": 18808,
           "content_id": 19640,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 8:32",
           "language": "eng"
         }
@@ -2716,6 +2727,7 @@
         {
           "reference_id": 18791,
           "content_id": 19623,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 7:2",
           "language": "eng"
         }
@@ -2823,6 +2835,7 @@
         {
           "reference_id": 18746,
           "content_id": 19578,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 4:9",
           "language": "eng"
         }
@@ -2870,6 +2883,7 @@
         {
           "reference_id": 18791,
           "content_id": 19623,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 7:2",
           "language": "eng"
         }
@@ -2917,6 +2931,7 @@
         {
           "reference_id": 18726,
           "content_id": 19558,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 3:10",
           "language": "eng"
         }
@@ -3204,6 +3219,7 @@
         {
           "reference_id": 18639,
           "content_id": 19471,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 2:9-10",
           "language": "eng"
         }
@@ -3311,6 +3327,7 @@
         {
           "reference_id": 9321,
           "content_id": 10153,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:7",
           "language": "eng"
         }
@@ -3638,6 +3655,7 @@
         {
           "reference_id": 18483,
           "content_id": 19315,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 1:13",
           "language": "eng"
         }
@@ -3825,6 +3843,7 @@
         {
           "reference_id": 18726,
           "content_id": 19558,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 3:10",
           "language": "eng"
         }
@@ -4172,6 +4191,7 @@
         {
           "reference_id": 18783,
           "content_id": 19615,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 7:16-18",
           "language": "eng"
         }
@@ -4199,6 +4219,7 @@
         {
           "reference_id": 12063,
           "content_id": 12895,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 48:5-7",
           "language": "eng"
         }
@@ -4306,6 +4327,7 @@
         {
           "reference_id": 18483,
           "content_id": 19315,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 1:13",
           "language": "eng"
         }
@@ -4453,6 +4475,7 @@
         {
           "reference_id": 18550,
           "content_id": 19382,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 13:2",
           "language": "eng"
         }
@@ -4560,6 +4583,7 @@
         {
           "reference_id": 18488,
           "content_id": 19320,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 1:4",
           "language": "eng"
         }
@@ -4807,6 +4831,7 @@
         {
           "reference_id": 18549,
           "content_id": 19381,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 13:29-33",
           "language": "eng"
         }
@@ -4974,6 +4999,7 @@
         {
           "reference_id": 18537,
           "content_id": 19369,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 12:4",
           "language": "eng"
         }
@@ -5001,6 +5027,7 @@
         {
           "reference_id": 18528,
           "content_id": 19360,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 11:4",
           "language": "eng"
         }
@@ -5108,6 +5135,7 @@
         {
           "reference_id": 18783,
           "content_id": 19615,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 7:16-18",
           "language": "eng"
         }
@@ -5195,6 +5223,7 @@
         {
           "reference_id": 18578,
           "content_id": 19410,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 15:59",
           "language": "eng"
         }
@@ -5222,6 +5251,7 @@
         {
           "reference_id": 18582,
           "content_id": 19414,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 15:8",
           "language": "eng"
         }
@@ -5549,6 +5579,7 @@
         {
           "reference_id": 18556,
           "content_id": 19388,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 14:1-19.51",
           "language": "eng"
         }
@@ -5696,6 +5727,7 @@
         {
           "reference_id": 18783,
           "content_id": 19615,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 7:16-18",
           "language": "eng"
         }
@@ -5723,6 +5755,7 @@
         {
           "reference_id": 18492,
           "content_id": 19324,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 1:8",
           "language": "eng"
         }
@@ -6690,6 +6723,7 @@
         {
           "reference_id": 18807,
           "content_id": 19639,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 8:30-31",
           "language": "eng"
         }
@@ -6737,6 +6771,7 @@
         {
           "reference_id": 10305,
           "content_id": 11137,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 20:1-23.33",
           "language": "eng"
         }
@@ -6864,6 +6899,7 @@
         {
           "reference_id": 10210,
           "content_id": 11042,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 13:18",
           "language": "eng"
         }
@@ -6951,6 +6987,7 @@
         {
           "reference_id": 18726,
           "content_id": 19558,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 3:10",
           "language": "eng"
         }
@@ -7098,6 +7135,7 @@
         {
           "reference_id": 203121,
           "content_id": 500178,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "God’s Absolute Holiness",
           "language": "eng"
         }
@@ -7185,6 +7223,7 @@
         {
           "reference_id": 18818,
           "content_id": 19650,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 9:15",
           "language": "eng"
         }
@@ -7212,6 +7251,7 @@
         {
           "reference_id": 18492,
           "content_id": 19324,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 1:8",
           "language": "eng"
         }
@@ -7239,6 +7279,7 @@
         {
           "reference_id": 18672,
           "content_id": 19504,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 22:27",
           "language": "eng"
         }

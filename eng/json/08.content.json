@@ -260,6 +260,7 @@
         {
           "reference_id": 24971,
           "content_id": 25803,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 2:20",
           "language": "eng"
         }
@@ -487,12 +488,14 @@
         {
           "reference_id": 19448,
           "content_id": 20280,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 25:25",
           "language": "eng"
         },
         {
           "reference_id": 203149,
           "content_id": 500206,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Family Redeemer",
           "language": "eng"
         }
@@ -560,12 +563,14 @@
         {
           "reference_id": 24971,
           "content_id": 25803,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 2:20",
           "language": "eng"
         },
         {
           "reference_id": 24988,
           "content_id": 25820,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 3:9",
           "language": "eng"
         }
@@ -673,6 +678,7 @@
         {
           "reference_id": 203149,
           "content_id": 500206,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Family Redeemer",
           "language": "eng"
         }
@@ -720,6 +726,7 @@
         {
           "reference_id": 24999,
           "content_id": 25831,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 4:5",
           "language": "eng"
         }
@@ -847,18 +854,21 @@
         {
           "reference_id": 19448,
           "content_id": 20280,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 25:25",
           "language": "eng"
         },
         {
           "reference_id": 24971,
           "content_id": 25803,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 2:20",
           "language": "eng"
         },
         {
           "reference_id": 24979,
           "content_id": 25811,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 3:11",
           "language": "eng"
         }
@@ -886,12 +896,14 @@
         {
           "reference_id": 24979,
           "content_id": 25811,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 3:11",
           "language": "eng"
         },
         {
           "reference_id": 24999,
           "content_id": 25831,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 4:5",
           "language": "eng"
         }
@@ -959,6 +971,7 @@
         {
           "reference_id": 24959,
           "content_id": 25791,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 1:2",
           "language": "eng"
         }
@@ -1006,6 +1019,7 @@
         {
           "reference_id": 24962,
           "content_id": 25794,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 1:6",
           "language": "eng"
         }

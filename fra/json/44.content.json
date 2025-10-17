@@ -20,6 +20,7 @@
         {
           "reference_id": 19603,
           "content_id": 31840,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luc 1.3",
           "language": "fra"
         }
@@ -87,6 +88,7 @@
         {
           "reference_id": 203323,
           "content_id": 708451,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Baptême",
           "language": "fra"
         }
@@ -194,6 +196,7 @@
         {
           "reference_id": 8455,
           "content_id": 131670,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 1.3",
           "language": "fra"
         }
@@ -421,6 +424,7 @@
         {
           "reference_id": 8617,
           "content_id": 92449,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 2.1-4",
           "language": "fra"
         }
@@ -468,6 +472,7 @@
         {
           "reference_id": 8511,
           "content_id": 131713,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 13.43",
           "language": "fra"
         }
@@ -555,6 +560,7 @@
         {
           "reference_id": 20860,
           "content_id": 124659,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthieu 11.23",
           "language": "fra"
         }
@@ -622,6 +628,7 @@
         {
           "reference_id": 203323,
           "content_id": 708451,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Baptême",
           "language": "fra"
         }
@@ -909,6 +916,7 @@
         {
           "reference_id": 203481,
           "content_id": 668939,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Les Sadducéens",
           "language": "fra"
         }
@@ -956,6 +964,7 @@
         {
           "reference_id": 20939,
           "content_id": 124735,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthieu 14.21",
           "language": "fra"
         }
@@ -1303,6 +1312,7 @@
         {
           "reference_id": 8772,
           "content_id": 92470,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 4.19-20",
           "language": "fra"
         }
@@ -1530,6 +1540,7 @@
         {
           "reference_id": 203330,
           "content_id": 708453,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Circoncision dans le Nouveau Testament",
           "language": "fra"
         }
@@ -1797,6 +1808,7 @@
         {
           "reference_id": 8758,
           "content_id": 92460,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 3.1-11",
           "language": "fra"
         }
@@ -2824,6 +2836,7 @@
         {
           "reference_id": 203334,
           "content_id": 708454,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Anges",
           "language": "fra"
         }
@@ -3011,18 +3024,21 @@
         {
           "reference_id": 8464,
           "content_id": 131675,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 10.2",
           "language": "fra"
         },
         {
           "reference_id": 8511,
           "content_id": 131713,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 13.43",
           "language": "fra"
         },
         {
           "reference_id": 8830,
           "content_id": 92507,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 9.2",
           "language": "fra"
         }
@@ -3170,6 +3186,7 @@
         {
           "reference_id": 8543,
           "content_id": 131745,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 15.36-41",
           "language": "fra"
         }
@@ -3197,6 +3214,7 @@
         {
           "reference_id": 8830,
           "content_id": 92507,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 9.2",
           "language": "fra"
         }
@@ -3744,6 +3762,7 @@
         {
           "reference_id": 203370,
           "content_id": 708459,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Dirigeants de l'Église",
           "language": "fra"
         }
@@ -3951,6 +3970,7 @@
         {
           "reference_id": 19335,
           "content_id": 158772,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 17.11",
           "language": "fra"
         }
@@ -4538,6 +4558,7 @@
         {
           "reference_id": 8830,
           "content_id": 92507,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 9.2",
           "language": "fra"
         }
@@ -4585,6 +4606,7 @@
         {
           "reference_id": 8464,
           "content_id": 131675,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 10.2",
           "language": "fra"
         }
@@ -4832,6 +4854,7 @@
         {
           "reference_id": 8569,
           "content_id": 131771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 16.8",
           "language": "fra"
         }
@@ -4919,6 +4942,7 @@
         {
           "reference_id": 8464,
           "content_id": 131675,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 10.2",
           "language": "fra"
         }
@@ -5286,6 +5310,7 @@
         {
           "reference_id": 8569,
           "content_id": 131771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 16.8",
           "language": "fra"
         }
@@ -5313,6 +5338,7 @@
         {
           "reference_id": 8830,
           "content_id": 92507,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 9.2",
           "language": "fra"
         }
@@ -5520,6 +5546,7 @@
         {
           "reference_id": 8591,
           "content_id": 131793,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 18.1",
           "language": "fra"
         }
@@ -5567,6 +5594,7 @@
         {
           "reference_id": 8549,
           "content_id": 131751,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 16.10",
           "language": "fra"
         }
@@ -5634,6 +5662,7 @@
         {
           "reference_id": 8617,
           "content_id": 92449,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 2.1-4",
           "language": "fra"
         }
@@ -5841,12 +5870,14 @@
         {
           "reference_id": 8549,
           "content_id": 131751,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 16.10",
           "language": "fra"
         },
         {
           "reference_id": 8644,
           "content_id": 131835,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 20.5-15",
           "language": "fra"
         }
@@ -5894,6 +5925,7 @@
         {
           "reference_id": 8648,
           "content_id": 131839,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 21.11-14",
           "language": "fra"
         }
@@ -5981,6 +6013,7 @@
         {
           "reference_id": 8581,
           "content_id": 131783,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 17.34",
           "language": "fra"
         }
@@ -6008,6 +6041,7 @@
         {
           "reference_id": 8659,
           "content_id": 131850,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 21.4-6",
           "language": "fra"
         }
@@ -6215,6 +6249,7 @@
         {
           "reference_id": 8791,
           "content_id": 92485,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 5.34",
           "language": "fra"
         }
@@ -6242,6 +6277,7 @@
         {
           "reference_id": 8825,
           "content_id": 92505,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 9.17",
           "language": "fra"
         }
@@ -6289,6 +6325,7 @@
         {
           "reference_id": 203323,
           "content_id": 708451,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Baptême",
           "language": "fra"
         }
@@ -6616,6 +6653,7 @@
         {
           "reference_id": 8541,
           "content_id": 131743,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 15.29",
           "language": "fra"
         }
@@ -6743,6 +6781,7 @@
         {
           "reference_id": 8654,
           "content_id": 131845,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 21.28-29",
           "language": "fra"
         }
@@ -6790,6 +6829,7 @@
         {
           "reference_id": 8830,
           "content_id": 92507,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 9.2",
           "language": "fra"
         }
@@ -6857,6 +6897,7 @@
         {
           "reference_id": 8631,
           "content_id": 131822,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 20:1-2",
           "language": "fra"
         }
@@ -6944,12 +6985,14 @@
         {
           "reference_id": 8677,
           "content_id": 131868,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 23.24",
           "language": "fra"
         },
         {
           "reference_id": 8695,
           "content_id": 131886,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 24.24",
           "language": "fra"
         }
@@ -7417,6 +7460,7 @@
         {
           "reference_id": 8460,
           "content_id": 131671,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 10.1-8",
           "language": "fra"
         }
@@ -7804,6 +7848,7 @@
         {
           "reference_id": 8561,
           "content_id": 131763,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 16.27",
           "language": "fra"
         }
@@ -7931,6 +7976,7 @@
         {
           "reference_id": 8721,
           "content_id": 131912,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 27.1-28.16",
           "language": "fra"
         }

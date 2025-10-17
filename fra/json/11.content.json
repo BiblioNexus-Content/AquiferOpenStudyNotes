@@ -720,6 +720,7 @@
         {
           "reference_id": 14844,
           "content_id": 720303,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Rois 8.1",
           "language": "fra"
         }
@@ -1347,6 +1348,7 @@
         {
           "reference_id": 14802,
           "content_id": 720261,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Rois 4.6",
           "language": "fra"
         }
@@ -1574,6 +1576,7 @@
         {
           "reference_id": 12773,
           "content_id": 719651,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chroniques 28.18",
           "language": "fra"
         }
@@ -2601,6 +2604,7 @@
         {
           "reference_id": 203127,
           "content_id": 708417,
+          "resource_code": "Unknown",
           "label": "Dévouer par interdit",
           "language": "fra"
         }
@@ -3988,6 +3992,7 @@
         {
           "reference_id": 14544,
           "content_id": 720003,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Rois 1.35",
           "language": "fra"
         }
@@ -4195,12 +4200,14 @@
         {
           "reference_id": 9486,
           "content_id": 148509,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 23.18",
           "language": "fra"
         },
         {
           "reference_id": 19340,
           "content_id": 158777,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 17.7",
           "language": "fra"
         }
@@ -4288,6 +4295,7 @@
         {
           "reference_id": 13187,
           "content_id": 719758,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chroniques 13.1",
           "language": "fra"
         }
@@ -4595,6 +4603,7 @@
         {
           "reference_id": 14633,
           "content_id": 720092,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Rois 15.1-8",
           "language": "fra"
         }
@@ -6262,6 +6271,7 @@
         {
           "reference_id": 203127,
           "content_id": 708417,
+          "resource_code": "Unknown",
           "label": "Dévouer par interdit",
           "language": "fra"
         }

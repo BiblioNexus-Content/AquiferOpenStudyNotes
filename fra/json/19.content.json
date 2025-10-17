@@ -120,6 +120,7 @@
         {
           "reference_id": 9705,
           "content_id": 148728,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 4.44",
           "language": "fra"
         }
@@ -187,6 +188,7 @@
         {
           "reference_id": 16712,
           "content_id": 720860,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jérémie 13.24",
           "language": "fra"
         }
@@ -654,6 +656,7 @@
         {
           "reference_id": 23669,
           "content_id": 698644,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psaumes 4.8",
           "language": "fra"
         }
@@ -921,6 +924,7 @@
         {
           "reference_id": 22820,
           "content_id": 697795,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psaumes 1.1",
           "language": "fra"
         }
@@ -2088,6 +2092,7 @@
         {
           "reference_id": 24218,
           "content_id": 699193,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psaumes 9.1-10.18",
           "language": "fra"
         }
@@ -3535,12 +3540,14 @@
         {
           "reference_id": 12773,
           "content_id": 719651,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chroniques 28.18",
           "language": "fra"
         },
         {
           "reference_id": 13309,
           "content_id": 719880,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chroniques 3.10-13",
           "language": "fra"
         }
@@ -6008,6 +6015,7 @@
         {
           "reference_id": 23255,
           "content_id": 698230,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psaumes 14.4",
           "language": "fra"
         }
@@ -6855,6 +6863,7 @@
         {
           "reference_id": 22826,
           "content_id": 697801,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psaumes 1.6",
           "language": "fra"
         }
@@ -10202,6 +10211,7 @@
         {
           "reference_id": 12700,
           "content_id": 719578,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chroniques 15.20",
           "language": "fra"
         }
@@ -12569,6 +12579,7 @@
         {
           "reference_id": 11649,
           "content_id": 33036,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genèse 24.10",
           "language": "fra"
         }
@@ -12836,6 +12847,7 @@
         {
           "reference_id": 17956,
           "content_id": 131227,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jean 1.14",
           "language": "fra"
         }
@@ -15443,6 +15455,7 @@
         {
           "reference_id": 13235,
           "content_id": 719806,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chroniques 2.8",
           "language": "fra"
         }
@@ -17690,12 +17703,14 @@
         {
           "reference_id": 23515,
           "content_id": 698490,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psaumes 29.1-2",
           "language": "fra"
         },
         {
           "reference_id": 23838,
           "content_id": 698813,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psaumes 58.1",
           "language": "fra"
         }
@@ -18883,6 +18898,7 @@
         {
           "reference_id": 23515,
           "content_id": 698490,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psaumes 29.1-2",
           "language": "fra"
         }

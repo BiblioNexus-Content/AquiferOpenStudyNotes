@@ -260,30 +260,35 @@
         {
           "reference_id": 9922,
           "content_id": 667604,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Éphésiens 1.19-20",
           "language": "fra"
         },
         {
           "reference_id": 12252,
           "content_id": 150337,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 1.5-14",
           "language": "fra"
         },
         {
           "reference_id": 19945,
           "content_id": 32182,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luc 20.42-43",
           "language": "fra"
         },
         {
           "reference_id": 20019,
           "content_id": 32256,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luc 22.69",
           "language": "fra"
         },
         {
           "reference_id": 12994,
           "content_id": 668051,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Corinthiens 15.25",
           "language": "fra"
         }
@@ -511,6 +516,7 @@
         {
           "reference_id": 12387,
           "content_id": 150469,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 2.6-8",
           "language": "fra"
         }
@@ -538,6 +544,7 @@
         {
           "reference_id": 12387,
           "content_id": 150469,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 2.6-8",
           "language": "fra"
         }
@@ -1125,6 +1132,7 @@
         {
           "reference_id": 12420,
           "content_id": 150502,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 4.4",
           "language": "fra"
         }
@@ -1232,6 +1240,7 @@
         {
           "reference_id": 10270,
           "content_id": 147978,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 17.9",
           "language": "fra"
         }
@@ -1839,6 +1848,7 @@
         {
           "reference_id": 12278,
           "content_id": 150360,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 10.32",
           "language": "fra"
         }
@@ -1946,6 +1956,7 @@
         {
           "reference_id": 12383,
           "content_id": 150465,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 2.3",
           "language": "fra"
         }
@@ -2173,6 +2184,7 @@
         {
           "reference_id": 11493,
           "content_id": 147318,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genèse 14.18",
           "language": "fra"
         }
@@ -2380,6 +2392,7 @@
         {
           "reference_id": 12441,
           "content_id": 150523,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 5.9",
           "language": "fra"
         }
@@ -2827,6 +2840,7 @@
         {
           "reference_id": 12497,
           "content_id": 150579,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 8.7",
           "language": "fra"
         }
@@ -3174,6 +3188,7 @@
         {
           "reference_id": 12494,
           "content_id": 150576,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 8.5",
           "language": "fra"
         }
@@ -3401,12 +3416,14 @@
         {
           "reference_id": 12494,
           "content_id": 150576,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 8.5",
           "language": "fra"
         },
         {
           "reference_id": 12507,
           "content_id": 150589,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 9.14",
           "language": "fra"
         }
@@ -3494,6 +3511,7 @@
         {
           "reference_id": 11368,
           "content_id": 667880,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Galates 5.5",
           "language": "fra"
         }
@@ -3721,12 +3739,14 @@
         {
           "reference_id": 12465,
           "content_id": 150547,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 7.11",
           "language": "fra"
         },
         {
           "reference_id": 12478,
           "content_id": 150560,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 7.28",
           "language": "fra"
         }
@@ -3794,6 +3814,7 @@
         {
           "reference_id": 12520,
           "content_id": 150602,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 9.3",
           "language": "fra"
         }
@@ -3961,6 +3982,7 @@
         {
           "reference_id": 21849,
           "content_id": 204280,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Nombres 15.30-31",
           "language": "fra"
         }
@@ -4008,6 +4030,7 @@
         {
           "reference_id": 12507,
           "content_id": 150589,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 9.14",
           "language": "fra"
         }
@@ -4175,6 +4198,7 @@
         {
           "reference_id": 12461,
           "content_id": 150543,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 6.9",
           "language": "fra"
         }
@@ -4902,12 +4926,14 @@
         {
           "reference_id": 12441,
           "content_id": 150523,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 5.9",
           "language": "fra"
         },
         {
           "reference_id": 12465,
           "content_id": 150547,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 7.11",
           "language": "fra"
         }
@@ -5075,6 +5101,7 @@
         {
           "reference_id": 12507,
           "content_id": 150589,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 9.14",
           "language": "fra"
         }
@@ -5282,6 +5309,7 @@
         {
           "reference_id": 12494,
           "content_id": 150576,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 8.5",
           "language": "fra"
         }
@@ -5349,6 +5377,7 @@
         {
           "reference_id": 12507,
           "content_id": 150589,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 9.14",
           "language": "fra"
         }
@@ -5436,12 +5465,14 @@
         {
           "reference_id": 12375,
           "content_id": 150457,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 2.11",
           "language": "fra"
         },
         {
           "reference_id": 12401,
           "content_id": 150483,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 3.1",
           "language": "fra"
         }
@@ -5869,6 +5900,7 @@
         {
           "reference_id": 203514,
           "content_id": 668972,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Timothée",
           "language": "fra"
         }

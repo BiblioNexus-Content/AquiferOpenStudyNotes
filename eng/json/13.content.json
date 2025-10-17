@@ -280,6 +280,7 @@
         {
           "reference_id": 203153,
           "content_id": 500210,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Complete Destruction",
           "language": "eng"
         }
@@ -307,6 +308,7 @@
         {
           "reference_id": 12796,
           "content_id": 13628,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chronicles 4:13-15",
           "language": "eng"
         }
@@ -374,6 +376,7 @@
         {
           "reference_id": 12767,
           "content_id": 13599,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chronicles 27:18",
           "language": "eng"
         }
@@ -801,6 +804,7 @@
         {
           "reference_id": 203153,
           "content_id": 500210,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Complete Destruction",
           "language": "eng"
         }
@@ -1468,6 +1472,7 @@
         {
           "reference_id": 14274,
           "content_id": 15106,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 4:4",
           "language": "eng"
         }
@@ -1495,6 +1500,7 @@
         {
           "reference_id": 14620,
           "content_id": 15452,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Kings 14:19-20",
           "language": "eng"
         }
@@ -1562,6 +1568,7 @@
         {
           "reference_id": 10402,
           "content_id": 11234,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 27:21",
           "language": "eng"
         }
@@ -2349,18 +2356,21 @@
         {
           "reference_id": 18550,
           "content_id": 19382,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 13:2",
           "language": "eng"
         },
         {
           "reference_id": 18621,
           "content_id": 19453,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 19:43",
           "language": "eng"
         },
         {
           "reference_id": 19055,
           "content_id": 19887,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Judges 3:3",
           "language": "eng"
         }
@@ -2608,6 +2618,7 @@
         {
           "reference_id": 14235,
           "content_id": 15067,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 24:1",
           "language": "eng"
         }
@@ -3595,6 +3606,7 @@
         {
           "reference_id": 12840,
           "content_id": 13672,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chronicles 9:1",
           "language": "eng"
         }

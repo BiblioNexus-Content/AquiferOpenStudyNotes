@@ -1560,6 +1560,7 @@
         {
           "reference_id": 203223,
           "content_id": 500280,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Anger",
           "language": "eng"
         }
@@ -2727,6 +2728,7 @@
         {
           "reference_id": 203198,
           "content_id": 500255,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Life After Death",
           "language": "eng"
         }

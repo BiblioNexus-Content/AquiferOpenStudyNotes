@@ -140,6 +140,7 @@
         {
           "reference_id": 10164,
           "content_id": 147886,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 1.8-10",
           "language": "fra"
         }
@@ -227,6 +228,7 @@
         {
           "reference_id": 10195,
           "content_id": 147906,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 12.37",
           "language": "fra"
         }
@@ -354,6 +356,7 @@
         {
           "reference_id": 10288,
           "content_id": 147996,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 2.10",
           "language": "fra"
         }
@@ -781,6 +784,7 @@
         {
           "reference_id": 203122,
           "content_id": 708413,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "pur, impur, et saint",
           "language": "fra"
         }
@@ -948,6 +952,7 @@
         {
           "reference_id": 10577,
           "content_id": 148285,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 6.2-3",
           "language": "fra"
         }
@@ -1015,6 +1020,7 @@
         {
           "reference_id": 10456,
           "content_id": 148164,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.8",
           "language": "fra"
         }
@@ -1042,6 +1048,7 @@
         {
           "reference_id": 10155,
           "content_id": 147877,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 1.15",
           "language": "fra"
         }
@@ -1069,6 +1076,7 @@
         {
           "reference_id": 203111,
           "content_id": 734177,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "L'endurcissement du cœur",
           "language": "fra"
         }
@@ -1436,6 +1444,7 @@
         {
           "reference_id": 10447,
           "content_id": 148155,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.18",
           "language": "fra"
         }
@@ -1863,6 +1872,7 @@
         {
           "reference_id": 10563,
           "content_id": 148271,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 5.22-23",
           "language": "fra"
         }
@@ -2030,6 +2040,7 @@
         {
           "reference_id": 203111,
           "content_id": 734177,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "L'endurcissement du cœur",
           "language": "fra"
         }
@@ -2217,6 +2228,7 @@
         {
           "reference_id": 10583,
           "content_id": 148291,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 7.11",
           "language": "fra"
         }
@@ -2504,6 +2516,7 @@
         {
           "reference_id": 10604,
           "content_id": 148312,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 9.1-7",
           "language": "fra"
         }
@@ -2711,6 +2724,7 @@
         {
           "reference_id": 10604,
           "content_id": 148312,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 9.1-7",
           "language": "fra"
         }
@@ -2758,6 +2772,7 @@
         {
           "reference_id": 10600,
           "content_id": 148308,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 8.26-27",
           "language": "fra"
         }
@@ -3105,6 +3120,7 @@
         {
           "reference_id": 23793,
           "content_id": 698768,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psaumes 51.7",
           "language": "fra"
         }
@@ -3612,6 +3628,7 @@
         {
           "reference_id": 10210,
           "content_id": 147918,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 13.18",
           "language": "fra"
         }
@@ -3699,6 +3716,7 @@
         {
           "reference_id": 10223,
           "content_id": 147931,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 14.2",
           "language": "fra"
         }
@@ -3966,6 +3984,7 @@
         {
           "reference_id": 10445,
           "content_id": 148153,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.15",
           "language": "fra"
         }
@@ -4073,6 +4092,7 @@
         {
           "reference_id": 10453,
           "content_id": 148161,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.5",
           "language": "fra"
         }
@@ -4440,6 +4460,7 @@
         {
           "reference_id": 10258,
           "content_id": 147966,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 16.4-5",
           "language": "fra"
         }
@@ -4567,6 +4588,7 @@
         {
           "reference_id": 10257,
           "content_id": 147965,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 16.3",
           "language": "fra"
         }
@@ -4594,6 +4616,7 @@
         {
           "reference_id": 10449,
           "content_id": 148157,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.1",
           "language": "fra"
         }
@@ -4661,6 +4684,7 @@
         {
           "reference_id": 12424,
           "content_id": 150506,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hébreux 4.8",
           "language": "fra"
         }
@@ -5268,6 +5292,7 @@
         {
           "reference_id": 10443,
           "content_id": 148151,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.13-22",
           "language": "fra"
         }
@@ -5675,6 +5700,7 @@
         {
           "reference_id": 22133,
           "content_id": 204564,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Nombres 35.6-34",
           "language": "fra"
         }
@@ -5722,6 +5748,7 @@
         {
           "reference_id": 19400,
           "content_id": 158837,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 20.9",
           "language": "fra"
         }
@@ -5829,6 +5856,7 @@
         {
           "reference_id": 10327,
           "content_id": 148035,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 21.1-23.19",
           "language": "fra"
         }
@@ -5876,6 +5904,7 @@
         {
           "reference_id": 203127,
           "content_id": 708417,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Dévouer par interdit",
           "language": "fra"
         }
@@ -6063,6 +6092,7 @@
         {
           "reference_id": 10325,
           "content_id": 148033,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 20.8-11",
           "language": "fra"
         }
@@ -6150,6 +6180,7 @@
         {
           "reference_id": 19384,
           "content_id": 158821,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 2.11",
           "language": "fra"
         }
@@ -6537,6 +6568,7 @@
         {
           "reference_id": 10451,
           "content_id": 148159,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.2",
           "language": "fra"
         }
@@ -6584,6 +6616,7 @@
         {
           "reference_id": 10556,
           "content_id": 148264,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 40.2",
           "language": "fra"
         }
@@ -6631,6 +6664,7 @@
         {
           "reference_id": 10453,
           "content_id": 148161,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.5",
           "language": "fra"
         }
@@ -6758,6 +6792,7 @@
         {
           "reference_id": 19329,
           "content_id": 158766,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 16.2",
           "language": "fra"
         }
@@ -7185,6 +7220,7 @@
         {
           "reference_id": 10556,
           "content_id": 148264,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 40.2",
           "language": "fra"
         }
@@ -7892,6 +7928,7 @@
         {
           "reference_id": 10457,
           "content_id": 148165,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 30.1-10",
           "language": "fra"
         }
@@ -7919,6 +7956,7 @@
         {
           "reference_id": 10453,
           "content_id": 148161,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.5",
           "language": "fra"
         }
@@ -8046,6 +8084,7 @@
         {
           "reference_id": 10325,
           "content_id": 148033,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 20.8-11",
           "language": "fra"
         }
@@ -8593,6 +8632,7 @@
         {
           "reference_id": 10456,
           "content_id": 148164,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.8",
           "language": "fra"
         }
@@ -8620,12 +8660,14 @@
         {
           "reference_id": 10357,
           "content_id": 148065,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 23.20-33",
           "language": "fra"
         },
         {
           "reference_id": 10373,
           "content_id": 148081,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 24.7",
           "language": "fra"
         }
@@ -8673,6 +8715,7 @@
         {
           "reference_id": 10402,
           "content_id": 148110,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 27.21",
           "language": "fra"
         }
@@ -8880,6 +8923,7 @@
         {
           "reference_id": 10259,
           "content_id": 147967,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 16.7",
           "language": "fra"
         }
@@ -9027,6 +9071,7 @@
         {
           "reference_id": 10323,
           "content_id": 148031,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 20.5-6",
           "language": "fra"
         }
@@ -9054,6 +9099,7 @@
         {
           "reference_id": 10323,
           "content_id": 148031,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 20.5-6",
           "language": "fra"
         }
@@ -9141,6 +9187,7 @@
         {
           "reference_id": 10305,
           "content_id": 148013,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 20.1-23.33",
           "language": "fra"
         }
@@ -9208,18 +9255,21 @@
         {
           "reference_id": 10353,
           "content_id": 148061,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 23.16",
           "language": "fra"
         },
         {
           "reference_id": 19422,
           "content_id": 158859,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 23.15-21",
           "language": "fra"
         },
         {
           "reference_id": 19428,
           "content_id": 158865,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 23.34-43",
           "language": "fra"
         }
@@ -9367,6 +9417,7 @@
         {
           "reference_id": 10479,
           "content_id": 148187,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 32.2-4",
           "language": "fra"
         }
@@ -9494,6 +9545,7 @@
         {
           "reference_id": 10195,
           "content_id": 147906,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 12.37",
           "language": "fra"
         }
@@ -9641,6 +9693,7 @@
         {
           "reference_id": 10530,
           "content_id": 148238,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 37.1-29",
           "language": "fra"
         }

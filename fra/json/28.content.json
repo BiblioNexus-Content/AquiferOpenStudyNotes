@@ -1120,6 +1120,7 @@
         {
           "reference_id": 203269,
           "content_id": 734219,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Connaître Dieu",
           "language": "fra"
         }
@@ -1547,6 +1548,7 @@
         {
           "reference_id": 12607,
           "content_id": 735482,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Osée 4.10",
           "language": "fra"
         }
@@ -2114,6 +2116,7 @@
         {
           "reference_id": 21318,
           "content_id": 33172,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthieu 4.1-11",
           "language": "fra"
         }
@@ -2241,6 +2244,7 @@
         {
           "reference_id": 203121,
           "content_id": 734179,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "La sainteté infinie de Dieu",
           "language": "fra"
         }
@@ -2308,6 +2312,7 @@
         {
           "reference_id": 17795,
           "content_id": 149276,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 38.24-27",
           "language": "fra"
         }
@@ -2695,6 +2700,7 @@
         {
           "reference_id": 17871,
           "content_id": 149352,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 7.9",
           "language": "fra"
         }

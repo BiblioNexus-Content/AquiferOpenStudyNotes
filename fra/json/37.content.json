@@ -460,6 +460,7 @@
         {
           "reference_id": 203122,
           "content_id": 708413,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "pur, impur, et saint",
           "language": "fra"
         }
@@ -527,6 +528,7 @@
         {
           "reference_id": 12218,
           "content_id": 735377,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Aggée 1.5",
           "language": "fra"
         }
@@ -674,6 +676,7 @@
         {
           "reference_id": 12234,
           "content_id": 735393,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Aggée 2.21",
           "language": "fra"
         }

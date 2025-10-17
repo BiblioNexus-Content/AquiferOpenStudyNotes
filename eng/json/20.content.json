@@ -2640,6 +2640,7 @@
         {
           "reference_id": 22347,
           "content_id": 23179,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbs 1:7",
           "language": "eng"
         }
@@ -5347,6 +5348,7 @@
         {
           "reference_id": 203225,
           "content_id": 500282,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Bribery and Gifts",
           "language": "eng"
         }
@@ -5694,12 +5696,14 @@
         {
           "reference_id": 22338,
           "content_id": 23170,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbs 1:22",
           "language": "eng"
         },
         {
           "reference_id": 22533,
           "content_id": 23365,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbs 21:11",
           "language": "eng"
         }
@@ -6487,6 +6491,7 @@
         {
           "reference_id": 22338,
           "content_id": 23170,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbs 1:22",
           "language": "eng"
         }
@@ -8574,6 +8579,7 @@
         {
           "reference_id": 22421,
           "content_id": 23253,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbs 15:11",
           "language": "eng"
         }
@@ -9501,6 +9507,7 @@
         {
           "reference_id": 22710,
           "content_id": 23542,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbs 30:1",
           "language": "eng"
         }

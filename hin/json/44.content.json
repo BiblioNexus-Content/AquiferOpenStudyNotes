@@ -20,6 +20,7 @@
         {
           "reference_id": 19603,
           "content_id": 123021,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:3",
           "language": "hin"
         }
@@ -87,6 +88,7 @@
         {
           "reference_id": 203323,
           "content_id": 709552,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "बपतिस्मा",
           "language": "hin"
         }
@@ -194,6 +196,7 @@
         {
           "reference_id": 8455,
           "content_id": 159207,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 1:3",
           "language": "hin"
         }
@@ -421,6 +424,7 @@
         {
           "reference_id": 8617,
           "content_id": 159369,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 2:1-4",
           "language": "hin"
         }
@@ -468,6 +472,7 @@
         {
           "reference_id": 8511,
           "content_id": 159263,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 13:43",
           "language": "hin"
         }
@@ -555,6 +560,7 @@
         {
           "reference_id": 20860,
           "content_id": 122402,
+          "resource_code": "TyndaleStudyNotes",
           "label": "मत्ती 11:23",
           "language": "hin"
         }
@@ -622,6 +628,7 @@
         {
           "reference_id": 203323,
           "content_id": 709552,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "बपतिस्मा",
           "language": "hin"
         }
@@ -909,6 +916,7 @@
         {
           "reference_id": 203481,
           "content_id": 654282,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "सदूकी लोग",
           "language": "hin"
         }
@@ -956,6 +964,7 @@
         {
           "reference_id": 20939,
           "content_id": 122481,
+          "resource_code": "TyndaleStudyNotes",
           "label": "मत्ती 14:21",
           "language": "hin"
         }
@@ -1303,6 +1312,7 @@
         {
           "reference_id": 8772,
           "content_id": 159524,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 4:19-20",
           "language": "hin"
         }
@@ -1530,6 +1540,7 @@
         {
           "reference_id": 203330,
           "content_id": 709559,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "नए नियम में खतना",
           "language": "hin"
         }
@@ -1797,6 +1808,7 @@
         {
           "reference_id": 8758,
           "content_id": 159510,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 3:1-11",
           "language": "hin"
         }
@@ -2024,6 +2036,7 @@
         {
           "reference_id": 203328,
           "content_id": 709557,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "दर्शन",
           "language": "hin"
         }
@@ -2671,6 +2684,7 @@
         {
           "reference_id": 203333,
           "content_id": 709562,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "भविष्यद्वाणी का वरदान",
           "language": "hin"
         }
@@ -2838,6 +2852,7 @@
         {
           "reference_id": 203334,
           "content_id": 709563,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "स्वर्गदूत  ",
           "language": "hin"
         }
@@ -2945,6 +2960,7 @@
         {
           "reference_id": 203333,
           "content_id": 709562,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "भविष्यद्वाणी का वरदान",
           "language": "hin"
         }
@@ -3032,18 +3048,21 @@
         {
           "reference_id": 8464,
           "content_id": 159216,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 10:2",
           "language": "hin"
         },
         {
           "reference_id": 8511,
           "content_id": 159263,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 13:43",
           "language": "hin"
         },
         {
           "reference_id": 8830,
           "content_id": 159582,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 9:2",
           "language": "hin"
         }
@@ -3191,6 +3210,7 @@
         {
           "reference_id": 8543,
           "content_id": 159295,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 15:36-41",
           "language": "hin"
         }
@@ -3218,6 +3238,7 @@
         {
           "reference_id": 8830,
           "content_id": 159582,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 9:2",
           "language": "hin"
         }
@@ -3765,6 +3786,7 @@
         {
           "reference_id": 203370,
           "content_id": 709599,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "कलीसिया के अगुवें ",
           "language": "hin"
         }
@@ -3972,6 +3994,7 @@
         {
           "reference_id": 19335,
           "content_id": 654420,
+          "resource_code": "TyndaleStudyNotes",
           "label": "लैव्यव्यवस्था 17:11",
           "language": "hin"
         }
@@ -4199,6 +4222,7 @@
         {
           "reference_id": 203328,
           "content_id": 709557,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "दर्शन",
           "language": "hin"
         }
@@ -4566,6 +4590,7 @@
         {
           "reference_id": 8830,
           "content_id": 159582,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 9:2",
           "language": "hin"
         }
@@ -4613,6 +4638,7 @@
         {
           "reference_id": 8464,
           "content_id": 159216,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 10:2",
           "language": "hin"
         }
@@ -4860,6 +4886,7 @@
         {
           "reference_id": 8569,
           "content_id": 159321,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 16:8",
           "language": "hin"
         }
@@ -4947,6 +4974,7 @@
         {
           "reference_id": 8464,
           "content_id": 159216,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 10:2",
           "language": "hin"
         }
@@ -5314,6 +5342,7 @@
         {
           "reference_id": 8569,
           "content_id": 159321,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 16:8",
           "language": "hin"
         }
@@ -5341,6 +5370,7 @@
         {
           "reference_id": 8830,
           "content_id": 159582,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 9:2",
           "language": "hin"
         }
@@ -5548,6 +5578,7 @@
         {
           "reference_id": 8591,
           "content_id": 159343,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 18:1",
           "language": "hin"
         }
@@ -5595,6 +5626,7 @@
         {
           "reference_id": 8549,
           "content_id": 159301,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 16:10",
           "language": "hin"
         }
@@ -5662,6 +5694,7 @@
         {
           "reference_id": 8617,
           "content_id": 159369,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 2:1-4",
           "language": "hin"
         }
@@ -5869,12 +5902,14 @@
         {
           "reference_id": 8549,
           "content_id": 159301,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 16:10",
           "language": "hin"
         },
         {
           "reference_id": 8644,
           "content_id": 159396,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 20:5-15",
           "language": "hin"
         }
@@ -5922,6 +5957,7 @@
         {
           "reference_id": 8648,
           "content_id": 159400,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 21:11-14",
           "language": "hin"
         }
@@ -6009,12 +6045,14 @@
         {
           "reference_id": 8581,
           "content_id": 159333,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 17:34",
           "language": "hin"
         },
         {
           "reference_id": 203256,
           "content_id": 709485,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "नबूबतीय चिन्हात्मक कार्य",
           "language": "hin"
         }
@@ -6042,6 +6080,7 @@
         {
           "reference_id": 8659,
           "content_id": 159411,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 21:4-6",
           "language": "hin"
         }
@@ -6249,6 +6288,7 @@
         {
           "reference_id": 8791,
           "content_id": 159543,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 5:34",
           "language": "hin"
         }
@@ -6276,6 +6316,7 @@
         {
           "reference_id": 8825,
           "content_id": 159577,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 9:17",
           "language": "hin"
         }
@@ -6323,6 +6364,7 @@
         {
           "reference_id": 203323,
           "content_id": 709552,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "बपतिस्मा",
           "language": "hin"
         }
@@ -6650,6 +6692,7 @@
         {
           "reference_id": 8541,
           "content_id": 159293,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 15:29",
           "language": "hin"
         }
@@ -6777,6 +6820,7 @@
         {
           "reference_id": 8654,
           "content_id": 159406,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 21:28-29",
           "language": "hin"
         }
@@ -6824,6 +6868,7 @@
         {
           "reference_id": 8830,
           "content_id": 159582,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 9:2",
           "language": "hin"
         }
@@ -6891,6 +6936,7 @@
         {
           "reference_id": 8631,
           "content_id": 159383,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 20:1-2",
           "language": "hin"
         }
@@ -6978,12 +7024,14 @@
         {
           "reference_id": 8677,
           "content_id": 159429,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 23:24",
           "language": "hin"
         },
         {
           "reference_id": 8695,
           "content_id": 159447,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 24:24",
           "language": "hin"
         }
@@ -7451,6 +7499,7 @@
         {
           "reference_id": 8460,
           "content_id": 159212,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 10:1-8",
           "language": "hin"
         }
@@ -7838,6 +7887,7 @@
         {
           "reference_id": 8561,
           "content_id": 159313,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 16:27",
           "language": "hin"
         }
@@ -7965,6 +8015,7 @@
         {
           "reference_id": 8721,
           "content_id": 159473,
+          "resource_code": "TyndaleStudyNotes",
           "label": "प्रेरितों के काम 27:1-28.16",
           "language": "hin"
         }

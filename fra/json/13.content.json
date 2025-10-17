@@ -280,6 +280,7 @@
         {
           "reference_id": 203153,
           "content_id": 708423,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Destruction complète",
           "language": "fra"
         }
@@ -307,6 +308,7 @@
         {
           "reference_id": 12796,
           "content_id": 719674,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chroniques 4.13-15",
           "language": "fra"
         }
@@ -374,6 +376,7 @@
         {
           "reference_id": 12767,
           "content_id": 719645,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chroniques 27.18",
           "language": "fra"
         }
@@ -801,6 +804,7 @@
         {
           "reference_id": 203153,
           "content_id": 708423,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Destruction complète",
           "language": "fra"
         }
@@ -1468,6 +1472,7 @@
         {
           "reference_id": 14274,
           "content_id": 154644,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 4.4",
           "language": "fra"
         }
@@ -1495,6 +1500,7 @@
         {
           "reference_id": 14620,
           "content_id": 720079,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Rois 14.19-20",
           "language": "fra"
         }
@@ -1562,6 +1568,7 @@
         {
           "reference_id": 10402,
           "content_id": 148110,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 27.21",
           "language": "fra"
         }
@@ -2329,18 +2336,21 @@
         {
           "reference_id": 18550,
           "content_id": 721714,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 13.2",
           "language": "fra"
         },
         {
           "reference_id": 18621,
           "content_id": 721785,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 19.43",
           "language": "fra"
         },
         {
           "reference_id": 19055,
           "content_id": 722196,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Juges 3.3",
           "language": "fra"
         }
@@ -2588,6 +2598,7 @@
         {
           "reference_id": 14235,
           "content_id": 154605,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 24.1",
           "language": "fra"
         }
@@ -3575,6 +3586,7 @@
         {
           "reference_id": 12840,
           "content_id": 719718,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chroniques 9.1",
           "language": "fra"
         }

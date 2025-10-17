@@ -380,6 +380,7 @@
         {
           "reference_id": 16215,
           "content_id": 17047,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 25:43",
           "language": "eng"
         }
@@ -447,6 +448,7 @@
         {
           "reference_id": 16150,
           "content_id": 16982,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 20:25",
           "language": "eng"
         }
@@ -694,6 +696,7 @@
         {
           "reference_id": 14304,
           "content_id": 15136,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 6:15",
           "language": "eng"
         }
@@ -1121,6 +1124,7 @@
         {
           "reference_id": 14254,
           "content_id": 15086,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 3:21",
           "language": "eng"
         }
@@ -1328,6 +1332,7 @@
         {
           "reference_id": 14260,
           "content_id": 15092,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 3:31",
           "language": "eng"
         }
@@ -1415,6 +1420,7 @@
         {
           "reference_id": 14170,
           "content_id": 15002,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 2:8",
           "language": "eng"
         }
@@ -1602,6 +1608,7 @@
         {
           "reference_id": 14160,
           "content_id": 14992,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 2:1",
           "language": "eng"
         }
@@ -1689,6 +1696,7 @@
         {
           "reference_id": 14274,
           "content_id": 15106,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 4:4",
           "language": "eng"
         }
@@ -1716,6 +1724,7 @@
         {
           "reference_id": 14868,
           "content_id": 15700,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Kings 9:15",
           "language": "eng"
         }
@@ -2183,6 +2192,7 @@
         {
           "reference_id": 14306,
           "content_id": 15138,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 6:17",
           "language": "eng"
         }
@@ -2210,6 +2220,7 @@
         {
           "reference_id": 14309,
           "content_id": 15141,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 6:21",
           "language": "eng"
         }
@@ -2477,18 +2488,21 @@
         {
           "reference_id": 9755,
           "content_id": 10587,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 8:2",
           "language": "eng"
         },
         {
           "reference_id": 10422,
           "content_id": 11254,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 29:18",
           "language": "eng"
         },
         {
           "reference_id": 13234,
           "content_id": 14066,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chronicles 2:5-6",
           "language": "eng"
         }
@@ -3136,6 +3150,7 @@
         {
           "reference_id": 14182,
           "content_id": 15014,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 20:26",
           "language": "eng"
         }
@@ -3543,12 +3558,14 @@
         {
           "reference_id": 14012,
           "content_id": 14844,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 10:1",
           "language": "eng"
         },
         {
           "reference_id": 14351,
           "content_id": 15183,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 8:3",
           "language": "eng"
         }
@@ -3816,6 +3833,7 @@
         {
           "reference_id": 14025,
           "content_id": 14857,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 11:3",
           "language": "eng"
         }
@@ -4243,6 +4261,7 @@
         {
           "reference_id": 14057,
           "content_id": 14889,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 13:2",
           "language": "eng"
         }
@@ -4370,6 +4389,7 @@
         {
           "reference_id": 14050,
           "content_id": 14882,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 13:16",
           "language": "eng"
         }
@@ -4617,6 +4637,7 @@
         {
           "reference_id": 14061,
           "content_id": 14893,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 13:39",
           "language": "eng"
         }
@@ -4884,6 +4905,7 @@
         {
           "reference_id": 14078,
           "content_id": 14910,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 15:1-19",
           "language": "eng"
         }
@@ -4911,12 +4933,14 @@
         {
           "reference_id": 14059,
           "content_id": 14891,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 13:34-39",
           "language": "eng"
         },
         {
           "reference_id": 14060,
           "content_id": 14892,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 13:37",
           "language": "eng"
         }
@@ -4984,6 +5008,7 @@
         {
           "reference_id": 14349,
           "content_id": 15181,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 8:18",
           "language": "eng"
         }
@@ -5171,6 +5196,7 @@
         {
           "reference_id": 14358,
           "content_id": 15190,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 9:11",
           "language": "eng"
         }
@@ -5258,12 +5284,14 @@
         {
           "reference_id": 13996,
           "content_id": 14828,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 1:15-16",
           "language": "eng"
         },
         {
           "reference_id": 14005,
           "content_id": 14837,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 1:4",
           "language": "eng"
         }
@@ -5631,6 +5659,7 @@
         {
           "reference_id": 14009,
           "content_id": 14841,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 10:1-5",
           "language": "eng"
         }
@@ -5838,6 +5867,7 @@
         {
           "reference_id": 14073,
           "content_id": 14905,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 14:27",
           "language": "eng"
         }
@@ -5865,6 +5895,7 @@
         {
           "reference_id": 14085,
           "content_id": 14917,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 15:24",
           "language": "eng"
         }
@@ -6012,6 +6043,7 @@
         {
           "reference_id": 14149,
           "content_id": 14981,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 19:41-43",
           "language": "eng"
         }
@@ -6059,6 +6091,7 @@
         {
           "reference_id": 14148,
           "content_id": 14980,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 19:40",
           "language": "eng"
         }
@@ -6126,12 +6159,14 @@
         {
           "reference_id": 8916,
           "content_id": 9748,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Amos 5:6",
           "language": "eng"
         },
         {
           "reference_id": 25165,
           "content_id": 25997,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Zechariah 10:6",
           "language": "eng"
         }
@@ -6159,18 +6194,21 @@
         {
           "reference_id": 14107,
           "content_id": 14939,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 16:9",
           "language": "eng"
         },
         {
           "reference_id": 14115,
           "content_id": 14947,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 17:25",
           "language": "eng"
         },
         {
           "reference_id": 14159,
           "content_id": 14991,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 2:18",
           "language": "eng"
         }
@@ -6258,6 +6296,7 @@
         {
           "reference_id": 14068,
           "content_id": 14900,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 14:17",
           "language": "eng"
         }
@@ -6425,6 +6464,7 @@
         {
           "reference_id": 14311,
           "content_id": 15143,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 6:23",
           "language": "eng"
         }
@@ -6472,6 +6512,7 @@
         {
           "reference_id": 14349,
           "content_id": 15181,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 8:18",
           "language": "eng"
         }
@@ -6679,6 +6720,7 @@
         {
           "reference_id": 14349,
           "content_id": 15181,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 8:18",
           "language": "eng"
         }
@@ -6706,6 +6748,7 @@
         {
           "reference_id": 14349,
           "content_id": 15181,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 8:18",
           "language": "eng"
         }
@@ -6873,6 +6916,7 @@
         {
           "reference_id": 14200,
           "content_id": 15032,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 21:6",
           "language": "eng"
         }
@@ -7020,6 +7064,7 @@
         {
           "reference_id": 203437,
           "content_id": 500494,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Abishai",
           "language": "eng"
         }
@@ -7167,12 +7212,14 @@
         {
           "reference_id": 9315,
           "content_id": 10147,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:33",
           "language": "eng"
         },
         {
           "reference_id": 10279,
           "content_id": 11111,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 19:16-25",
           "language": "eng"
         }
@@ -7620,6 +7667,7 @@
         {
           "reference_id": 14240,
           "content_id": 15072,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 24:9",
           "language": "eng"
         }
@@ -7707,6 +7755,7 @@
         {
           "reference_id": 14235,
           "content_id": 15067,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 24:1",
           "language": "eng"
         }
@@ -7794,6 +7843,7 @@
         {
           "reference_id": 14342,
           "content_id": 15174,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 7:8",
           "language": "eng"
         }

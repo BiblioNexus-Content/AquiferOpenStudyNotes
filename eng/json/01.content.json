@@ -160,6 +160,7 @@
         {
           "reference_id": 12125,
           "content_id": 12957,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 7:11-12",
           "language": "eng"
         }
@@ -187,6 +188,7 @@
         {
           "reference_id": 11404,
           "content_id": 12236,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:2",
           "language": "eng"
         }
@@ -294,6 +296,7 @@
         {
           "reference_id": 203106,
           "content_id": 500163,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Blessing",
           "language": "eng"
         }
@@ -361,6 +364,7 @@
         {
           "reference_id": 11399,
           "content_id": 12231,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:22",
           "language": "eng"
         }
@@ -488,6 +492,7 @@
         {
           "reference_id": 11580,
           "content_id": 12412,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 2:4",
           "language": "eng"
         }
@@ -575,6 +580,7 @@
         {
           "reference_id": 11570,
           "content_id": 12402,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 2:15",
           "language": "eng"
         }
@@ -782,6 +788,7 @@
         {
           "reference_id": 11586,
           "content_id": 12418,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 2:9",
           "language": "eng"
         }
@@ -929,6 +936,7 @@
         {
           "reference_id": 11762,
           "content_id": 12594,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 3:14",
           "language": "eng"
         }
@@ -1036,6 +1044,7 @@
         {
           "reference_id": 11770,
           "content_id": 12602,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 3:21",
           "language": "eng"
         }
@@ -1083,6 +1092,7 @@
         {
           "reference_id": 11777,
           "content_id": 12609,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 3:8",
           "language": "eng"
         }
@@ -1230,6 +1240,7 @@
         {
           "reference_id": 11583,
           "content_id": 12415,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 2:7",
           "language": "eng"
         }
@@ -1257,6 +1268,7 @@
         {
           "reference_id": 11574,
           "content_id": 12406,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 2:19-20",
           "language": "eng"
         }
@@ -1324,6 +1336,7 @@
         {
           "reference_id": 11400,
           "content_id": 12232,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:26",
           "language": "eng"
         }
@@ -1471,6 +1484,7 @@
         {
           "reference_id": 11764,
           "content_id": 12596,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 3:16",
           "language": "eng"
         }
@@ -1538,6 +1552,7 @@
         {
           "reference_id": 11935,
           "content_id": 12767,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 4:11-12",
           "language": "eng"
         }
@@ -1625,6 +1640,7 @@
         {
           "reference_id": 11773,
           "content_id": 12605,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 3:24",
           "language": "eng"
         }
@@ -1732,6 +1748,7 @@
         {
           "reference_id": 11939,
           "content_id": 12771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 4:17-5.32",
           "language": "eng"
         }
@@ -1779,6 +1796,7 @@
         {
           "reference_id": 12086,
           "content_id": 12918,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 5:1-2",
           "language": "eng"
         }
@@ -1846,6 +1864,7 @@
         {
           "reference_id": 11400,
           "content_id": 12232,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:26",
           "language": "eng"
         }
@@ -1873,6 +1892,7 @@
         {
           "reference_id": 11580,
           "content_id": 12412,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 2:4",
           "language": "eng"
         }
@@ -1920,12 +1940,14 @@
         {
           "reference_id": 11401,
           "content_id": 12233,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:27",
           "language": "eng"
         },
         {
           "reference_id": 11402,
           "content_id": 12234,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:28",
           "language": "eng"
         }
@@ -1953,6 +1975,7 @@
         {
           "reference_id": 11400,
           "content_id": 12232,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:26",
           "language": "eng"
         }
@@ -2020,6 +2043,7 @@
         {
           "reference_id": 11939,
           "content_id": 12771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 4:17-5.32",
           "language": "eng"
         }
@@ -2087,6 +2111,7 @@
         {
           "reference_id": 12095,
           "content_id": 12927,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 5:5",
           "language": "eng"
         }
@@ -2234,6 +2259,7 @@
         {
           "reference_id": 11402,
           "content_id": 12234,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:28",
           "language": "eng"
         }
@@ -2281,6 +2307,7 @@
         {
           "reference_id": 11580,
           "content_id": 12412,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 2:4",
           "language": "eng"
         }
@@ -2388,12 +2415,14 @@
         {
           "reference_id": 11411,
           "content_id": 12243,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:9-10",
           "language": "eng"
         },
         {
           "reference_id": 12125,
           "content_id": 12957,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 7:11-12",
           "language": "eng"
         }
@@ -2501,6 +2530,7 @@
         {
           "reference_id": 12115,
           "content_id": 12947,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 6:17",
           "language": "eng"
         }
@@ -2528,6 +2558,7 @@
         {
           "reference_id": 12129,
           "content_id": 12961,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 7:2",
           "language": "eng"
         }
@@ -2555,6 +2586,7 @@
         {
           "reference_id": 12130,
           "content_id": 12962,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 7:4",
           "language": "eng"
         }
@@ -2582,6 +2614,7 @@
         {
           "reference_id": 12114,
           "content_id": 12946,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 6:16",
           "language": "eng"
         }
@@ -2629,6 +2662,7 @@
         {
           "reference_id": 12115,
           "content_id": 12947,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 6:17",
           "language": "eng"
         }
@@ -2676,6 +2710,7 @@
         {
           "reference_id": 12125,
           "content_id": 12957,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 7:11-12",
           "language": "eng"
         }
@@ -2723,6 +2758,7 @@
         {
           "reference_id": 12137,
           "content_id": 12969,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 8:1",
           "language": "eng"
         }
@@ -2990,6 +3026,7 @@
         {
           "reference_id": 203098,
           "content_id": 500155,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Retribution",
           "language": "eng"
         }
@@ -3177,6 +3214,7 @@
         {
           "reference_id": 11507,
           "content_id": 12339,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 15:16",
           "language": "eng"
         }
@@ -3224,6 +3262,7 @@
         {
           "reference_id": 12149,
           "content_id": 12981,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 9:18",
           "language": "eng"
         }
@@ -3331,12 +3370,14 @@
         {
           "reference_id": 11580,
           "content_id": 12412,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 2:4",
           "language": "eng"
         },
         {
           "reference_id": 12150,
           "content_id": 12982,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 9:1",
           "language": "eng"
         }
@@ -3424,6 +3465,7 @@
         {
           "reference_id": 18452,
           "content_id": 19284,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jonah 1:3",
           "language": "eng"
         }
@@ -3451,6 +3493,7 @@
         {
           "reference_id": 11412,
           "content_id": 12244,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 10:1-11.9",
           "language": "eng"
         }
@@ -3558,6 +3601,7 @@
         {
           "reference_id": 11448,
           "content_id": 12280,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 11:4",
           "language": "eng"
         }
@@ -3645,6 +3689,7 @@
         {
           "reference_id": 11422,
           "content_id": 12254,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 10:24",
           "language": "eng"
         }
@@ -3812,6 +3857,7 @@
         {
           "reference_id": 11412,
           "content_id": 12244,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 10:1-11.9",
           "language": "eng"
         }
@@ -3859,6 +3905,7 @@
         {
           "reference_id": 11773,
           "content_id": 12605,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 3:24",
           "language": "eng"
         }
@@ -3966,6 +4013,7 @@
         {
           "reference_id": 11400,
           "content_id": 12232,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:26",
           "language": "eng"
         }
@@ -4053,6 +4101,7 @@
         {
           "reference_id": 11423,
           "content_id": 12255,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 10:25",
           "language": "eng"
         }
@@ -4080,6 +4129,7 @@
         {
           "reference_id": 203399,
           "content_id": 500456,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Lot",
           "language": "eng"
         }
@@ -4127,6 +4177,7 @@
         {
           "reference_id": 11580,
           "content_id": 12412,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 2:4",
           "language": "eng"
         }
@@ -4214,12 +4265,14 @@
         {
           "reference_id": 11442,
           "content_id": 12274,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 11:28",
           "language": "eng"
         },
         {
           "reference_id": 11443,
           "content_id": 12275,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 11:29",
           "language": "eng"
         }
@@ -4267,6 +4320,7 @@
         {
           "reference_id": 11466,
           "content_id": 12298,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 12:2",
           "language": "eng"
         }
@@ -4314,6 +4368,7 @@
         {
           "reference_id": 11448,
           "content_id": 12280,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 11:4",
           "language": "eng"
         }
@@ -4361,6 +4416,7 @@
         {
           "reference_id": 11440,
           "content_id": 12272,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 11:27-32",
           "language": "eng"
         }
@@ -4388,6 +4444,7 @@
         {
           "reference_id": 11454,
           "content_id": 12286,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 12:1-3",
           "language": "eng"
         }
@@ -4595,6 +4652,7 @@
         {
           "reference_id": 11443,
           "content_id": 12275,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 11:29",
           "language": "eng"
         }
@@ -5062,6 +5120,7 @@
         {
           "reference_id": 11481,
           "content_id": 12313,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 13:18",
           "language": "eng"
         }
@@ -5089,6 +5148,7 @@
         {
           "reference_id": 18622,
           "content_id": 19454,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 19:47",
           "language": "eng"
         }
@@ -5216,6 +5276,7 @@
         {
           "reference_id": 11487,
           "content_id": 12319,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 14:1-2",
           "language": "eng"
         }
@@ -5643,6 +5704,7 @@
         {
           "reference_id": 11520,
           "content_id": 12352,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 16:14-15",
           "language": "eng"
         }
@@ -5950,6 +6012,7 @@
         {
           "reference_id": 11522,
           "content_id": 12354,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 16:7",
           "language": "eng"
         }
@@ -5997,6 +6060,7 @@
         {
           "reference_id": 11522,
           "content_id": 12354,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 16:7",
           "language": "eng"
         }
@@ -6184,6 +6248,7 @@
         {
           "reference_id": 11550,
           "content_id": 12382,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 19:14",
           "language": "eng"
         }
@@ -6551,6 +6616,7 @@
         {
           "reference_id": 11701,
           "content_id": 12533,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 26:1",
           "language": "eng"
         }
@@ -6678,6 +6744,7 @@
         {
           "reference_id": 11593,
           "content_id": 12425,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 20:3-7",
           "language": "eng"
         }
@@ -6725,6 +6792,7 @@
         {
           "reference_id": 11595,
           "content_id": 12427,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 20:4-5",
           "language": "eng"
         }
@@ -7092,6 +7160,7 @@
         {
           "reference_id": 11474,
           "content_id": 12306,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 12:8",
           "language": "eng"
         }
@@ -7319,12 +7388,14 @@
         {
           "reference_id": 10577,
           "content_id": 11409,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 6:2-3",
           "language": "eng"
         },
         {
           "reference_id": 11630,
           "content_id": 12462,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 22:2",
           "language": "eng"
         }
@@ -7512,6 +7583,7 @@
         {
           "reference_id": 11481,
           "content_id": 12313,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 13:18",
           "language": "eng"
         }
@@ -8019,6 +8091,7 @@
         {
           "reference_id": 11664,
           "content_id": 12496,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 24:54-56",
           "language": "eng"
         }
@@ -8486,6 +8559,7 @@
         {
           "reference_id": 11516,
           "content_id": 12348,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 16:1-3",
           "language": "eng"
         }
@@ -8513,6 +8587,7 @@
         {
           "reference_id": 11695,
           "content_id": 12527,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 25:7-8",
           "language": "eng"
         }
@@ -8680,12 +8755,14 @@
         {
           "reference_id": 11484,
           "content_id": 12316,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 13:8-13",
           "language": "eng"
         },
         {
           "reference_id": 11692,
           "content_id": 12524,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 25:33-34",
           "language": "eng"
         }
@@ -8713,6 +8790,7 @@
         {
           "reference_id": 11684,
           "content_id": 12516,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 25:25",
           "language": "eng"
         }
@@ -8880,6 +8958,7 @@
         {
           "reference_id": 11587,
           "content_id": 12419,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 20:1-18",
           "language": "eng"
         }
@@ -8967,6 +9046,7 @@
         {
           "reference_id": 11474,
           "content_id": 12306,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 12:8",
           "language": "eng"
         }
@@ -9214,6 +9294,7 @@
         {
           "reference_id": 11710,
           "content_id": 12542,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 27:1-4",
           "language": "eng"
         }
@@ -9301,6 +9382,7 @@
         {
           "reference_id": 11726,
           "content_id": 12558,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 27:5",
           "language": "eng"
         }
@@ -9428,6 +9510,7 @@
         {
           "reference_id": 11741,
           "content_id": 12573,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 29:1-31.55",
           "language": "eng"
         }
@@ -9535,6 +9618,7 @@
         {
           "reference_id": 11448,
           "content_id": 12280,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 11:4",
           "language": "eng"
         }
@@ -10382,6 +10466,7 @@
         {
           "reference_id": 11744,
           "content_id": 12576,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 29:14-30",
           "language": "eng"
         }
@@ -10529,12 +10614,14 @@
         {
           "reference_id": 11702,
           "content_id": 12534,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 26:2-5",
           "language": "eng"
         },
         {
           "reference_id": 11731,
           "content_id": 12563,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 28:12-15",
           "language": "eng"
         }
@@ -10682,6 +10769,7 @@
         {
           "reference_id": 11586,
           "content_id": 12418,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 2:9",
           "language": "eng"
         }
@@ -11149,6 +11237,7 @@
         {
           "reference_id": 11685,
           "content_id": 12517,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 25:26",
           "language": "eng"
         }
@@ -11856,6 +11945,7 @@
         {
           "reference_id": 11809,
           "content_id": 12641,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 31:32",
           "language": "eng"
         }
@@ -12183,6 +12273,7 @@
         {
           "reference_id": 11866,
           "content_id": 12698,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 35:20",
           "language": "eng"
         }
@@ -12650,6 +12741,7 @@
         {
           "reference_id": 11792,
           "content_id": 12624,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 30:34-36",
           "language": "eng"
         }
@@ -12857,12 +12949,14 @@
         {
           "reference_id": 11920,
           "content_id": 12752,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 38:27-30",
           "language": "eng"
         },
         {
           "reference_id": 11924,
           "content_id": 12756,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 38:8",
           "language": "eng"
         }
@@ -12910,6 +13004,7 @@
         {
           "reference_id": 11924,
           "content_id": 12756,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 38:8",
           "language": "eng"
         }
@@ -13077,12 +13172,14 @@
         {
           "reference_id": 11455,
           "content_id": 12287,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 12:1-9",
           "language": "eng"
         },
         {
           "reference_id": 11734,
           "content_id": 12566,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 28:16-22",
           "language": "eng"
         }
@@ -13170,6 +13267,7 @@
         {
           "reference_id": 11892,
           "content_id": 12724,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 37:2-50.26",
           "language": "eng"
         }
@@ -13597,6 +13695,7 @@
         {
           "reference_id": 11892,
           "content_id": 12724,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 37:2-50.26",
           "language": "eng"
         }
@@ -14004,12 +14103,14 @@
         {
           "reference_id": 11995,
           "content_id": 12827,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 42:37",
           "language": "eng"
         },
         {
           "reference_id": 12082,
           "content_id": 12914,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 49:3-4",
           "language": "eng"
         }
@@ -14077,6 +14178,7 @@
         {
           "reference_id": 11989,
           "content_id": 12821,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 42:24",
           "language": "eng"
         }
@@ -14284,6 +14386,7 @@
         {
           "reference_id": 11982,
           "content_id": 12814,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 42:1-44.34",
           "language": "eng"
         }
@@ -14791,6 +14894,7 @@
         {
           "reference_id": 11892,
           "content_id": 12724,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 37:2-50.26",
           "language": "eng"
         }
@@ -15018,6 +15122,7 @@
         {
           "reference_id": 11974,
           "content_id": 12806,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 41:45",
           "language": "eng"
         }
@@ -15065,12 +15170,14 @@
         {
           "reference_id": 11418,
           "content_id": 12250,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 10:2-32",
           "language": "eng"
         },
         {
           "reference_id": 203388,
           "content_id": 500445,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Symbolic Numbers",
           "language": "eng"
         }
@@ -15138,6 +15245,7 @@
         {
           "reference_id": 12063,
           "content_id": 12895,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 48:5-7",
           "language": "eng"
         }
@@ -15185,6 +15293,7 @@
         {
           "reference_id": 12025,
           "content_id": 12857,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 45:10",
           "language": "eng"
         }
@@ -15312,12 +15421,14 @@
         {
           "reference_id": 11658,
           "content_id": 12490,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 24:2",
           "language": "eng"
         },
         {
           "reference_id": 12081,
           "content_id": 12913,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 49:29-33",
           "language": "eng"
         }
@@ -15445,24 +15556,28 @@
         {
           "reference_id": 10932,
           "content_id": 11764,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 37:15-28",
           "language": "eng"
         },
         {
           "reference_id": 12630,
           "content_id": 13462,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hosea 6:4",
           "language": "eng"
         },
         {
           "reference_id": 15009,
           "content_id": 15841,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Isaiah 11:13",
           "language": "eng"
         },
         {
           "reference_id": 25301,
           "content_id": 26133,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Zechariah 9:10",
           "language": "eng"
         }
@@ -16210,12 +16325,14 @@
         {
           "reference_id": 11695,
           "content_id": 12527,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 25:7-8",
           "language": "eng"
         },
         {
           "reference_id": 11858,
           "content_id": 12690,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 35:1-29",
           "language": "eng"
         }

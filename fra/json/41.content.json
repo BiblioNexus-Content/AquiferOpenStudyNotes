@@ -20,6 +20,7 @@
         {
           "reference_id": 20359,
           "content_id": 27930,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 1.15",
           "language": "fra"
         }
@@ -367,6 +368,7 @@
         {
           "reference_id": 203296,
           "content_id": 734227,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Suivre Jésus",
           "language": "fra"
         }
@@ -434,12 +436,14 @@
         {
           "reference_id": 20356,
           "content_id": 27927,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 1.12-13",
           "language": "fra"
         },
         {
           "reference_id": 20627,
           "content_id": 28198,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 3.27",
           "language": "fra"
         }
@@ -927,6 +931,7 @@
         {
           "reference_id": 20620,
           "content_id": 28191,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 3.18",
           "language": "fra"
         }
@@ -1474,12 +1479,14 @@
         {
           "reference_id": 20368,
           "content_id": 27939,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 1.22",
           "language": "fra"
         },
         {
           "reference_id": 20834,
           "content_id": 124634,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthieu 10.25",
           "language": "fra"
         }
@@ -1547,6 +1554,7 @@
         {
           "reference_id": 20887,
           "content_id": 124683,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthieu 12.31",
           "language": "fra"
         }
@@ -2094,6 +2102,7 @@
         {
           "reference_id": 20659,
           "content_id": 28230,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 5.10-13",
           "language": "fra"
         }
@@ -2261,6 +2270,7 @@
         {
           "reference_id": 21331,
           "content_id": 125107,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthieu 4.24-25",
           "language": "fra"
         }
@@ -2628,6 +2638,7 @@
         {
           "reference_id": 20630,
           "content_id": 28201,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 3.31-35",
           "language": "fra"
         }
@@ -2995,6 +3006,7 @@
         {
           "reference_id": 20617,
           "content_id": 28188,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 3.14-15",
           "language": "fra"
         }
@@ -3602,6 +3614,7 @@
         {
           "reference_id": 24587,
           "content_id": 700014,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Apocalypse 22.15",
           "language": "fra"
         }
@@ -4129,6 +4142,7 @@
         {
           "reference_id": 20689,
           "content_id": 28260,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 6.14",
           "language": "fra"
         }
@@ -4836,6 +4850,7 @@
         {
           "reference_id": 20757,
           "content_id": 28328,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 8.27-9.1",
           "language": "fra"
         }
@@ -5083,6 +5098,7 @@
         {
           "reference_id": 20800,
           "content_id": 28371,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 9.43",
           "language": "fra"
         }
@@ -5250,6 +5266,7 @@
         {
           "reference_id": 19830,
           "content_id": 32067,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luc 18.15-17",
           "language": "fra"
         }
@@ -7497,6 +7514,7 @@
         {
           "reference_id": 20501,
           "content_id": 28072,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 13.28-31",
           "language": "fra"
         }
@@ -7964,6 +7982,7 @@
         {
           "reference_id": 18368,
           "content_id": 131581,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jean 6.53-58",
           "language": "fra"
         }
@@ -8391,6 +8410,7 @@
         {
           "reference_id": 20708,
           "content_id": 28279,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 6.49-50",
           "language": "fra"
         }
@@ -9038,6 +9058,7 @@
         {
           "reference_id": 20354,
           "content_id": 27925,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 1.10",
           "language": "fra"
         }

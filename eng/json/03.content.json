@@ -20,6 +20,7 @@
         {
           "reference_id": 10402,
           "content_id": 11234,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 27:21",
           "language": "eng"
         }
@@ -67,6 +68,7 @@
         {
           "reference_id": 20721,
           "content_id": 21553,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Mark 7:11-12",
           "language": "eng"
         }
@@ -374,6 +376,7 @@
         {
           "reference_id": 19384,
           "content_id": 20216,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 2:11",
           "language": "eng"
         }
@@ -481,12 +484,14 @@
         {
           "reference_id": 13191,
           "content_id": 14023,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chronicles 13:5",
           "language": "eng"
         },
         {
           "reference_id": 21885,
           "content_id": 22717,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Numbers 18:19",
           "language": "eng"
         }
@@ -634,6 +639,7 @@
         {
           "reference_id": 19245,
           "content_id": 20077,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 1:9",
           "language": "eng"
         }
@@ -681,6 +687,7 @@
         {
           "reference_id": 19242,
           "content_id": 20074,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 1:5",
           "language": "eng"
         }
@@ -728,12 +735,14 @@
         {
           "reference_id": 19525,
           "content_id": 20357,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 5:17-19",
           "language": "eng"
         },
         {
           "reference_id": 203119,
           "content_id": 500176,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Community Identity",
           "language": "eng"
         }
@@ -781,6 +790,7 @@
         {
           "reference_id": 19237,
           "content_id": 20069,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 1:1",
           "language": "eng"
         }
@@ -808,6 +818,7 @@
         {
           "reference_id": 10403,
           "content_id": 11235,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 27:2",
           "language": "eng"
         }
@@ -1135,6 +1146,7 @@
         {
           "reference_id": 19505,
           "content_id": 20337,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 4:1-5.13",
           "language": "eng"
         }
@@ -1222,18 +1234,21 @@
         {
           "reference_id": 19241,
           "content_id": 20073,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 1:4",
           "language": "eng"
         },
         {
           "reference_id": 19389,
           "content_id": 20221,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 2:3",
           "language": "eng"
         },
         {
           "reference_id": 19508,
           "content_id": 20340,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 4:20",
           "language": "eng"
         }
@@ -1381,12 +1396,14 @@
         {
           "reference_id": 19241,
           "content_id": 20073,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 1:4",
           "language": "eng"
         },
         {
           "reference_id": 19508,
           "content_id": 20340,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 4:20",
           "language": "eng"
         }
@@ -1514,12 +1531,14 @@
         {
           "reference_id": 19384,
           "content_id": 20216,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 2:11",
           "language": "eng"
         },
         {
           "reference_id": 19389,
           "content_id": 20221,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 2:3",
           "language": "eng"
         }
@@ -1547,6 +1566,7 @@
         {
           "reference_id": 19249,
           "content_id": 20081,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 10:13-15",
           "language": "eng"
         }
@@ -2134,6 +2154,7 @@
         {
           "reference_id": 19234,
           "content_id": 20066,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 1:10-13",
           "language": "eng"
         }
@@ -2221,6 +2242,7 @@
         {
           "reference_id": 19570,
           "content_id": 20402,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 8:2",
           "language": "eng"
         }
@@ -2308,6 +2330,7 @@
         {
           "reference_id": 19507,
           "content_id": 20339,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 4:15",
           "language": "eng"
         }
@@ -2395,6 +2418,7 @@
         {
           "reference_id": 19513,
           "content_id": 20345,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 4:25",
           "language": "eng"
         }
@@ -3042,6 +3066,7 @@
         {
           "reference_id": 19354,
           "content_id": 20186,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 18:2",
           "language": "eng"
         }
@@ -3089,12 +3114,14 @@
         {
           "reference_id": 19260,
           "content_id": 20092,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 11:1-15.33",
           "language": "eng"
         },
         {
           "reference_id": 19528,
           "content_id": 20360,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 5:3",
           "language": "eng"
         }
@@ -3202,6 +3229,7 @@
         {
           "reference_id": 19505,
           "content_id": 20337,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 4:1-5.13",
           "language": "eng"
         }
@@ -3229,6 +3257,7 @@
         {
           "reference_id": 19241,
           "content_id": 20073,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 1:4",
           "language": "eng"
         }
@@ -3276,6 +3305,7 @@
         {
           "reference_id": 19289,
           "content_id": 20121,
+          "resource_code": "Unknown",
           "label": "Leviticus 13:2",
           "language": "eng"
         }
@@ -3303,6 +3333,7 @@
         {
           "reference_id": 203122,
           "content_id": 500179,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Clean, Unclean, and Holy",
           "language": "eng"
         }
@@ -3710,6 +3741,7 @@
         {
           "reference_id": 19568,
           "content_id": 20400,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 8:23",
           "language": "eng"
         }
@@ -3777,6 +3809,7 @@
         {
           "reference_id": 19383,
           "content_id": 20215,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 2:1-16",
           "language": "eng"
         }
@@ -3824,6 +3857,7 @@
         {
           "reference_id": 19260,
           "content_id": 20092,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 11:1-15.33",
           "language": "eng"
         }
@@ -3891,6 +3925,7 @@
         {
           "reference_id": 19292,
           "content_id": 20124,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 13:3",
           "language": "eng"
         }
@@ -3938,12 +3973,14 @@
         {
           "reference_id": 19285,
           "content_id": 20117,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 13:1-46",
           "language": "eng"
         },
         {
           "reference_id": 203122,
           "content_id": 500179,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Clean, Unclean, and Holy",
           "language": "eng"
         }
@@ -4011,6 +4048,7 @@
         {
           "reference_id": 19315,
           "content_id": 20147,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 15:1-33",
           "language": "eng"
         }
@@ -4338,6 +4376,7 @@
         {
           "reference_id": 10453,
           "content_id": 11285,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 3:5",
           "language": "eng"
         }
@@ -4385,6 +4424,7 @@
         {
           "reference_id": 19554,
           "content_id": 20386,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 7:20-21",
           "language": "eng"
         }
@@ -4592,6 +4632,7 @@
         {
           "reference_id": 19395,
           "content_id": 20227,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 20:17",
           "language": "eng"
         }
@@ -4819,6 +4860,7 @@
         {
           "reference_id": 19350,
           "content_id": 20182,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 18:22",
           "language": "eng"
         }
@@ -4866,6 +4908,7 @@
         {
           "reference_id": 19352,
           "content_id": 20184,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 18:24-25",
           "language": "eng"
         }
@@ -4893,6 +4936,7 @@
         {
           "reference_id": 19272,
           "content_id": 20104,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 11:44-45",
           "language": "eng"
         }
@@ -4980,6 +5024,7 @@
         {
           "reference_id": 19349,
           "content_id": 20181,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 18:21",
           "language": "eng"
         }
@@ -5187,6 +5232,7 @@
         {
           "reference_id": 19555,
           "content_id": 20387,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 7:22-27",
           "language": "eng"
         }
@@ -5434,6 +5480,7 @@
         {
           "reference_id": 19348,
           "content_id": 20180,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 18:20",
           "language": "eng"
         }
@@ -5461,6 +5508,7 @@
         {
           "reference_id": 19357,
           "content_id": 20189,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 18:7-8",
           "language": "eng"
         }
@@ -5508,6 +5556,7 @@
         {
           "reference_id": 19345,
           "content_id": 20177,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 18:16",
           "language": "eng"
         }
@@ -5595,18 +5644,21 @@
         {
           "reference_id": 19257,
           "content_id": 20089,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 10:6",
           "language": "eng"
         },
         {
           "reference_id": 19372,
           "content_id": 20204,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 19:27",
           "language": "eng"
         },
         {
           "reference_id": 19373,
           "content_id": 20205,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 19:28",
           "language": "eng"
         }
@@ -5954,6 +6006,7 @@
         {
           "reference_id": 19266,
           "content_id": 20098,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 11:24-25",
           "language": "eng"
         }
@@ -6001,6 +6054,7 @@
         {
           "reference_id": 19384,
           "content_id": 20216,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 2:11",
           "language": "eng"
         }
@@ -6048,6 +6102,7 @@
         {
           "reference_id": 19559,
           "content_id": 20391,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 7:34",
           "language": "eng"
         }
@@ -6095,6 +6150,7 @@
         {
           "reference_id": 10353,
           "content_id": 11185,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 23:16",
           "language": "eng"
         }
@@ -6182,6 +6238,7 @@
         {
           "reference_id": 19554,
           "content_id": 20386,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 7:20-21",
           "language": "eng"
         }
@@ -6469,6 +6526,7 @@
         {
           "reference_id": 19376,
           "content_id": 20208,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 19:30",
           "language": "eng"
         }
@@ -6656,6 +6714,7 @@
         {
           "reference_id": 19448,
           "content_id": 20280,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 25:25",
           "language": "eng"
         }
@@ -6723,12 +6782,14 @@
         {
           "reference_id": 19362,
           "content_id": 20194,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 19:13",
           "language": "eng"
         },
         {
           "reference_id": 19460,
           "content_id": 20292,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 25:8-17",
           "language": "eng"
         }
@@ -7116,12 +7177,14 @@
         {
           "reference_id": 19353,
           "content_id": 20185,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 18:28",
           "language": "eng"
         },
         {
           "reference_id": 19463,
           "content_id": 20295,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 26:14-39",
           "language": "eng"
         }
@@ -7149,6 +7212,7 @@
         {
           "reference_id": 19508,
           "content_id": 20340,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 4:20",
           "language": "eng"
         }
@@ -7256,6 +7320,7 @@
         {
           "reference_id": 19523,
           "content_id": 20355,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 5:15",
           "language": "eng"
         }

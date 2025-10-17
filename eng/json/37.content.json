@@ -460,6 +460,7 @@
         {
           "reference_id": 203122,
           "content_id": 500179,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Clean, Unclean, and Holy",
           "language": "eng"
         }
@@ -527,6 +528,7 @@
         {
           "reference_id": 12218,
           "content_id": 13050,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Haggai 1:5",
           "language": "eng"
         }
@@ -674,6 +676,7 @@
         {
           "reference_id": 12234,
           "content_id": 13066,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Haggai 2:21",
           "language": "eng"
         }

@@ -1240,12 +1240,14 @@
         {
           "reference_id": 13540,
           "content_id": 668327,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 6.14-7.1",
           "language": "fra"
         },
         {
           "reference_id": 13552,
           "content_id": 668339,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 7.2-4",
           "language": "fra"
         }
@@ -1373,6 +1375,7 @@
         {
           "reference_id": 13526,
           "content_id": 668313,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 5.11",
           "language": "fra"
         }
@@ -1400,6 +1403,7 @@
         {
           "reference_id": 13540,
           "content_id": 668327,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 6.14-7.1",
           "language": "fra"
         }
@@ -1447,6 +1451,7 @@
         {
           "reference_id": 13501,
           "content_id": 668288,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 2.14-7.4",
           "language": "fra"
         }
@@ -2454,6 +2459,7 @@
         {
           "reference_id": 13458,
           "content_id": 668245,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 11.21-29",
           "language": "fra"
         }
@@ -2521,6 +2527,7 @@
         {
           "reference_id": 13484,
           "content_id": 668271,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 12.2",
           "language": "fra"
         }
@@ -2608,6 +2615,7 @@
         {
           "reference_id": 13454,
           "content_id": 668241,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 11.16-29",
           "language": "fra"
         }
@@ -2775,6 +2783,7 @@
         {
           "reference_id": 13478,
           "content_id": 668265,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 12.14-15",
           "language": "fra"
         }
@@ -2842,6 +2851,7 @@
         {
           "reference_id": 13442,
           "content_id": 668229,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 10.1-13.13",
           "language": "fra"
         }
@@ -2929,6 +2939,7 @@
         {
           "reference_id": 13498,
           "content_id": 668285,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 13.9",
           "language": "fra"
         }

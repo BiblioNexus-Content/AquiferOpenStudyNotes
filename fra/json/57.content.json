@@ -20,6 +20,7 @@
         {
           "reference_id": 203514,
           "content_id": 668972,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Timothée",
           "language": "fra"
         }
@@ -427,12 +428,14 @@
         {
           "reference_id": 203502,
           "content_id": 668960,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Jean Marc",
           "language": "fra"
         },
         {
           "reference_id": 203504,
           "content_id": 668962,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Luc",
           "language": "fra"
         }

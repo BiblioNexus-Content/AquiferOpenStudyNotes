@@ -20,6 +20,7 @@
         {
           "reference_id": 19603,
           "content_id": 20435,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:3",
           "language": "eng"
         }
@@ -87,6 +88,7 @@
         {
           "reference_id": 203323,
           "content_id": 500380,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Baptism",
           "language": "eng"
         }
@@ -194,6 +196,7 @@
         {
           "reference_id": 8455,
           "content_id": 9287,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 1:3",
           "language": "eng"
         }
@@ -421,6 +424,7 @@
         {
           "reference_id": 8617,
           "content_id": 9449,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 2:1-4",
           "language": "eng"
         }
@@ -468,6 +472,7 @@
         {
           "reference_id": 8511,
           "content_id": 9343,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 13:43",
           "language": "eng"
         }
@@ -555,6 +560,7 @@
         {
           "reference_id": 20860,
           "content_id": 21692,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthew 11:23",
           "language": "eng"
         }
@@ -622,6 +628,7 @@
         {
           "reference_id": 203323,
           "content_id": 500380,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Baptism",
           "language": "eng"
         }
@@ -909,6 +916,7 @@
         {
           "reference_id": 203481,
           "content_id": 500538,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "The Sadducees",
           "language": "eng"
         }
@@ -956,6 +964,7 @@
         {
           "reference_id": 20939,
           "content_id": 21771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthew 14:21",
           "language": "eng"
         }
@@ -1303,6 +1312,7 @@
         {
           "reference_id": 8772,
           "content_id": 9604,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 4:19-20",
           "language": "eng"
         }
@@ -1530,6 +1540,7 @@
         {
           "reference_id": 203330,
           "content_id": 500387,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Circumcision in the New Testament",
           "language": "eng"
         }
@@ -1797,6 +1808,7 @@
         {
           "reference_id": 8758,
           "content_id": 9590,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 3:1-11",
           "language": "eng"
         }
@@ -2024,6 +2036,7 @@
         {
           "reference_id": 203328,
           "content_id": 500385,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Visions",
           "language": "eng"
         }
@@ -2671,6 +2684,7 @@
         {
           "reference_id": 203333,
           "content_id": 500390,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Gift of Prophecy",
           "language": "eng"
         }
@@ -2838,6 +2852,7 @@
         {
           "reference_id": 203334,
           "content_id": 500391,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Angels",
           "language": "eng"
         }
@@ -2945,6 +2960,7 @@
         {
           "reference_id": 203333,
           "content_id": 500390,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Gift of Prophecy",
           "language": "eng"
         }
@@ -3032,18 +3048,21 @@
         {
           "reference_id": 8464,
           "content_id": 9296,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 10:2",
           "language": "eng"
         },
         {
           "reference_id": 8511,
           "content_id": 9343,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 13:43",
           "language": "eng"
         },
         {
           "reference_id": 8830,
           "content_id": 9662,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 9:2",
           "language": "eng"
         }
@@ -3191,6 +3210,7 @@
         {
           "reference_id": 8543,
           "content_id": 9375,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 15:36-41",
           "language": "eng"
         }
@@ -3218,6 +3238,7 @@
         {
           "reference_id": 8830,
           "content_id": 9662,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 9:2",
           "language": "eng"
         }
@@ -3765,6 +3786,7 @@
         {
           "reference_id": 203370,
           "content_id": 500427,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Church Leaders",
           "language": "eng"
         }
@@ -3972,6 +3994,7 @@
         {
           "reference_id": 19335,
           "content_id": 20167,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 17:11",
           "language": "eng"
         }
@@ -4199,6 +4222,7 @@
         {
           "reference_id": 203328,
           "content_id": 500385,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Visions",
           "language": "eng"
         }
@@ -4566,6 +4590,7 @@
         {
           "reference_id": 8830,
           "content_id": 9662,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 9:2",
           "language": "eng"
         }
@@ -4613,6 +4638,7 @@
         {
           "reference_id": 8464,
           "content_id": 9296,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 10:2",
           "language": "eng"
         }
@@ -4860,6 +4886,7 @@
         {
           "reference_id": 8569,
           "content_id": 9401,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 16:8",
           "language": "eng"
         }
@@ -4947,6 +4974,7 @@
         {
           "reference_id": 8464,
           "content_id": 9296,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 10:2",
           "language": "eng"
         }
@@ -5314,6 +5342,7 @@
         {
           "reference_id": 8569,
           "content_id": 9401,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 16:8",
           "language": "eng"
         }
@@ -5341,6 +5370,7 @@
         {
           "reference_id": 8830,
           "content_id": 9662,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 9:2",
           "language": "eng"
         }
@@ -5548,6 +5578,7 @@
         {
           "reference_id": 8591,
           "content_id": 9423,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 18:1",
           "language": "eng"
         }
@@ -5595,6 +5626,7 @@
         {
           "reference_id": 8549,
           "content_id": 9381,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 16:10",
           "language": "eng"
         }
@@ -5662,6 +5694,7 @@
         {
           "reference_id": 8617,
           "content_id": 9449,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 2:1-4",
           "language": "eng"
         }
@@ -5869,12 +5902,14 @@
         {
           "reference_id": 8549,
           "content_id": 9381,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 16:10",
           "language": "eng"
         },
         {
           "reference_id": 8644,
           "content_id": 9476,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 20:5-15",
           "language": "eng"
         }
@@ -5922,6 +5957,7 @@
         {
           "reference_id": 8648,
           "content_id": 9480,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 21:11-14",
           "language": "eng"
         }
@@ -6009,12 +6045,14 @@
         {
           "reference_id": 8581,
           "content_id": 9413,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 17:34",
           "language": "eng"
         },
         {
           "reference_id": 203256,
           "content_id": 500313,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Prophetic Sign Acts",
           "language": "eng"
         }
@@ -6042,6 +6080,7 @@
         {
           "reference_id": 8659,
           "content_id": 9491,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 21:4-6",
           "language": "eng"
         }
@@ -6249,6 +6288,7 @@
         {
           "reference_id": 8791,
           "content_id": 9623,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 5:34",
           "language": "eng"
         }
@@ -6276,6 +6316,7 @@
         {
           "reference_id": 8825,
           "content_id": 9657,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 9:17",
           "language": "eng"
         }
@@ -6323,6 +6364,7 @@
         {
           "reference_id": 203323,
           "content_id": 500380,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Baptism",
           "language": "eng"
         }
@@ -6650,6 +6692,7 @@
         {
           "reference_id": 8541,
           "content_id": 9373,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 15:29",
           "language": "eng"
         }
@@ -6777,6 +6820,7 @@
         {
           "reference_id": 8654,
           "content_id": 9486,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 21:28-29",
           "language": "eng"
         }
@@ -6824,6 +6868,7 @@
         {
           "reference_id": 8830,
           "content_id": 9662,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 9:2",
           "language": "eng"
         }
@@ -6891,6 +6936,7 @@
         {
           "reference_id": 8631,
           "content_id": 9463,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 20:1-2",
           "language": "eng"
         }
@@ -6978,12 +7024,14 @@
         {
           "reference_id": 8677,
           "content_id": 9509,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 23:24",
           "language": "eng"
         },
         {
           "reference_id": 8695,
           "content_id": 9527,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 24:24",
           "language": "eng"
         }
@@ -7451,6 +7499,7 @@
         {
           "reference_id": 8460,
           "content_id": 9292,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 10:1-8",
           "language": "eng"
         }
@@ -7838,6 +7887,7 @@
         {
           "reference_id": 8561,
           "content_id": 9393,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 16:27",
           "language": "eng"
         }
@@ -7965,6 +8015,7 @@
         {
           "reference_id": 8721,
           "content_id": 9553,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Acts 27:1-28.16",
           "language": "eng"
         }

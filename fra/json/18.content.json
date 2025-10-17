@@ -140,6 +140,7 @@
         {
           "reference_id": 17611,
           "content_id": 100632,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 2.3",
           "language": "fra"
         }
@@ -467,6 +468,7 @@
         {
           "reference_id": 17850,
           "content_id": 149331,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 6.14-27",
           "language": "fra"
         }
@@ -754,6 +756,7 @@
         {
           "reference_id": 17608,
           "content_id": 149095,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 2.11",
           "language": "fra"
         }
@@ -1501,6 +1504,7 @@
         {
           "reference_id": 17871,
           "content_id": 149352,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 7.9",
           "language": "fra"
         }
@@ -1608,6 +1612,7 @@
         {
           "reference_id": 203229,
           "content_id": 708437,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Tout est « vanité »",
           "language": "fra"
         }
@@ -1675,6 +1680,7 @@
         {
           "reference_id": 17696,
           "content_id": 149177,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 3.11-24",
           "language": "fra"
         }
@@ -1702,6 +1708,7 @@
         {
           "reference_id": 17608,
           "content_id": 149095,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 2.11",
           "language": "fra"
         }
@@ -2149,6 +2156,7 @@
         {
           "reference_id": 17608,
           "content_id": 149095,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 2.11",
           "language": "fra"
         }
@@ -3416,6 +3424,7 @@
         {
           "reference_id": 17567,
           "content_id": 149056,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 16.19-21",
           "language": "fra"
         }
@@ -3623,6 +3632,7 @@
         {
           "reference_id": 17760,
           "content_id": 149241,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 34.11",
           "language": "fra"
         }
@@ -4010,6 +4020,7 @@
         {
           "reference_id": 17501,
           "content_id": 148990,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 1.1",
           "language": "fra"
         }
@@ -4917,6 +4928,7 @@
         {
           "reference_id": 12618,
           "content_id": 735493,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Osée 5.10",
           "language": "fra"
         }
@@ -5264,6 +5276,7 @@
         {
           "reference_id": 17858,
           "content_id": 149339,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 7.12",
           "language": "fra"
         }
@@ -6451,6 +6464,7 @@
         {
           "reference_id": 17548,
           "content_id": 149037,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 15.2-3",
           "language": "fra"
         }

@@ -720,6 +720,7 @@
         {
           "reference_id": 14844,
           "content_id": 15676,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Kings 8:1",
           "language": "eng"
         }
@@ -1347,6 +1348,7 @@
         {
           "reference_id": 14802,
           "content_id": 15634,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Kings 4:6",
           "language": "eng"
         }
@@ -1574,6 +1576,7 @@
         {
           "reference_id": 12773,
           "content_id": 13605,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chronicles 28:18",
           "language": "eng"
         }
@@ -2601,6 +2604,7 @@
         {
           "reference_id": 203127,
           "content_id": 500184,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Complete Dedication",
           "language": "eng"
         }
@@ -3208,6 +3212,7 @@
         {
           "reference_id": 203256,
           "content_id": 500313,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Prophetic Sign Acts",
           "language": "eng"
         }
@@ -3995,6 +4000,7 @@
         {
           "reference_id": 14544,
           "content_id": 15376,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Kings 1:35",
           "language": "eng"
         }
@@ -4202,12 +4208,14 @@
         {
           "reference_id": 9486,
           "content_id": 10318,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 23:17",
           "language": "eng"
         },
         {
           "reference_id": 19340,
           "content_id": 20172,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 17:7",
           "language": "eng"
         }
@@ -4295,6 +4303,7 @@
         {
           "reference_id": 13187,
           "content_id": 14019,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chronicles 13:1",
           "language": "eng"
         }
@@ -4602,6 +4611,7 @@
         {
           "reference_id": 14633,
           "content_id": 15465,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Kings 15:1-8",
           "language": "eng"
         }
@@ -6269,6 +6279,7 @@
         {
           "reference_id": 203127,
           "content_id": 500184,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Complete Dedication",
           "language": "eng"
         }
