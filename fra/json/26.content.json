@@ -120,6 +120,7 @@
         {
           "reference_id": 10630,
           "content_id": 155001,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 1.4-28",
           "language": "fra"
         }
@@ -147,6 +148,7 @@
         {
           "reference_id": 9315,
           "content_id": 148338,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.33",
           "language": "fra"
         }
@@ -314,6 +316,7 @@
         {
           "reference_id": 10619,
           "content_id": 154990,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 1.11-14",
           "language": "fra"
         }
@@ -1521,6 +1524,7 @@
         {
           "reference_id": 10628,
           "content_id": 154999,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 1.2",
           "language": "fra"
         }
@@ -1588,6 +1592,7 @@
         {
           "reference_id": 10630,
           "content_id": 155001,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 1.4-28",
           "language": "fra"
         }
@@ -3415,6 +3420,7 @@
         {
           "reference_id": 10917,
           "content_id": 155282,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 36.17",
           "language": "fra"
         }
@@ -4622,6 +4628,7 @@
         {
           "reference_id": 10686,
           "content_id": 155057,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 16.35-38",
           "language": "fra"
         }
@@ -5129,6 +5136,7 @@
         {
           "reference_id": 10716,
           "content_id": 155087,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 19.1-14",
           "language": "fra"
         }
@@ -5176,6 +5184,7 @@
         {
           "reference_id": 10793,
           "content_id": 155164,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 26.1-28.19",
           "language": "fra"
         }
@@ -5563,6 +5572,7 @@
         {
           "reference_id": 10793,
           "content_id": 155164,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 26.1-28.19",
           "language": "fra"
         }
@@ -6030,6 +6040,7 @@
         {
           "reference_id": 10842,
           "content_id": 155213,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 29.8-13",
           "language": "fra"
         }
@@ -6697,6 +6708,7 @@
         {
           "reference_id": 10848,
           "content_id": 155219,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 3.16-19",
           "language": "fra"
         }
@@ -7284,6 +7296,7 @@
         {
           "reference_id": 203122,
           "content_id": 708413,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "pur, impur, et saint",
           "language": "fra"
         }
@@ -7311,6 +7324,7 @@
         {
           "reference_id": 11016,
           "content_id": 155377,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 44.17-19",
           "language": "fra"
         }
@@ -7758,6 +7772,7 @@
         {
           "reference_id": 203261,
           "content_id": 708443,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Les écrits apocalyptiques",
           "language": "fra"
         }
@@ -8205,6 +8220,7 @@
         {
           "reference_id": 203264,
           "content_id": 734217,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "La géographie symbolique d'Israël dans la vision d'Ézéchiel",
           "language": "fra"
         }
@@ -9112,6 +9128,7 @@
         {
           "reference_id": 10917,
           "content_id": 155282,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 36.17",
           "language": "fra"
         }
@@ -9719,6 +9736,7 @@
         {
           "reference_id": 10977,
           "content_id": 155338,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 40.17-19",
           "language": "fra"
         }

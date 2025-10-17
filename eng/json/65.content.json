@@ -160,24 +160,28 @@
         {
           "reference_id": 10823,
           "content_id": 11655,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 28:12-19",
           "language": "eng"
         },
         {
           "reference_id": 13973,
           "content_id": 14805,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Peter 2:4",
           "language": "eng"
         },
         {
           "reference_id": 14924,
           "content_id": 15756,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Peter 3:19-20",
           "language": "eng"
         },
         {
           "reference_id": 15042,
           "content_id": 15874,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Isaiah 14:12",
           "language": "eng"
         }
@@ -265,6 +269,7 @@
         {
           "reference_id": 13964,
           "content_id": 14796,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Peter 2:15",
           "language": "eng"
         }

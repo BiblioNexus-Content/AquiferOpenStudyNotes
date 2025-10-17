@@ -2640,6 +2640,7 @@
         {
           "reference_id": 22347,
           "content_id": 697322,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbes 1.7",
           "language": "fra"
         }
@@ -5347,6 +5348,7 @@
         {
           "reference_id": 203225,
           "content_id": 708435,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Les présents pour influencer",
           "language": "fra"
         }
@@ -5694,12 +5696,14 @@
         {
           "reference_id": 22338,
           "content_id": 697313,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbes 1.22",
           "language": "fra"
         },
         {
           "reference_id": 22533,
           "content_id": 697508,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbes 21.11",
           "language": "fra"
         }
@@ -6487,6 +6491,7 @@
         {
           "reference_id": 22338,
           "content_id": 697313,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbes 1.22",
           "language": "fra"
         }
@@ -8554,6 +8559,7 @@
         {
           "reference_id": 22421,
           "content_id": 697396,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbes 15.11",
           "language": "fra"
         }
@@ -9481,6 +9487,7 @@
         {
           "reference_id": 22710,
           "content_id": 697685,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbes 30.1",
           "language": "fra"
         }

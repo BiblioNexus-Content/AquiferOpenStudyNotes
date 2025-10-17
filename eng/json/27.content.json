@@ -440,12 +440,14 @@
         {
           "reference_id": 9207,
           "content_id": 10039,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5:30",
           "language": "eng"
         },
         {
           "reference_id": 9208,
           "content_id": 10040,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5:31",
           "language": "eng"
         }
@@ -553,6 +555,7 @@
         {
           "reference_id": 9052,
           "content_id": 9884,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 1:20",
           "language": "eng"
         }
@@ -1560,6 +1563,7 @@
         {
           "reference_id": 9153,
           "content_id": 9985,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 2:4",
           "language": "eng"
         }
@@ -1927,6 +1931,7 @@
         {
           "reference_id": 9207,
           "content_id": 10039,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5:30",
           "language": "eng"
         }
@@ -2014,6 +2019,7 @@
         {
           "reference_id": 9198,
           "content_id": 10030,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5:1",
           "language": "eng"
         }
@@ -2321,12 +2327,14 @@
         {
           "reference_id": 9223,
           "content_id": 10055,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 6:28",
           "language": "eng"
         },
         {
           "reference_id": 203460,
           "content_id": 500517,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "The Medes and Persians",
           "language": "eng"
         }
@@ -2694,6 +2702,7 @@
         {
           "reference_id": 9208,
           "content_id": 10040,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5:31",
           "language": "eng"
         }
@@ -3381,6 +3390,7 @@
         {
           "reference_id": 9271,
           "content_id": 10103,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 8:26",
           "language": "eng"
         }
@@ -3528,6 +3538,7 @@
         {
           "reference_id": 203472,
           "content_id": 500529,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "The Greeks",
           "language": "eng"
         }
@@ -3635,6 +3646,7 @@
         {
           "reference_id": 9208,
           "content_id": 10040,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5:31",
           "language": "eng"
         }
@@ -3662,6 +3674,7 @@
         {
           "reference_id": 9283,
           "content_id": 10115,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9:19",
           "language": "eng"
         }
@@ -3749,6 +3762,7 @@
         {
           "reference_id": 203119,
           "content_id": 500176,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Community Identity",
           "language": "eng"
         }
@@ -3976,6 +3990,7 @@
         {
           "reference_id": 9284,
           "content_id": 10116,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9:1",
           "language": "eng"
         }
@@ -4083,6 +4098,7 @@
         {
           "reference_id": 16922,
           "content_id": 17754,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jeremiah 25:11",
           "language": "eng"
         }
@@ -4150,6 +4166,7 @@
         {
           "reference_id": 9086,
           "content_id": 9918,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 11:22",
           "language": "eng"
         }
@@ -4417,6 +4434,7 @@
         {
           "reference_id": 9208,
           "content_id": 10040,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5:31",
           "language": "eng"
         }
@@ -4444,6 +4462,7 @@
         {
           "reference_id": 10062,
           "content_id": 10894,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Esther 1:1",
           "language": "eng"
         }
@@ -4491,6 +4510,7 @@
         {
           "reference_id": 9266,
           "content_id": 10098,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 8:21",
           "language": "eng"
         }
@@ -4518,6 +4538,7 @@
         {
           "reference_id": 9250,
           "content_id": 10082,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 7:4",
           "language": "eng"
         }
@@ -4845,12 +4866,14 @@
         {
           "reference_id": 9291,
           "content_id": 10123,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9:25",
           "language": "eng"
         },
         {
           "reference_id": 9293,
           "content_id": 10125,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9:27",
           "language": "eng"
         }
@@ -4978,6 +5001,7 @@
         {
           "reference_id": 9293,
           "content_id": 10125,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9:27",
           "language": "eng"
         }
@@ -5305,6 +5329,7 @@
         {
           "reference_id": 9245,
           "content_id": 10077,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 7:24-25",
           "language": "eng"
         }
@@ -5352,6 +5377,7 @@
         {
           "reference_id": 9293,
           "content_id": 10125,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9:27",
           "language": "eng"
         }

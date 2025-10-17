@@ -1820,12 +1820,14 @@
         {
           "reference_id": 10411,
           "content_id": 148119,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 28.30",
           "language": "fra"
         },
         {
           "reference_id": 19578,
           "content_id": 159015,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 8.8",
           "language": "fra"
         }
@@ -2073,6 +2075,7 @@
         {
           "reference_id": 11198,
           "content_id": 719523,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Esdras 7:6",
           "language": "fra"
         }

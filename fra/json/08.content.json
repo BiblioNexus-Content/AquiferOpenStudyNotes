@@ -260,6 +260,7 @@
         {
           "reference_id": 24971,
           "content_id": 100608,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 2.20",
           "language": "fra"
         }
@@ -487,6 +488,7 @@
         {
           "reference_id": 19448,
           "content_id": 158885,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 25.25",
           "language": "fra"
         }
@@ -554,12 +556,14 @@
         {
           "reference_id": 24971,
           "content_id": 100608,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 2.20",
           "language": "fra"
         },
         {
           "reference_id": 24988,
           "content_id": 735806,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 3.9",
           "language": "fra"
         }
@@ -707,6 +711,7 @@
         {
           "reference_id": 24999,
           "content_id": 735817,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 4.5",
           "language": "fra"
         }
@@ -834,18 +839,21 @@
         {
           "reference_id": 19448,
           "content_id": 158885,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 25.25",
           "language": "fra"
         },
         {
           "reference_id": 24971,
           "content_id": 100608,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 2.20",
           "language": "fra"
         },
         {
           "reference_id": 24979,
           "content_id": 735797,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 3.11",
           "language": "fra"
         }
@@ -873,12 +881,14 @@
         {
           "reference_id": 24979,
           "content_id": 735797,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 3.11",
           "language": "fra"
         },
         {
           "reference_id": 24999,
           "content_id": 735817,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 4.5",
           "language": "fra"
         }
@@ -946,6 +956,7 @@
         {
           "reference_id": 24959,
           "content_id": 100596,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 1.2",
           "language": "fra"
         }
@@ -993,6 +1004,7 @@
         {
           "reference_id": 24962,
           "content_id": 100599,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ruth 1.6",
           "language": "fra"
         }

@@ -420,6 +420,7 @@
         {
           "reference_id": 16127,
           "content_id": 16959,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 2:1",
           "language": "eng"
         }
@@ -447,6 +448,7 @@
         {
           "reference_id": 15940,
           "content_id": 16772,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 1:16",
           "language": "eng"
         }
@@ -514,12 +516,14 @@
         {
           "reference_id": 15942,
           "content_id": 16774,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 1:1",
           "language": "eng"
         },
         {
           "reference_id": 16172,
           "content_id": 17004,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 22:18",
           "language": "eng"
         }
@@ -547,6 +551,7 @@
         {
           "reference_id": 15941,
           "content_id": 16773,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 1:17-18",
           "language": "eng"
         }
@@ -694,6 +699,7 @@
         {
           "reference_id": 16138,
           "content_id": 16970,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 2:35",
           "language": "eng"
         }
@@ -821,6 +827,7 @@
         {
           "reference_id": 16123,
           "content_id": 16955,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 2:12",
           "language": "eng"
         }
@@ -1028,6 +1035,7 @@
         {
           "reference_id": 15946,
           "content_id": 16778,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 1:3",
           "language": "eng"
         }
@@ -1055,12 +1063,14 @@
         {
           "reference_id": 16340,
           "content_id": 17172,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 7:12",
           "language": "eng"
         },
         {
           "reference_id": 203421,
           "content_id": 500478,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "The Philistines",
           "language": "eng"
         }
@@ -1128,6 +1138,7 @@
         {
           "reference_id": 15946,
           "content_id": 16778,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 1:3",
           "language": "eng"
         }
@@ -1255,6 +1266,7 @@
         {
           "reference_id": 16272,
           "content_id": 17104,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 3:2",
           "language": "eng"
         }
@@ -1322,6 +1334,7 @@
         {
           "reference_id": 16312,
           "content_id": 17144,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 4:1",
           "language": "eng"
         }
@@ -1529,6 +1542,7 @@
         {
           "reference_id": 16323,
           "content_id": 17155,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 5:6",
           "language": "eng"
         }
@@ -1676,6 +1690,7 @@
         {
           "reference_id": 16334,
           "content_id": 17166,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 6:3",
           "language": "eng"
         }
@@ -1863,6 +1878,7 @@
         {
           "reference_id": 16311,
           "content_id": 17143,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 4:18",
           "language": "eng"
         }
@@ -2350,6 +2366,7 @@
         {
           "reference_id": 16367,
           "content_id": 17199,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 8:7",
           "language": "eng"
         }
@@ -2397,6 +2414,7 @@
         {
           "reference_id": 15999,
           "content_id": 16831,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 13:1-16.13",
           "language": "eng"
         }
@@ -2564,6 +2582,7 @@
         {
           "reference_id": 15954,
           "content_id": 16786,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 10:17",
           "language": "eng"
         }
@@ -2671,6 +2690,7 @@
         {
           "reference_id": 16344,
           "content_id": 17176,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 7:16",
           "language": "eng"
         }
@@ -2758,6 +2778,7 @@
         {
           "reference_id": 16344,
           "content_id": 17176,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 7:16",
           "language": "eng"
         }
@@ -2805,6 +2826,7 @@
         {
           "reference_id": 203155,
           "content_id": 500212,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Spirit’s Presence",
           "language": "eng"
         }
@@ -3412,12 +3434,14 @@
         {
           "reference_id": 16367,
           "content_id": 17199,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 8:7",
           "language": "eng"
         },
         {
           "reference_id": 16368,
           "content_id": 17200,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 8:8",
           "language": "eng"
         }
@@ -3525,6 +3549,7 @@
         {
           "reference_id": 16368,
           "content_id": 17200,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 8:8",
           "language": "eng"
         }
@@ -3652,6 +3677,7 @@
         {
           "reference_id": 16369,
           "content_id": 17201,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 9:1-11.15",
           "language": "eng"
         }
@@ -3739,6 +3765,7 @@
         {
           "reference_id": 16007,
           "content_id": 16839,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 13:19-22",
           "language": "eng"
         }
@@ -3786,6 +3813,7 @@
         {
           "reference_id": 15969,
           "content_id": 16801,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 10:8",
           "language": "eng"
         }
@@ -3813,6 +3841,7 @@
         {
           "reference_id": 16003,
           "content_id": 16835,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 13:13",
           "language": "eng"
         }
@@ -3900,6 +3929,7 @@
         {
           "reference_id": 16015,
           "content_id": 16847,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 13:8",
           "language": "eng"
         }
@@ -3967,6 +3997,7 @@
         {
           "reference_id": 16009,
           "content_id": 16841,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 13:23",
           "language": "eng"
         }
@@ -4034,6 +4065,7 @@
         {
           "reference_id": 16072,
           "content_id": 16904,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 16:21",
           "language": "eng"
         }
@@ -4121,6 +4153,7 @@
         {
           "reference_id": 16126,
           "content_id": 16958,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 2:18",
           "language": "eng"
         }
@@ -4188,6 +4221,7 @@
         {
           "reference_id": 16011,
           "content_id": 16843,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 13:3",
           "language": "eng"
         }
@@ -4215,6 +4249,7 @@
         {
           "reference_id": 16006,
           "content_id": 16838,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 13:17-18",
           "language": "eng"
         }
@@ -4242,6 +4277,7 @@
         {
           "reference_id": 16126,
           "content_id": 16958,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 2:18",
           "language": "eng"
         }
@@ -4309,18 +4345,21 @@
         {
           "reference_id": 10359,
           "content_id": 11191,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 23:26",
           "language": "eng"
         },
         {
           "reference_id": 10381,
           "content_id": 11213,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 25:22",
           "language": "eng"
         },
         {
           "reference_id": 10488,
           "content_id": 11320,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 32:4",
           "language": "eng"
         }
@@ -4548,6 +4587,7 @@
         {
           "reference_id": 14170,
           "content_id": 15002,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Samuel 2:8",
           "language": "eng"
         }
@@ -4655,6 +4695,7 @@
         {
           "reference_id": 15946,
           "content_id": 16778,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 1:3",
           "language": "eng"
         }
@@ -4682,6 +4723,7 @@
         {
           "reference_id": 203127,
           "content_id": 500184,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Complete Dedication",
           "language": "eng"
         }
@@ -4949,6 +4991,7 @@
         {
           "reference_id": 9411,
           "content_id": 10243,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 18:10",
           "language": "eng"
         }
@@ -5076,6 +5119,7 @@
         {
           "reference_id": 203154,
           "content_id": 500211,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "God’s Change of Mind",
           "language": "eng"
         }
@@ -5103,6 +5147,7 @@
         {
           "reference_id": 16058,
           "content_id": 16890,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 15:35",
           "language": "eng"
         }
@@ -5250,6 +5295,7 @@
         {
           "reference_id": 203155,
           "content_id": 500212,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Spirit’s Presence",
           "language": "eng"
         }
@@ -5497,6 +5543,7 @@
         {
           "reference_id": 16043,
           "content_id": 16875,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 14:6",
           "language": "eng"
         }
@@ -5644,6 +5691,7 @@
         {
           "reference_id": 15946,
           "content_id": 16778,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 1:3",
           "language": "eng"
         }
@@ -5791,6 +5839,7 @@
         {
           "reference_id": 16080,
           "content_id": 16912,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 17:15",
           "language": "eng"
         }
@@ -6218,6 +6267,7 @@
         {
           "reference_id": 203256,
           "content_id": 500313,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Prophetic Sign Acts",
           "language": "eng"
         }
@@ -6345,6 +6395,7 @@
         {
           "reference_id": 16159,
           "content_id": 16991,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 20:8",
           "language": "eng"
         }
@@ -7032,6 +7083,7 @@
         {
           "reference_id": 16126,
           "content_id": 16958,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 2:18",
           "language": "eng"
         }
@@ -7439,6 +7491,7 @@
         {
           "reference_id": 16188,
           "content_id": 17020,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 23:24",
           "language": "eng"
         }
@@ -7646,6 +7699,7 @@
         {
           "reference_id": 16203,
           "content_id": 17035,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 25:1-44",
           "language": "eng"
         }
@@ -7813,6 +7867,7 @@
         {
           "reference_id": 16150,
           "content_id": 16982,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 20:25",
           "language": "eng"
         }
@@ -7880,6 +7935,7 @@
         {
           "reference_id": 16202,
           "content_id": 17034,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 24:6",
           "language": "eng"
         }
@@ -7927,6 +7983,7 @@
         {
           "reference_id": 16150,
           "content_id": 16982,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 20:25",
           "language": "eng"
         }
@@ -8054,6 +8111,7 @@
         {
           "reference_id": 16202,
           "content_id": 17034,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 24:6",
           "language": "eng"
         }
@@ -8221,6 +8279,7 @@
         {
           "reference_id": 16062,
           "content_id": 16894,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 15:6",
           "language": "eng"
         }
@@ -8268,6 +8327,7 @@
         {
           "reference_id": 16255,
           "content_id": 17087,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 28:9",
           "language": "eng"
         }
@@ -8675,6 +8735,7 @@
         {
           "reference_id": 16238,
           "content_id": 17070,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 27:6",
           "language": "eng"
         }
@@ -8722,6 +8783,7 @@
         {
           "reference_id": 16215,
           "content_id": 17047,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 25:43",
           "language": "eng"
         }
@@ -8769,12 +8831,14 @@
         {
           "reference_id": 16126,
           "content_id": 16958,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 2:18",
           "language": "eng"
         },
         {
           "reference_id": 16192,
           "content_id": 17024,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Samuel 23:6",
           "language": "eng"
         }

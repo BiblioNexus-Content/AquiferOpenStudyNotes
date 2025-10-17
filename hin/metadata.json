@@ -27,8 +27,8 @@
       "showAdaptationNoticeForNonEnglish": false
     },
     "adaptation_notice": "",
-    "collection_code": "TyndaleStudyNotes",
-    "date_created": "2025-10-15",
+    "resource_code": "TyndaleStudyNotes",
+    "date_created": "2025-10-16",
     "language": "hin",
     "localizations": [
       "eng",
@@ -50,7 +50,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-15T13:46:18.381857"
+      "dateCreated": "2025-10-16T16:09:09.313189"
     },
     "idAuthorities": {
       "aquifer": {
@@ -64,7 +64,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotes": {
-            "timestamp": "2025-10-15T13:46:18.381857"
+            "timestamp": "2025-10-16T16:09:09.313189"
           }
         }
       },
@@ -96,35 +96,70 @@
     "ingredients": {
       "json/05.content.json": {
         "mimeType": "text/json",
-        "size": 184865,
+        "size": 186347,
         "scope": {
           "DEU": []
         }
       },
       "json/27.content.json": {
         "mimeType": "text/json",
-        "size": 343357,
+        "size": 344653,
         "scope": {
           "DAN": []
         }
       },
       "json/30.content.json": {
         "mimeType": "text/json",
-        "size": 179092,
+        "size": 179435,
         "scope": {
           "AMO": []
         }
       },
       "json/44.content.json": {
         "mimeType": "text/json",
-        "size": 569003,
+        "size": 571576,
         "scope": {
           "ACT": []
         }
       },
       "json/51.content.json": {
         "mimeType": "text/json",
-        "size": 93396,
+        "size": 93484,
+        "scope": {
+          "COL": []
+        }
+      },
+      "md/05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 119469,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "md/27.content.md": {
+        "mimeType": "text/markdown",
+        "size": 227139,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "md/30.content.md": {
+        "mimeType": "text/markdown",
+        "size": 119325,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "md/44.content.md": {
+        "mimeType": "text/markdown",
+        "size": 383830,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "md/51.content.md": {
+        "mimeType": "text/markdown",
+        "size": 62884,
         "scope": {
           "COL": []
         }

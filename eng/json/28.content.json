@@ -1120,6 +1120,7 @@
         {
           "reference_id": 203269,
           "content_id": 500326,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Knowing God",
           "language": "eng"
         }
@@ -1567,6 +1568,7 @@
         {
           "reference_id": 12607,
           "content_id": 13439,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hosea 4:10",
           "language": "eng"
         }
@@ -2134,6 +2136,7 @@
         {
           "reference_id": 21318,
           "content_id": 22150,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthew 4:1-11",
           "language": "eng"
         }
@@ -2261,6 +2264,7 @@
         {
           "reference_id": 203121,
           "content_id": 500178,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "God’s Absolute Holiness",
           "language": "eng"
         }
@@ -2328,6 +2332,7 @@
         {
           "reference_id": 17795,
           "content_id": 18627,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 38:24-27",
           "language": "eng"
         }
@@ -2715,6 +2720,7 @@
         {
           "reference_id": 17871,
           "content_id": 18703,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 7:9",
           "language": "eng"
         }

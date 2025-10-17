@@ -280,6 +280,7 @@
         {
           "reference_id": 11203,
           "content_id": 12035,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezra 8:18",
           "language": "eng"
         }
@@ -507,6 +508,7 @@
         {
           "reference_id": 11109,
           "content_id": 11941,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezra 1:8",
           "language": "eng"
         }
@@ -1274,6 +1276,7 @@
         {
           "reference_id": 11109,
           "content_id": 11941,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezra 1:8",
           "language": "eng"
         }
@@ -2161,6 +2164,7 @@
         {
           "reference_id": 203119,
           "content_id": 500176,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Community Identity",
           "language": "eng"
         }

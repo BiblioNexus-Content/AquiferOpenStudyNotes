@@ -120,6 +120,7 @@
         {
           "reference_id": 9705,
           "content_id": 10537,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 4:44",
           "language": "eng"
         }
@@ -187,6 +188,7 @@
         {
           "reference_id": 16712,
           "content_id": 17544,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jeremiah 13:24",
           "language": "eng"
         }
@@ -654,6 +656,7 @@
         {
           "reference_id": 23669,
           "content_id": 24501,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psalms 4:8",
           "language": "eng"
         }
@@ -921,6 +924,7 @@
         {
           "reference_id": 22820,
           "content_id": 23652,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psalms 1:1",
           "language": "eng"
         }
@@ -2088,6 +2092,7 @@
         {
           "reference_id": 24218,
           "content_id": 25050,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psalms 9:1-10.18",
           "language": "eng"
         }
@@ -2275,6 +2280,7 @@
         {
           "reference_id": 203217,
           "content_id": 500274,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Prayers for Vengeance",
           "language": "eng"
         }
@@ -3542,12 +3548,14 @@
         {
           "reference_id": 12773,
           "content_id": 13605,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chronicles 28:18",
           "language": "eng"
         },
         {
           "reference_id": 13309,
           "content_id": 14141,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chronicles 3:10-13",
           "language": "eng"
         }
@@ -6015,6 +6023,7 @@
         {
           "reference_id": 23255,
           "content_id": 24087,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psalms 14:4",
           "language": "eng"
         }
@@ -6862,12 +6871,14 @@
         {
           "reference_id": 22826,
           "content_id": 23658,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psalms 1:6",
           "language": "eng"
         },
         {
           "reference_id": 203217,
           "content_id": 500274,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Prayers for Vengeance",
           "language": "eng"
         }
@@ -10215,6 +10226,7 @@
         {
           "reference_id": 12700,
           "content_id": 13532,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Chronicles 15:20",
           "language": "eng"
         }
@@ -12602,6 +12614,7 @@
         {
           "reference_id": 11649,
           "content_id": 12481,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 24:10",
           "language": "eng"
         }
@@ -12869,6 +12882,7 @@
         {
           "reference_id": 17956,
           "content_id": 18788,
+          "resource_code": "TyndaleStudyNotes",
           "label": "John 1:14",
           "language": "eng"
         }
@@ -15476,6 +15490,7 @@
         {
           "reference_id": 13235,
           "content_id": 14067,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chronicles 2:8",
           "language": "eng"
         }
@@ -17723,12 +17738,14 @@
         {
           "reference_id": 23515,
           "content_id": 24347,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psalms 29:1-2",
           "language": "eng"
         },
         {
           "reference_id": 23838,
           "content_id": 24670,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psalms 58:1",
           "language": "eng"
         }
@@ -18916,6 +18933,7 @@
         {
           "reference_id": 23515,
           "content_id": 24347,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Psalms 29:1-2",
           "language": "eng"
         }
@@ -27563,6 +27581,7 @@
         {
           "reference_id": 203241,
           "content_id": 500298,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Promise of a Second Exodus",
           "language": "eng"
         }

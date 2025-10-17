@@ -60,6 +60,7 @@
         {
           "reference_id": 25102,
           "content_id": 97530,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Tite 1.12",
           "language": "fra"
         }
@@ -187,6 +188,7 @@
         {
           "reference_id": 16498,
           "content_id": 699613,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothée 3.2",
           "language": "fra"
         }
@@ -334,6 +336,7 @@
         {
           "reference_id": 25102,
           "content_id": 97530,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Tite 1.12",
           "language": "fra"
         }
@@ -481,6 +484,7 @@
         {
           "reference_id": 16535,
           "content_id": 99529,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothée 6.14",
           "language": "fra"
         }
@@ -548,12 +552,14 @@
         {
           "reference_id": 16535,
           "content_id": 99529,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothée 6.14",
           "language": "fra"
         },
         {
           "reference_id": 25102,
           "content_id": 97530,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Tite 1.12",
           "language": "fra"
         }
@@ -621,6 +627,7 @@
         {
           "reference_id": 25119,
           "content_id": 97547,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Tite 2.11-15",
           "language": "fra"
         }
@@ -668,6 +675,7 @@
         {
           "reference_id": 16535,
           "content_id": 99529,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothée 6.14",
           "language": "fra"
         }

@@ -20,6 +20,7 @@
         {
           "reference_id": 203514,
           "content_id": 500571,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Timothy",
           "language": "eng"
         }
@@ -427,12 +428,14 @@
         {
           "reference_id": 203502,
           "content_id": 500559,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "John Mark",
           "language": "eng"
         },
         {
           "reference_id": 203504,
           "content_id": 500561,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Luke",
           "language": "eng"
         }

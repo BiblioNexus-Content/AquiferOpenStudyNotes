@@ -20,6 +20,7 @@
         {
           "reference_id": 203503,
           "content_id": 668961,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Jacques, frère de Jésus",
           "language": "fra"
         }
@@ -47,6 +48,7 @@
         {
           "reference_id": 16578,
           "content_id": 699688,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jacques 2.1",
           "language": "fra"
         }
@@ -654,6 +656,7 @@
         {
           "reference_id": 16562,
           "content_id": 699672,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jacques 1.25",
           "language": "fra"
         }
@@ -761,6 +764,7 @@
         {
           "reference_id": 16551,
           "content_id": 699661,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jacques 1.13",
           "language": "fra"
         }
@@ -1308,6 +1312,7 @@
         {
           "reference_id": 16559,
           "content_id": 699669,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jacques 1.22-23",
           "language": "fra"
         }
@@ -1555,6 +1560,7 @@
         {
           "reference_id": 16559,
           "content_id": 699669,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jacques 1.22-23",
           "language": "fra"
         }
@@ -1622,6 +1628,7 @@
         {
           "reference_id": 26435,
           "content_id": 736086,
+          "resource_code": "Unknown",
           "label": "Jacques",
           "language": "fra"
         }

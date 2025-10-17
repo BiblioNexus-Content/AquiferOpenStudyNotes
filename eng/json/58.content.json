@@ -260,30 +260,35 @@
         {
           "reference_id": 9922,
           "content_id": 10754,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ephesians 1:19-20",
           "language": "eng"
         },
         {
           "reference_id": 12252,
           "content_id": 13084,
+          "resource_code": "Unknown",
           "label": "Hebrews 1:5-14",
           "language": "eng"
         },
         {
           "reference_id": 19945,
           "content_id": 20777,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 20:42-43",
           "language": "eng"
         },
         {
           "reference_id": 20019,
           "content_id": 20851,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 22:69",
           "language": "eng"
         },
         {
           "reference_id": 12994,
           "content_id": 13826,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Corinthians 15:25",
           "language": "eng"
         }
@@ -511,6 +516,7 @@
         {
           "reference_id": 12387,
           "content_id": 13219,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 2:6-8",
           "language": "eng"
         }
@@ -538,6 +544,7 @@
         {
           "reference_id": 12387,
           "content_id": 13219,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 2:6-8",
           "language": "eng"
         }
@@ -1125,6 +1132,7 @@
         {
           "reference_id": 12420,
           "content_id": 13252,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 4:4",
           "language": "eng"
         }
@@ -1232,6 +1240,7 @@
         {
           "reference_id": 10270,
           "content_id": 11102,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 17:9",
           "language": "eng"
         }
@@ -1799,6 +1808,7 @@
         {
           "reference_id": 203348,
           "content_id": 500405,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Resurrection of the Dead",
           "language": "eng"
         }
@@ -1846,6 +1856,7 @@
         {
           "reference_id": 12278,
           "content_id": 13110,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 10:32",
           "language": "eng"
         }
@@ -1953,6 +1964,7 @@
         {
           "reference_id": 12383,
           "content_id": 13215,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 2:3",
           "language": "eng"
         }
@@ -2180,6 +2192,7 @@
         {
           "reference_id": 11493,
           "content_id": 12325,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 14:18",
           "language": "eng"
         }
@@ -2387,6 +2400,7 @@
         {
           "reference_id": 12441,
           "content_id": 13273,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 5:9",
           "language": "eng"
         }
@@ -2774,6 +2788,7 @@
         {
           "reference_id": 203253,
           "content_id": 500310,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The New Covenant",
           "language": "eng"
         }
@@ -2841,6 +2856,7 @@
         {
           "reference_id": 12497,
           "content_id": 13329,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 8:7",
           "language": "eng"
         }
@@ -3188,6 +3204,7 @@
         {
           "reference_id": 12494,
           "content_id": 13326,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 8:5",
           "language": "eng"
         }
@@ -3415,12 +3432,14 @@
         {
           "reference_id": 12494,
           "content_id": 13326,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 8:5",
           "language": "eng"
         },
         {
           "reference_id": 12507,
           "content_id": 13339,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 9:14",
           "language": "eng"
         }
@@ -3508,6 +3527,7 @@
         {
           "reference_id": 11368,
           "content_id": 12200,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Galatians 5:5",
           "language": "eng"
         }
@@ -3735,12 +3755,14 @@
         {
           "reference_id": 12465,
           "content_id": 13297,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 7:11",
           "language": "eng"
         },
         {
           "reference_id": 12478,
           "content_id": 13310,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 7:28",
           "language": "eng"
         }
@@ -3808,6 +3830,7 @@
         {
           "reference_id": 12520,
           "content_id": 13352,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 9:3",
           "language": "eng"
         }
@@ -3975,6 +3998,7 @@
         {
           "reference_id": 21849,
           "content_id": 22681,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Numbers 15:30-31",
           "language": "eng"
         }
@@ -4022,6 +4046,7 @@
         {
           "reference_id": 12507,
           "content_id": 13339,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 9:14",
           "language": "eng"
         }
@@ -4189,6 +4214,7 @@
         {
           "reference_id": 12461,
           "content_id": 13293,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 6:9",
           "language": "eng"
         }
@@ -4916,12 +4942,14 @@
         {
           "reference_id": 12441,
           "content_id": 13273,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 5:9",
           "language": "eng"
         },
         {
           "reference_id": 12465,
           "content_id": 13297,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 7:11",
           "language": "eng"
         }
@@ -5089,6 +5117,7 @@
         {
           "reference_id": 12507,
           "content_id": 13339,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 9:14",
           "language": "eng"
         }
@@ -5296,6 +5325,7 @@
         {
           "reference_id": 12494,
           "content_id": 13326,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 8:5",
           "language": "eng"
         }
@@ -5363,6 +5393,7 @@
         {
           "reference_id": 12507,
           "content_id": 13339,
+          "resource_code": "Unknown",
           "label": "Hebrews 9:14",
           "language": "eng"
         }
@@ -5450,12 +5481,14 @@
         {
           "reference_id": 12375,
           "content_id": 13207,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 2:11",
           "language": "eng"
         },
         {
           "reference_id": 12401,
           "content_id": 13233,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Hebrews 3:1",
           "language": "eng"
         }
@@ -5883,6 +5916,7 @@
         {
           "reference_id": 203514,
           "content_id": 500571,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Timothy",
           "language": "eng"
         }

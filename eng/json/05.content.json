@@ -60,6 +60,7 @@
         {
           "reference_id": 9307,
           "content_id": 10139,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:19",
           "language": "eng"
         }
@@ -87,12 +88,14 @@
         {
           "reference_id": 8888,
           "content_id": 9720,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Amos 4:1",
           "language": "eng"
         },
         {
           "reference_id": 21934,
           "content_id": 22766,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Numbers 21:13",
           "language": "eng"
         }
@@ -500,6 +503,7 @@
         {
           "reference_id": 9308,
           "content_id": 10140,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:1",
           "language": "eng"
         }
@@ -567,6 +571,7 @@
         {
           "reference_id": 9308,
           "content_id": 10140,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:1",
           "language": "eng"
         }
@@ -694,6 +699,7 @@
         {
           "reference_id": 9448,
           "content_id": 10280,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:9",
           "language": "eng"
         }
@@ -741,18 +747,21 @@
         {
           "reference_id": 11609,
           "content_id": 12441,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 21:32",
           "language": "eng"
         },
         {
           "reference_id": 18550,
           "content_id": 19382,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 13:2",
           "language": "eng"
         },
         {
           "reference_id": 19055,
           "content_id": 19887,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Judges 3:3",
           "language": "eng"
         }
@@ -840,6 +849,7 @@
         {
           "reference_id": 203111,
           "content_id": 500168,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Hardened Hearts",
           "language": "eng"
         }
@@ -987,6 +997,7 @@
         {
           "reference_id": 9443,
           "content_id": 10275,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:34",
           "language": "eng"
         }
@@ -1014,6 +1025,7 @@
         {
           "reference_id": 9434,
           "content_id": 10266,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:19",
           "language": "eng"
         }
@@ -1041,6 +1053,7 @@
         {
           "reference_id": 9444,
           "content_id": 10276,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:36",
           "language": "eng"
         }
@@ -1148,6 +1161,7 @@
         {
           "reference_id": 9308,
           "content_id": 10140,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:1",
           "language": "eng"
         }
@@ -1255,6 +1269,7 @@
         {
           "reference_id": 9705,
           "content_id": 10537,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 4:44",
           "language": "eng"
         }
@@ -1362,6 +1377,7 @@
         {
           "reference_id": 9315,
           "content_id": 10147,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:33",
           "language": "eng"
         }
@@ -1569,6 +1585,7 @@
         {
           "reference_id": 9755,
           "content_id": 10587,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 8:2",
           "language": "eng"
         }
@@ -1596,6 +1613,7 @@
         {
           "reference_id": 9315,
           "content_id": 10147,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:33",
           "language": "eng"
         }
@@ -1723,6 +1741,7 @@
         {
           "reference_id": 9710,
           "content_id": 10542,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 5:1-26.19",
           "language": "eng"
         }
@@ -1930,6 +1949,7 @@
         {
           "reference_id": 24338,
           "content_id": 25170,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 1:10",
           "language": "eng"
         }
@@ -2117,12 +2137,14 @@
         {
           "reference_id": 9324,
           "content_id": 10156,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 10:12-13",
           "language": "eng"
         },
         {
           "reference_id": 9745,
           "content_id": 10577,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 7:21",
           "language": "eng"
         }
@@ -2210,6 +2232,7 @@
         {
           "reference_id": 18683,
           "content_id": 19515,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Joshua 23:11",
           "language": "eng"
         }
@@ -2257,6 +2280,7 @@
         {
           "reference_id": 9705,
           "content_id": 10537,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 4:44",
           "language": "eng"
         }
@@ -2344,6 +2368,7 @@
         {
           "reference_id": 9755,
           "content_id": 10587,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 8:2",
           "language": "eng"
         }
@@ -2411,12 +2436,14 @@
         {
           "reference_id": 9319,
           "content_id": 10151,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:4",
           "language": "eng"
         },
         {
           "reference_id": 9435,
           "content_id": 10267,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:1",
           "language": "eng"
         }
@@ -2464,6 +2491,7 @@
         {
           "reference_id": 9347,
           "content_id": 10179,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 12:2",
           "language": "eng"
         }
@@ -2571,12 +2599,14 @@
         {
           "reference_id": 9697,
           "content_id": 10529,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 4:34",
           "language": "eng"
         },
         {
           "reference_id": 9755,
           "content_id": 10587,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 8:2",
           "language": "eng"
         }
@@ -2684,6 +2714,7 @@
         {
           "reference_id": 9443,
           "content_id": 10275,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:34",
           "language": "eng"
         }
@@ -2931,12 +2962,14 @@
         {
           "reference_id": 9697,
           "content_id": 10529,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 4:34",
           "language": "eng"
         },
         {
           "reference_id": 9755,
           "content_id": 10587,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 8:2",
           "language": "eng"
         }
@@ -2984,6 +3017,7 @@
         {
           "reference_id": 9746,
           "content_id": 10578,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 7:24",
           "language": "eng"
         }
@@ -3051,6 +3085,7 @@
         {
           "reference_id": 9307,
           "content_id": 10139,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:19",
           "language": "eng"
         }
@@ -3098,12 +3133,14 @@
         {
           "reference_id": 9640,
           "content_id": 10472,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 32:36",
           "language": "eng"
         },
         {
           "reference_id": 9755,
           "content_id": 10587,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 8:2",
           "language": "eng"
         }
@@ -3131,12 +3168,14 @@
         {
           "reference_id": 10381,
           "content_id": 11213,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 25:22",
           "language": "eng"
         },
         {
           "reference_id": 19329,
           "content_id": 20161,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 16:2",
           "language": "eng"
         }
@@ -3204,12 +3243,14 @@
         {
           "reference_id": 9745,
           "content_id": 10577,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 7:21",
           "language": "eng"
         },
         {
           "reference_id": 22347,
           "content_id": 23179,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbs 1:7",
           "language": "eng"
         }
@@ -3497,12 +3538,14 @@
         {
           "reference_id": 9746,
           "content_id": 10578,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 7:24",
           "language": "eng"
         },
         {
           "reference_id": 9749,
           "content_id": 10581,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 7:5",
           "language": "eng"
         }
@@ -3550,6 +3593,7 @@
         {
           "reference_id": 9314,
           "content_id": 10146,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:31",
           "language": "eng"
         }
@@ -3637,6 +3681,7 @@
         {
           "reference_id": 19557,
           "content_id": 20389,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 7:26-27",
           "language": "eng"
         }
@@ -3724,6 +3769,7 @@
         {
           "reference_id": 19239,
           "content_id": 20071,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 1:3-17",
           "language": "eng"
         }
@@ -3891,12 +3937,14 @@
         {
           "reference_id": 9348,
           "content_id": 10180,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 12:31",
           "language": "eng"
         },
         {
           "reference_id": 9747,
           "content_id": 10579,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 7:25-26",
           "language": "eng"
         }
@@ -3964,6 +4012,7 @@
         {
           "reference_id": 203122,
           "content_id": 500179,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Clean, Unclean, and Holy",
           "language": "eng"
         }
@@ -4131,12 +4180,14 @@
         {
           "reference_id": 9314,
           "content_id": 10146,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:31",
           "language": "eng"
         },
         {
           "reference_id": 9351,
           "content_id": 10183,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 12:6",
           "language": "eng"
         }
@@ -4224,6 +4275,7 @@
         {
           "reference_id": 19490,
           "content_id": 20322,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 27:30",
           "language": "eng"
         }
@@ -4671,6 +4723,7 @@
         {
           "reference_id": 9305,
           "content_id": 10137,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:16-17",
           "language": "eng"
         }
@@ -4698,6 +4751,7 @@
         {
           "reference_id": 9749,
           "content_id": 10581,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 7:5",
           "language": "eng"
         }
@@ -4805,12 +4859,14 @@
         {
           "reference_id": 13087,
           "content_id": 13919,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Corinthians 5:12-13",
           "language": "eng"
         },
         {
           "reference_id": 203136,
           "content_id": 500193,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Remove the Evil",
           "language": "eng"
         }
@@ -4978,6 +5034,7 @@
         {
           "reference_id": 9705,
           "content_id": 10537,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 4:44",
           "language": "eng"
         }
@@ -5345,6 +5402,7 @@
         {
           "reference_id": 13488,
           "content_id": 14320,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthians 13:1-2",
           "language": "eng"
         }
@@ -5372,6 +5430,7 @@
         {
           "reference_id": 9408,
           "content_id": 10240,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 17:7",
           "language": "eng"
         }
@@ -5539,6 +5598,7 @@
         {
           "reference_id": 9718,
           "content_id": 10550,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 5:17",
           "language": "eng"
         }
@@ -6086,12 +6146,14 @@
         {
           "reference_id": 9434,
           "content_id": 10266,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:19",
           "language": "eng"
         },
         {
           "reference_id": 9448,
           "content_id": 10280,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:9",
           "language": "eng"
         }
@@ -6119,6 +6181,7 @@
         {
           "reference_id": 21970,
           "content_id": 22802,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Numbers 22:5-6",
           "language": "eng"
         }
@@ -6486,6 +6549,7 @@
         {
           "reference_id": 13460,
           "content_id": 14292,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthians 11:23-24",
           "language": "eng"
         }
@@ -6593,6 +6657,7 @@
         {
           "reference_id": 9425,
           "content_id": 10257,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 19:21",
           "language": "eng"
         }
@@ -6660,6 +6725,7 @@
         {
           "reference_id": 9443,
           "content_id": 10275,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:34",
           "language": "eng"
         }
@@ -6727,6 +6793,7 @@
         {
           "reference_id": 9327,
           "content_id": 10159,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 10:18",
           "language": "eng"
         }
@@ -6754,6 +6821,7 @@
         {
           "reference_id": 9370,
           "content_id": 10202,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 14:28",
           "language": "eng"
         }
@@ -6821,6 +6889,7 @@
         {
           "reference_id": 9733,
           "content_id": 10565,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 6:4-5",
           "language": "eng"
         }
@@ -6908,6 +6977,7 @@
         {
           "reference_id": 203104,
           "content_id": 500161,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Altars",
           "language": "eng"
         }
@@ -7015,6 +7085,7 @@
         {
           "reference_id": 9737,
           "content_id": 10569,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 6:8",
           "language": "eng"
         }
@@ -7222,6 +7293,7 @@
         {
           "reference_id": 9443,
           "content_id": 10275,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:34",
           "language": "eng"
         }
@@ -7649,6 +7721,7 @@
         {
           "reference_id": 9745,
           "content_id": 10577,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 7:21",
           "language": "eng"
         }
@@ -7836,6 +7909,7 @@
         {
           "reference_id": 9327,
           "content_id": 10159,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 10:18",
           "language": "eng"
         }
@@ -8403,6 +8477,7 @@
         {
           "reference_id": 9439,
           "content_id": 10271,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 2:24",
           "language": "eng"
         }
@@ -8450,6 +8525,7 @@
         {
           "reference_id": 9328,
           "content_id": 10160,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 10:1",
           "language": "eng"
         }
@@ -8537,6 +8613,7 @@
         {
           "reference_id": 19237,
           "content_id": 20069,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 1:1",
           "language": "eng"
         }
@@ -8564,6 +8641,7 @@
         {
           "reference_id": 9315,
           "content_id": 10147,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:33",
           "language": "eng"
         }
@@ -8591,6 +8669,7 @@
         {
           "reference_id": 9755,
           "content_id": 10587,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 8:2",
           "language": "eng"
         }
@@ -8638,6 +8717,7 @@
         {
           "reference_id": 9732,
           "content_id": 10564,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 6:3",
           "language": "eng"
         }
@@ -8865,6 +8945,7 @@
         {
           "reference_id": 9319,
           "content_id": 10151,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:4",
           "language": "eng"
         }
@@ -8912,6 +8993,7 @@
         {
           "reference_id": 9693,
           "content_id": 10525,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 4:24",
           "language": "eng"
         }
@@ -9159,6 +9241,7 @@
         {
           "reference_id": 9755,
           "content_id": 10587,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 8:2",
           "language": "eng"
         }
@@ -9226,12 +9309,14 @@
         {
           "reference_id": 9697,
           "content_id": 10529,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 4:34",
           "language": "eng"
         },
         {
           "reference_id": 9755,
           "content_id": 10587,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 8:2",
           "language": "eng"
         }
@@ -9479,12 +9564,14 @@
         {
           "reference_id": 9726,
           "content_id": 10558,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 6:16",
           "language": "eng"
         },
         {
           "reference_id": 10411,
           "content_id": 11243,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 28:30",
           "language": "eng"
         }
@@ -9832,6 +9919,7 @@
         {
           "reference_id": 9585,
           "content_id": 10417,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 3:17",
           "language": "eng"
         }
@@ -9859,6 +9947,7 @@
         {
           "reference_id": 9649,
           "content_id": 10481,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 32:51",
           "language": "eng"
         }
@@ -9986,6 +10075,7 @@
         {
           "reference_id": 9413,
           "content_id": 10245,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 18:15",
           "language": "eng"
         }

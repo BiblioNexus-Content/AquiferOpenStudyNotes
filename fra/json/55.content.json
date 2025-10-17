@@ -40,6 +40,7 @@
         {
           "reference_id": 16460,
           "content_id": 699575,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothée 1.1-2",
           "language": "fra"
         }
@@ -107,6 +108,7 @@
         {
           "reference_id": 14422,
           "content_id": 699380,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Timothée 1.5-14",
           "language": "fra"
         }
@@ -234,6 +236,7 @@
         {
           "reference_id": 16535,
           "content_id": 99529,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothée 6.14",
           "language": "fra"
         }
@@ -281,18 +284,21 @@
         {
           "reference_id": 14414,
           "content_id": 699372,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Timothée 1.12",
           "language": "fra"
         },
         {
           "reference_id": 14440,
           "content_id": 699398,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Timothée 2.2",
           "language": "fra"
         },
         {
           "reference_id": 14447,
           "content_id": 699405,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Timothée 3.11",
           "language": "fra"
         }
@@ -500,12 +506,14 @@
         {
           "reference_id": 16464,
           "content_id": 699579,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothée 1.15",
           "language": "fra"
         },
         {
           "reference_id": 16488,
           "content_id": 699603,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothée 2.5-6",
           "language": "fra"
         }
@@ -933,6 +941,7 @@
         {
           "reference_id": 16535,
           "content_id": 99529,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothée 6.14",
           "language": "fra"
         }
@@ -1060,12 +1069,14 @@
         {
           "reference_id": 14414,
           "content_id": 699372,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Timothée 1.12",
           "language": "fra"
         },
         {
           "reference_id": 16543,
           "content_id": 699653,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothée 6.20",
           "language": "fra"
         }
@@ -1173,12 +1184,14 @@
         {
           "reference_id": 14459,
           "content_id": 699417,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Timothée 4.13",
           "language": "fra"
         },
         {
           "reference_id": 14465,
           "content_id": 699423,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Timothée 4.19",
           "language": "fra"
         }
@@ -1246,6 +1259,7 @@
         {
           "reference_id": 14456,
           "content_id": 699414,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Timothée 4.10",
           "language": "fra"
         }

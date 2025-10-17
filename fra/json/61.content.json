@@ -20,6 +20,7 @@
         {
           "reference_id": 8808,
           "content_id": 92493,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Actes 7.58",
           "language": "fra"
         }
@@ -407,6 +408,7 @@
         {
           "reference_id": 203399,
           "content_id": 668857,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Lot",
           "language": "fra"
         }
@@ -714,6 +716,7 @@
         {
           "reference_id": 13951,
           "content_id": 699329,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Pierre 1.19",
           "language": "fra"
         }

@@ -80,6 +80,7 @@
         {
           "reference_id": 18726,
           "content_id": 721890,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 3.10",
           "language": "fra"
         }
@@ -187,6 +188,7 @@
         {
           "reference_id": 10445,
           "content_id": 148153,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.15",
           "language": "fra"
         }
@@ -1034,6 +1036,7 @@
         {
           "reference_id": 18760,
           "content_id": 721924,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 5.9",
           "language": "fra"
         }
@@ -1541,6 +1544,7 @@
         {
           "reference_id": 18632,
           "content_id": 721796,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 2.1",
           "language": "fra"
         }
@@ -1688,6 +1692,7 @@
         {
           "reference_id": 203127,
           "content_id": 708417,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Dévouer par interdit",
           "language": "fra"
         }
@@ -1895,6 +1900,7 @@
         {
           "reference_id": 18736,
           "content_id": 721900,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 3.5",
           "language": "fra"
         }
@@ -2162,6 +2168,7 @@
         {
           "reference_id": 10195,
           "content_id": 147906,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 12.37",
           "language": "fra"
         }
@@ -2469,6 +2476,7 @@
         {
           "reference_id": 18726,
           "content_id": 721890,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 3.10",
           "language": "fra"
         }
@@ -2536,6 +2544,7 @@
         {
           "reference_id": 18791,
           "content_id": 721955,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 7.2",
           "language": "fra"
         }
@@ -2663,12 +2672,14 @@
         {
           "reference_id": 10305,
           "content_id": 148013,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 20.1-23.33",
           "language": "fra"
         },
         {
           "reference_id": 18808,
           "content_id": 721972,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 8.32",
           "language": "fra"
         }
@@ -2716,6 +2727,7 @@
         {
           "reference_id": 18791,
           "content_id": 721955,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 7.2",
           "language": "fra"
         }
@@ -2823,6 +2835,7 @@
         {
           "reference_id": 18746,
           "content_id": 721910,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 4.9",
           "language": "fra"
         }
@@ -2870,6 +2883,7 @@
         {
           "reference_id": 18791,
           "content_id": 721955,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 7.2",
           "language": "fra"
         }
@@ -2917,6 +2931,7 @@
         {
           "reference_id": 18726,
           "content_id": 721890,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 3.10",
           "language": "fra"
         }
@@ -3204,6 +3219,7 @@
         {
           "reference_id": 18639,
           "content_id": 721803,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 2.9-10",
           "language": "fra"
         }
@@ -3311,6 +3327,7 @@
         {
           "reference_id": 9321,
           "content_id": 148344,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.7",
           "language": "fra"
         }
@@ -3638,6 +3655,7 @@
         {
           "reference_id": 18483,
           "content_id": 721647,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 1.13",
           "language": "fra"
         }
@@ -3825,6 +3843,7 @@
         {
           "reference_id": 18726,
           "content_id": 721890,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 3.10",
           "language": "fra"
         }
@@ -4172,6 +4191,7 @@
         {
           "reference_id": 18783,
           "content_id": 721947,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 7.16-18",
           "language": "fra"
         }
@@ -4199,6 +4219,7 @@
         {
           "reference_id": 12063,
           "content_id": 147782,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genèse 48.5-7",
           "language": "fra"
         }
@@ -4306,6 +4327,7 @@
         {
           "reference_id": 18483,
           "content_id": 721647,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 1.13",
           "language": "fra"
         }
@@ -4453,6 +4475,7 @@
         {
           "reference_id": 18550,
           "content_id": 721714,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 13.2",
           "language": "fra"
         }
@@ -4560,6 +4583,7 @@
         {
           "reference_id": 18488,
           "content_id": 721652,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 1.4",
           "language": "fra"
         }
@@ -4807,6 +4831,7 @@
         {
           "reference_id": 18549,
           "content_id": 721713,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 13.29-33",
           "language": "fra"
         }
@@ -4974,6 +4999,7 @@
         {
           "reference_id": 18537,
           "content_id": 721701,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 12.4",
           "language": "fra"
         }
@@ -5001,6 +5027,7 @@
         {
           "reference_id": 18528,
           "content_id": 721692,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 11.4",
           "language": "fra"
         }
@@ -5108,6 +5135,7 @@
         {
           "reference_id": 18783,
           "content_id": 721947,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 7.16-18",
           "language": "fra"
         }
@@ -5195,6 +5223,7 @@
         {
           "reference_id": 18578,
           "content_id": 721742,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 15.59",
           "language": "fra"
         }
@@ -5222,6 +5251,7 @@
         {
           "reference_id": 18582,
           "content_id": 721746,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 15.8",
           "language": "fra"
         }
@@ -5549,6 +5579,7 @@
         {
           "reference_id": 18556,
           "content_id": 721720,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 14.1-19.51",
           "language": "fra"
         }
@@ -5696,6 +5727,7 @@
         {
           "reference_id": 18783,
           "content_id": 721947,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 7.16-18",
           "language": "fra"
         }
@@ -5723,6 +5755,7 @@
         {
           "reference_id": 18492,
           "content_id": 721656,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 1.8",
           "language": "fra"
         }
@@ -6690,6 +6723,7 @@
         {
           "reference_id": 18807,
           "content_id": 721971,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 8.30-31",
           "language": "fra"
         }
@@ -6737,6 +6771,7 @@
         {
           "reference_id": 10305,
           "content_id": 148013,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 20.1-23.33",
           "language": "fra"
         }
@@ -6864,6 +6899,7 @@
         {
           "reference_id": 10210,
           "content_id": 147918,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 13.18",
           "language": "fra"
         }
@@ -6951,6 +6987,7 @@
         {
           "reference_id": 18726,
           "content_id": 721890,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 3.10",
           "language": "fra"
         }
@@ -7098,6 +7135,7 @@
         {
           "reference_id": 203121,
           "content_id": 734179,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "La sainteté infinie de Dieu",
           "language": "fra"
         }
@@ -7185,6 +7223,7 @@
         {
           "reference_id": 18818,
           "content_id": 721982,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 9.15",
           "language": "fra"
         }
@@ -7212,6 +7251,7 @@
         {
           "reference_id": 18492,
           "content_id": 721656,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 1.8",
           "language": "fra"
         }
@@ -7239,6 +7279,7 @@
         {
           "reference_id": 18672,
           "content_id": 721836,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 22.27",
           "language": "fra"
         }

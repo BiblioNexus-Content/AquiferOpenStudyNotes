@@ -100,12 +100,14 @@
         {
           "reference_id": 13425,
           "content_id": 14257,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthians 1:1-2",
           "language": "eng"
         },
         {
           "reference_id": 14367,
           "content_id": 15199,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Thessalonians 1:1-2",
           "language": "eng"
         }
@@ -133,6 +135,7 @@
         {
           "reference_id": 24337,
           "content_id": 25169,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 1:1-11",
           "language": "eng"
         }
@@ -240,6 +243,7 @@
         {
           "reference_id": 24337,
           "content_id": 25169,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 1:1-11",
           "language": "eng"
         }
@@ -267,6 +271,7 @@
         {
           "reference_id": 20069,
           "content_id": 20901,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 24:1",
           "language": "eng"
         }
@@ -434,6 +439,7 @@
         {
           "reference_id": 24357,
           "content_id": 25189,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 1:8",
           "language": "eng"
         }
@@ -461,6 +467,7 @@
         {
           "reference_id": 24658,
           "content_id": 25490,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 6:7-8",
           "language": "eng"
         }
@@ -788,6 +795,7 @@
         {
           "reference_id": 24345,
           "content_id": 25177,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 1:16",
           "language": "eng"
         }
@@ -855,6 +863,7 @@
         {
           "reference_id": 24540,
           "content_id": 25372,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 2:6",
           "language": "eng"
         }
@@ -1202,12 +1211,14 @@
         {
           "reference_id": 24532,
           "content_id": 25364,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 2:2-3",
           "language": "eng"
         },
         {
           "reference_id": 24619,
           "content_id": 25451,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 3:7",
           "language": "eng"
         }
@@ -1235,6 +1246,7 @@
         {
           "reference_id": 24544,
           "content_id": 25376,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 2:9",
           "language": "eng"
         }
@@ -1382,6 +1394,7 @@
         {
           "reference_id": 24607,
           "content_id": 25439,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 3:14",
           "language": "eng"
         }
@@ -1669,6 +1682,7 @@
         {
           "reference_id": 24354,
           "content_id": 25186,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 1:4",
           "language": "eng"
         }
@@ -2736,6 +2750,7 @@
         {
           "reference_id": 11404,
           "content_id": 12236,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 1:2",
           "language": "eng"
         }
@@ -2883,6 +2898,7 @@
         {
           "reference_id": 10403,
           "content_id": 11235,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 27:2",
           "language": "eng"
         }
@@ -2950,6 +2966,7 @@
         {
           "reference_id": 24681,
           "content_id": 25513,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 8:7-12",
           "language": "eng"
         }
@@ -3197,24 +3214,28 @@
         {
           "reference_id": 9245,
           "content_id": 10077,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 7:24-25",
           "language": "eng"
         },
         {
           "reference_id": 9271,
           "content_id": 10103,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 8:26",
           "language": "eng"
         },
         {
           "reference_id": 9289,
           "content_id": 10121,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9:24-27",
           "language": "eng"
         },
         {
           "reference_id": 24379,
           "content_id": 25211,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 11:1",
           "language": "eng"
         }
@@ -3262,6 +3283,7 @@
         {
           "reference_id": 24341,
           "content_id": 25173,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 1:12",
           "language": "eng"
         }
@@ -3509,6 +3531,7 @@
         {
           "reference_id": 24628,
           "content_id": 25460,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 4:4",
           "language": "eng"
         }
@@ -3556,6 +3579,7 @@
         {
           "reference_id": 203219,
           "content_id": 500276,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Fear of the Lord",
           "language": "eng"
         }
@@ -3723,6 +3747,7 @@
         {
           "reference_id": 24380,
           "content_id": 25212,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 11:2-3",
           "language": "eng"
         }
@@ -3830,6 +3855,7 @@
         {
           "reference_id": 24397,
           "content_id": 25229,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 12:1",
           "language": "eng"
         }
@@ -3937,12 +3963,14 @@
         {
           "reference_id": 24395,
           "content_id": 25227,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 12:18-13.18",
           "language": "eng"
         },
         {
           "reference_id": 203265,
           "content_id": 500322,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Four World Empires",
           "language": "eng"
         }
@@ -4010,6 +4038,7 @@
         {
           "reference_id": 24380,
           "content_id": 25212,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 11:2-3",
           "language": "eng"
         }
@@ -4157,6 +4186,7 @@
         {
           "reference_id": 24395,
           "content_id": 25227,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 12:18-13.18",
           "language": "eng"
         }
@@ -4184,12 +4214,14 @@
         {
           "reference_id": 24415,
           "content_id": 25247,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 13:3",
           "language": "eng"
         },
         {
           "reference_id": 24473,
           "content_id": 25305,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 17:8",
           "language": "eng"
         }
@@ -4297,6 +4329,7 @@
         {
           "reference_id": 203388,
           "content_id": 500445,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Symbolic Numbers",
           "language": "eng"
         }
@@ -4324,12 +4357,14 @@
         {
           "reference_id": 24396,
           "content_id": 25228,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 12:18",
           "language": "eng"
         },
         {
           "reference_id": 24669,
           "content_id": 25501,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 7:4-8",
           "language": "eng"
         }
@@ -4537,6 +4572,7 @@
         {
           "reference_id": 24342,
           "content_id": 25174,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 1:13",
           "language": "eng"
         }
@@ -4644,6 +4680,7 @@
         {
           "reference_id": 24647,
           "content_id": 25479,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 6:1-16.21",
           "language": "eng"
         }
@@ -5271,12 +5308,14 @@
         {
           "reference_id": 24461,
           "content_id": 25293,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 17:10-11",
           "language": "eng"
         },
         {
           "reference_id": 24684,
           "content_id": 25516,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 9:1-12",
           "language": "eng"
         }
@@ -5324,6 +5363,7 @@
         {
           "reference_id": 24445,
           "content_id": 25277,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 16:10-11",
           "language": "eng"
         }
@@ -5351,6 +5391,7 @@
         {
           "reference_id": 24473,
           "content_id": 25305,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 17:8",
           "language": "eng"
         }
@@ -5478,6 +5519,7 @@
         {
           "reference_id": 24433,
           "content_id": 25265,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 14:8",
           "language": "eng"
         }
@@ -5505,6 +5547,7 @@
         {
           "reference_id": 24469,
           "content_id": 25301,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 17:5",
           "language": "eng"
         }
@@ -5592,6 +5635,7 @@
         {
           "reference_id": 24475,
           "content_id": 25307,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 18:1-24",
           "language": "eng"
         }
@@ -5759,6 +5803,7 @@
         {
           "reference_id": 24497,
           "content_id": 25329,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 18:9-19",
           "language": "eng"
         }
@@ -5826,6 +5871,7 @@
         {
           "reference_id": 24476,
           "content_id": 25308,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 18:1-3",
           "language": "eng"
         }
@@ -5853,6 +5899,7 @@
         {
           "reference_id": 24497,
           "content_id": 25329,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 18:9-19",
           "language": "eng"
         }
@@ -5980,6 +6027,7 @@
         {
           "reference_id": 24475,
           "content_id": 25307,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 18:1-24",
           "language": "eng"
         }
@@ -6047,6 +6095,7 @@
         {
           "reference_id": 24639,
           "content_id": 25471,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 5:14",
           "language": "eng"
         }
@@ -6114,6 +6163,7 @@
         {
           "reference_id": 24441,
           "content_id": 25273,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 15:5-6",
           "language": "eng"
         }
@@ -6401,6 +6451,7 @@
         {
           "reference_id": 203392,
           "content_id": 500449,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Thousand Years (The Millennium)",
           "language": "eng"
         }
@@ -6668,6 +6719,7 @@
         {
           "reference_id": 24658,
           "content_id": 25490,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 6:7-8",
           "language": "eng"
         }
@@ -6715,6 +6767,7 @@
         {
           "reference_id": 24684,
           "content_id": 25516,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 9:1-12",
           "language": "eng"
         }
@@ -6762,6 +6815,7 @@
         {
           "reference_id": 24581,
           "content_id": 25413,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 21:9-22.9",
           "language": "eng"
         }
@@ -6829,6 +6883,7 @@
         {
           "reference_id": 24668,
           "content_id": 25500,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 7:16-17",
           "language": "eng"
         }
@@ -6876,6 +6931,7 @@
         {
           "reference_id": 24547,
           "content_id": 25379,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 20:10",
           "language": "eng"
         }
@@ -7003,6 +7059,7 @@
         {
           "reference_id": 203388,
           "content_id": 500445,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Symbolic Numbers",
           "language": "eng"
         }
@@ -7050,6 +7107,7 @@
         {
           "reference_id": 24562,
           "content_id": 25394,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 21:11",
           "language": "eng"
         }
@@ -7457,6 +7515,7 @@
         {
           "reference_id": 24573,
           "content_id": 25405,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Revelation 21:24-25",
           "language": "eng"
         }

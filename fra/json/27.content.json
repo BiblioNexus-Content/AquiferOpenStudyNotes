@@ -440,12 +440,14 @@
         {
           "reference_id": 9207,
           "content_id": 154895,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5.30",
           "language": "fra"
         },
         {
           "reference_id": 9208,
           "content_id": 154896,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5.31",
           "language": "fra"
         }
@@ -553,6 +555,7 @@
         {
           "reference_id": 9052,
           "content_id": 154741,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 1.20",
           "language": "fra"
         }
@@ -1560,6 +1563,7 @@
         {
           "reference_id": 9153,
           "content_id": 154841,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 2.4",
           "language": "fra"
         }
@@ -1927,6 +1931,7 @@
         {
           "reference_id": 9207,
           "content_id": 154895,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5.30",
           "language": "fra"
         }
@@ -2014,6 +2019,7 @@
         {
           "reference_id": 9198,
           "content_id": 154886,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5.1",
           "language": "fra"
         }
@@ -2321,12 +2327,14 @@
         {
           "reference_id": 9223,
           "content_id": 154911,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 6.28",
           "language": "fra"
         },
         {
           "reference_id": 203460,
           "content_id": 668918,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Les Mèdes et les Perses",
           "language": "fra"
         }
@@ -2694,6 +2702,7 @@
         {
           "reference_id": 9208,
           "content_id": 154896,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5.31",
           "language": "fra"
         }
@@ -3381,6 +3390,7 @@
         {
           "reference_id": 9271,
           "content_id": 154957,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 8.26",
           "language": "fra"
         }
@@ -3528,6 +3538,7 @@
         {
           "reference_id": 203472,
           "content_id": 668930,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "La civilisation grecque",
           "language": "fra"
         }
@@ -3635,6 +3646,7 @@
         {
           "reference_id": 9208,
           "content_id": 154896,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5.31",
           "language": "fra"
         }
@@ -3662,6 +3674,7 @@
         {
           "reference_id": 9283,
           "content_id": 154969,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9.19",
           "language": "fra"
         }
@@ -3749,6 +3762,7 @@
         {
           "reference_id": 203119,
           "content_id": 708412,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Identité communautaire",
           "language": "fra"
         }
@@ -3976,6 +3990,7 @@
         {
           "reference_id": 9284,
           "content_id": 154970,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9.1",
           "language": "fra"
         }
@@ -4083,6 +4098,7 @@
         {
           "reference_id": 16922,
           "content_id": 721070,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Jérémie 25.11",
           "language": "fra"
         }
@@ -4150,6 +4166,7 @@
         {
           "reference_id": 9086,
           "content_id": 154775,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 11.22",
           "language": "fra"
         }
@@ -4417,6 +4434,7 @@
         {
           "reference_id": 9208,
           "content_id": 154896,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 5.31",
           "language": "fra"
         }
@@ -4444,6 +4462,7 @@
         {
           "reference_id": 10062,
           "content_id": 719339,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Esther 1.1",
           "language": "fra"
         }
@@ -4491,6 +4510,7 @@
         {
           "reference_id": 9266,
           "content_id": 154952,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 8.21",
           "language": "fra"
         }
@@ -4518,6 +4538,7 @@
         {
           "reference_id": 9250,
           "content_id": 154936,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 7.4",
           "language": "fra"
         }
@@ -4845,12 +4866,14 @@
         {
           "reference_id": 9291,
           "content_id": 154977,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9.25",
           "language": "fra"
         },
         {
           "reference_id": 9293,
           "content_id": 154979,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9.27",
           "language": "fra"
         }
@@ -4978,6 +5001,7 @@
         {
           "reference_id": 9293,
           "content_id": 154979,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9.27",
           "language": "fra"
         }
@@ -5305,6 +5329,7 @@
         {
           "reference_id": 9245,
           "content_id": 154931,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 7.24-25",
           "language": "fra"
         }
@@ -5352,6 +5377,7 @@
         {
           "reference_id": 9293,
           "content_id": 154979,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Daniel 9.27",
           "language": "fra"
         }

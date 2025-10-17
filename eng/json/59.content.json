@@ -20,6 +20,7 @@
         {
           "reference_id": 203503,
           "content_id": 500560,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "James, Brother of Jesus",
           "language": "eng"
         }
@@ -47,6 +48,7 @@
         {
           "reference_id": 16578,
           "content_id": 17410,
+          "resource_code": "TyndaleStudyNotes",
           "label": "James 2:1",
           "language": "eng"
         }
@@ -654,6 +656,7 @@
         {
           "reference_id": 16562,
           "content_id": 17394,
+          "resource_code": "TyndaleStudyNotes",
           "label": "James 1:25",
           "language": "eng"
         }
@@ -761,6 +764,7 @@
         {
           "reference_id": 16551,
           "content_id": 17383,
+          "resource_code": "TyndaleStudyNotes",
           "label": "James 1:13",
           "language": "eng"
         }
@@ -1308,6 +1312,7 @@
         {
           "reference_id": 16559,
           "content_id": 17391,
+          "resource_code": "TyndaleStudyNotes",
           "label": "James 1:22-23",
           "language": "eng"
         }
@@ -1555,6 +1560,7 @@
         {
           "reference_id": 16559,
           "content_id": 17391,
+          "resource_code": "TyndaleStudyNotes",
           "label": "James 1:22-23",
           "language": "eng"
         }
@@ -1622,6 +1628,7 @@
         {
           "reference_id": 26435,
           "content_id": 27344,
+          "resource_code": "TyndaleStudyNotesBookIntros",
           "label": "James",
           "language": "eng"
         }

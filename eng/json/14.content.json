@@ -60,6 +60,7 @@
         {
           "reference_id": 10402,
           "content_id": 11234,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 27:21",
           "language": "eng"
         }
@@ -87,6 +88,7 @@
         {
           "reference_id": 203164,
           "content_id": 500221,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Solomon’s Wisdom",
           "language": "eng"
         }
@@ -974,12 +976,14 @@
         {
           "reference_id": 203115,
           "content_id": 500172,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Glory of God",
           "language": "eng"
         },
         {
           "reference_id": 203255,
           "content_id": 500312,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "God’s Glory with His People",
           "language": "eng"
         }
@@ -1867,6 +1871,7 @@
         {
           "reference_id": 17858,
           "content_id": 18690,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Job 7:12",
           "language": "eng"
         }
@@ -2334,6 +2339,7 @@
         {
           "reference_id": 13212,
           "content_id": 14044,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chronicles 16:1",
           "language": "eng"
         }
@@ -2881,6 +2887,7 @@
         {
           "reference_id": 11684,
           "content_id": 12516,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genesis 25:25",
           "language": "eng"
         }
@@ -3128,6 +3135,7 @@
         {
           "reference_id": 13200,
           "content_id": 14032,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chronicles 15:16",
           "language": "eng"
         }
@@ -3435,6 +3443,7 @@
         {
           "reference_id": 203217,
           "content_id": 500274,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Prayers for Vengeance",
           "language": "eng"
         }
@@ -3882,6 +3891,7 @@
         {
           "reference_id": 13685,
           "content_id": 14517,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Kings 16:1-2",
           "language": "eng"
         }
@@ -5449,6 +5459,7 @@
         {
           "reference_id": 11176,
           "content_id": 12008,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezra 6:15",
           "language": "eng"
         }

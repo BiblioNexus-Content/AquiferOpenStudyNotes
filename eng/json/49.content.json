@@ -620,6 +620,7 @@
         {
           "reference_id": 9927,
           "content_id": 10759,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ephesians 1:2",
           "language": "eng"
         }
@@ -827,6 +828,7 @@
         {
           "reference_id": 9915,
           "content_id": 10747,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ephesians 1:12-13",
           "language": "eng"
         }
@@ -994,6 +996,7 @@
         {
           "reference_id": 9935,
           "content_id": 10767,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ephesians 1:8-10",
           "language": "eng"
         }
@@ -1061,6 +1064,7 @@
         {
           "reference_id": 9927,
           "content_id": 10759,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ephesians 1:2",
           "language": "eng"
         }
@@ -1108,6 +1112,7 @@
         {
           "reference_id": 9924,
           "content_id": 10756,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ephesians 1:21",
           "language": "eng"
         }
@@ -1355,6 +1360,7 @@
         {
           "reference_id": 9968,
           "content_id": 10800,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ephesians 3:1",
           "language": "eng"
         }
@@ -2422,6 +2428,7 @@
         {
           "reference_id": 9935,
           "content_id": 10767,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ephesians 1:8-10",
           "language": "eng"
         }
@@ -2549,6 +2556,7 @@
         {
           "reference_id": 26433,
           "content_id": 27342,
+          "resource_code": "TyndaleStudyNotesBookIntros",
           "label": "Philemon",
           "language": "eng"
         }
@@ -2836,12 +2844,14 @@
         {
           "reference_id": 9935,
           "content_id": 10767,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ephesians 1:8-10",
           "language": "eng"
         },
         {
           "reference_id": 9973,
           "content_id": 10805,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ephesians 3:3",
           "language": "eng"
         }

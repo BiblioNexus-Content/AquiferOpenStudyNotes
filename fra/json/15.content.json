@@ -280,6 +280,7 @@
         {
           "reference_id": 11203,
           "content_id": 719528,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Esdras 8.18",
           "language": "fra"
         }
@@ -507,6 +508,7 @@
         {
           "reference_id": 11109,
           "content_id": 719434,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Esdras 1.8",
           "language": "fra"
         }
@@ -1274,6 +1276,7 @@
         {
           "reference_id": 11109,
           "content_id": 719434,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Esdras 1.8",
           "language": "fra"
         }
@@ -2161,6 +2164,7 @@
         {
           "reference_id": 203119,
           "content_id": 708412,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Identité communautaire",
           "language": "fra"
         }

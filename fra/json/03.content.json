@@ -20,6 +20,7 @@
         {
           "reference_id": 10402,
           "content_id": 148110,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 27.21",
           "language": "fra"
         }
@@ -67,6 +68,7 @@
         {
           "reference_id": 20721,
           "content_id": 28292,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Marc 7.11-12",
           "language": "fra"
         }
@@ -374,6 +376,7 @@
         {
           "reference_id": 19384,
           "content_id": 158821,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 2.11",
           "language": "fra"
         }
@@ -481,12 +484,14 @@
         {
           "reference_id": 13191,
           "content_id": 719762,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Chroniques 13.5",
           "language": "fra"
         },
         {
           "reference_id": 21885,
           "content_id": 204316,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Nombres 18.19",
           "language": "fra"
         }
@@ -634,6 +639,7 @@
         {
           "reference_id": 19245,
           "content_id": 158682,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 1.9",
           "language": "fra"
         }
@@ -681,6 +687,7 @@
         {
           "reference_id": 19242,
           "content_id": 158679,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 1.5",
           "language": "fra"
         }
@@ -728,12 +735,14 @@
         {
           "reference_id": 19525,
           "content_id": 158962,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 5.17-19",
           "language": "fra"
         },
         {
           "reference_id": 203119,
           "content_id": 708412,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Identité communautaire",
           "language": "fra"
         }
@@ -781,6 +790,7 @@
         {
           "reference_id": 19237,
           "content_id": 158674,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 1.1",
           "language": "fra"
         }
@@ -808,6 +818,7 @@
         {
           "reference_id": 10403,
           "content_id": 148111,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 27.2",
           "language": "fra"
         }
@@ -1135,6 +1146,7 @@
         {
           "reference_id": 19505,
           "content_id": 158942,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 4.1-5.13",
           "language": "fra"
         }
@@ -1222,18 +1234,21 @@
         {
           "reference_id": 19241,
           "content_id": 158678,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 1.4",
           "language": "fra"
         },
         {
           "reference_id": 19389,
           "content_id": 158826,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 2.3",
           "language": "fra"
         },
         {
           "reference_id": 19508,
           "content_id": 158945,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 4.20",
           "language": "fra"
         }
@@ -1381,12 +1396,14 @@
         {
           "reference_id": 19241,
           "content_id": 158678,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 1.4",
           "language": "fra"
         },
         {
           "reference_id": 19508,
           "content_id": 158945,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 4.20",
           "language": "fra"
         }
@@ -1514,12 +1531,14 @@
         {
           "reference_id": 19384,
           "content_id": 158821,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 2.11",
           "language": "fra"
         },
         {
           "reference_id": 19389,
           "content_id": 158826,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 2.3",
           "language": "fra"
         }
@@ -1547,6 +1566,7 @@
         {
           "reference_id": 19249,
           "content_id": 158686,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 10.13-15",
           "language": "fra"
         }
@@ -2134,6 +2154,7 @@
         {
           "reference_id": 19234,
           "content_id": 158671,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 1.10-13",
           "language": "fra"
         }
@@ -2221,6 +2242,7 @@
         {
           "reference_id": 19570,
           "content_id": 159007,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 8.2",
           "language": "fra"
         }
@@ -2308,6 +2330,7 @@
         {
           "reference_id": 19507,
           "content_id": 158944,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 4.15",
           "language": "fra"
         }
@@ -2395,6 +2418,7 @@
         {
           "reference_id": 19513,
           "content_id": 158950,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 4.25",
           "language": "fra"
         }
@@ -3042,6 +3066,7 @@
         {
           "reference_id": 19354,
           "content_id": 158791,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 18.2",
           "language": "fra"
         }
@@ -3089,12 +3114,14 @@
         {
           "reference_id": 19260,
           "content_id": 158697,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 11.1-15.33",
           "language": "fra"
         },
         {
           "reference_id": 19528,
           "content_id": 158965,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 5.3",
           "language": "fra"
         }
@@ -3202,6 +3229,7 @@
         {
           "reference_id": 19505,
           "content_id": 158942,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 4.1-5.13",
           "language": "fra"
         }
@@ -3229,6 +3257,7 @@
         {
           "reference_id": 19241,
           "content_id": 158678,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 1.4",
           "language": "fra"
         }
@@ -3276,6 +3305,7 @@
         {
           "reference_id": 19289,
           "content_id": 158726,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 13.2",
           "language": "fra"
         }
@@ -3303,6 +3333,7 @@
         {
           "reference_id": 203122,
           "content_id": 708413,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "pur, impur, et saint",
           "language": "fra"
         }
@@ -3710,6 +3741,7 @@
         {
           "reference_id": 19568,
           "content_id": 159005,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 8.23",
           "language": "fra"
         }
@@ -3777,6 +3809,7 @@
         {
           "reference_id": 19383,
           "content_id": 158820,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 2.1-16",
           "language": "fra"
         }
@@ -3824,6 +3857,7 @@
         {
           "reference_id": 19260,
           "content_id": 158697,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 11.1-15.33",
           "language": "fra"
         }
@@ -3891,6 +3925,7 @@
         {
           "reference_id": 19292,
           "content_id": 158729,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 13.3",
           "language": "fra"
         }
@@ -3938,12 +3973,14 @@
         {
           "reference_id": 19285,
           "content_id": 158722,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 13.1-46",
           "language": "fra"
         },
         {
           "reference_id": 203122,
           "content_id": 708413,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "pur, impur, et saint",
           "language": "fra"
         }
@@ -4011,6 +4048,7 @@
         {
           "reference_id": 19315,
           "content_id": 158752,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 15.1-33",
           "language": "fra"
         }
@@ -4338,6 +4376,7 @@
         {
           "reference_id": 10453,
           "content_id": 148161,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 3.5",
           "language": "fra"
         }
@@ -4385,6 +4424,7 @@
         {
           "reference_id": 19554,
           "content_id": 158991,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 7.20-21",
           "language": "fra"
         }
@@ -4592,6 +4632,7 @@
         {
           "reference_id": 19395,
           "content_id": 158832,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 20.17",
           "language": "fra"
         }
@@ -4819,6 +4860,7 @@
         {
           "reference_id": 19350,
           "content_id": 158787,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 18.22",
           "language": "fra"
         }
@@ -4866,6 +4908,7 @@
         {
           "reference_id": 19352,
           "content_id": 158789,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 18.24-25",
           "language": "fra"
         }
@@ -4893,6 +4936,7 @@
         {
           "reference_id": 19272,
           "content_id": 158709,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 11.44-45",
           "language": "fra"
         }
@@ -4980,6 +5024,7 @@
         {
           "reference_id": 19349,
           "content_id": 158786,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 18.21",
           "language": "fra"
         }
@@ -5187,6 +5232,7 @@
         {
           "reference_id": 19555,
           "content_id": 158992,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 7.22-27",
           "language": "fra"
         }
@@ -5434,6 +5480,7 @@
         {
           "reference_id": 19348,
           "content_id": 158785,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 18.20",
           "language": "fra"
         }
@@ -5461,6 +5508,7 @@
         {
           "reference_id": 19357,
           "content_id": 158794,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 18:7-8",
           "language": "fra"
         }
@@ -5508,6 +5556,7 @@
         {
           "reference_id": 19345,
           "content_id": 158782,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 18.16",
           "language": "fra"
         }
@@ -5595,18 +5644,21 @@
         {
           "reference_id": 19257,
           "content_id": 158694,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 10.6",
           "language": "fra"
         },
         {
           "reference_id": 19372,
           "content_id": 158809,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 19.27",
           "language": "fra"
         },
         {
           "reference_id": 19373,
           "content_id": 158810,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 19.28",
           "language": "fra"
         }
@@ -5954,6 +6006,7 @@
         {
           "reference_id": 19266,
           "content_id": 158703,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 11.24-25",
           "language": "fra"
         }
@@ -6001,6 +6054,7 @@
         {
           "reference_id": 19384,
           "content_id": 158821,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 2.11",
           "language": "fra"
         }
@@ -6048,6 +6102,7 @@
         {
           "reference_id": 19559,
           "content_id": 158996,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 7.34",
           "language": "fra"
         }
@@ -6095,6 +6150,7 @@
         {
           "reference_id": 10353,
           "content_id": 148061,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 23.16",
           "language": "fra"
         }
@@ -6182,6 +6238,7 @@
         {
           "reference_id": 19554,
           "content_id": 158991,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 7.20-21",
           "language": "fra"
         }
@@ -6469,6 +6526,7 @@
         {
           "reference_id": 19376,
           "content_id": 158813,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 19.30",
           "language": "fra"
         }
@@ -6656,6 +6714,7 @@
         {
           "reference_id": 19448,
           "content_id": 158885,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 25.25",
           "language": "fra"
         }
@@ -6723,12 +6782,14 @@
         {
           "reference_id": 19362,
           "content_id": 158799,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 19.13",
           "language": "fra"
         },
         {
           "reference_id": 19460,
           "content_id": 158897,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 25.8-17",
           "language": "fra"
         }
@@ -7116,12 +7177,14 @@
         {
           "reference_id": 19353,
           "content_id": 158790,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 18.28",
           "language": "fra"
         },
         {
           "reference_id": 19463,
           "content_id": 158900,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 26.14-39",
           "language": "fra"
         }
@@ -7149,6 +7212,7 @@
         {
           "reference_id": 19508,
           "content_id": 158945,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 4.20",
           "language": "fra"
         }
@@ -7256,6 +7320,7 @@
         {
           "reference_id": 19523,
           "content_id": 158960,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 5.15",
           "language": "fra"
         }

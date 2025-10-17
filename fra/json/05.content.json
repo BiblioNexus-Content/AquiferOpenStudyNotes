@@ -60,6 +60,7 @@
         {
           "reference_id": 9307,
           "content_id": 148330,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.19",
           "language": "fra"
         }
@@ -87,12 +88,14 @@
         {
           "reference_id": 8888,
           "content_id": 735241,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Amos 4.1",
           "language": "fra"
         },
         {
           "reference_id": 21934,
           "content_id": 204365,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Nombres 21.13",
           "language": "fra"
         }
@@ -500,6 +503,7 @@
         {
           "reference_id": 9308,
           "content_id": 148331,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.1",
           "language": "fra"
         }
@@ -567,6 +571,7 @@
         {
           "reference_id": 9308,
           "content_id": 148331,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.1",
           "language": "fra"
         }
@@ -694,6 +699,7 @@
         {
           "reference_id": 9448,
           "content_id": 148471,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.9",
           "language": "fra"
         }
@@ -741,18 +747,21 @@
         {
           "reference_id": 11609,
           "content_id": 147412,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Genèse 21.32",
           "language": "fra"
         },
         {
           "reference_id": 18550,
           "content_id": 721714,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 13.2",
           "language": "fra"
         },
         {
           "reference_id": 19055,
           "content_id": 722196,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Juges 3.3",
           "language": "fra"
         }
@@ -840,6 +849,7 @@
         {
           "reference_id": 203111,
           "content_id": 734177,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "L'endurcissement du cœur",
           "language": "fra"
         }
@@ -987,6 +997,7 @@
         {
           "reference_id": 9443,
           "content_id": 148466,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.34",
           "language": "fra"
         }
@@ -1014,6 +1025,7 @@
         {
           "reference_id": 9434,
           "content_id": 148457,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.19",
           "language": "fra"
         }
@@ -1041,6 +1053,7 @@
         {
           "reference_id": 9444,
           "content_id": 148467,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.36",
           "language": "fra"
         }
@@ -1148,6 +1161,7 @@
         {
           "reference_id": 9308,
           "content_id": 148331,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.1",
           "language": "fra"
         }
@@ -1255,6 +1269,7 @@
         {
           "reference_id": 9705,
           "content_id": 148728,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 4.44",
           "language": "fra"
         }
@@ -1362,6 +1377,7 @@
         {
           "reference_id": 9315,
           "content_id": 148338,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.33",
           "language": "fra"
         }
@@ -1569,6 +1585,7 @@
         {
           "reference_id": 9755,
           "content_id": 148771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 8.2",
           "language": "fra"
         }
@@ -1596,6 +1613,7 @@
         {
           "reference_id": 9315,
           "content_id": 148338,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.33",
           "language": "fra"
         }
@@ -1723,6 +1741,7 @@
         {
           "reference_id": 9710,
           "content_id": 148733,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 5.1-26.19",
           "language": "fra"
         }
@@ -1930,6 +1949,7 @@
         {
           "reference_id": 24338,
           "content_id": 699765,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Apocalypse 1.10",
           "language": "fra"
         }
@@ -2117,12 +2137,14 @@
         {
           "reference_id": 9324,
           "content_id": 148347,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 10.12-13",
           "language": "fra"
         },
         {
           "reference_id": 9745,
           "content_id": 148761,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 7.21",
           "language": "fra"
         }
@@ -2210,6 +2232,7 @@
         {
           "reference_id": 18683,
           "content_id": 721847,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Josué 23.11",
           "language": "fra"
         }
@@ -2257,6 +2280,7 @@
         {
           "reference_id": 9705,
           "content_id": 148728,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 4.44",
           "language": "fra"
         }
@@ -2344,6 +2368,7 @@
         {
           "reference_id": 9755,
           "content_id": 148771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 8.2",
           "language": "fra"
         }
@@ -2411,12 +2436,14 @@
         {
           "reference_id": 9319,
           "content_id": 148342,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.4",
           "language": "fra"
         },
         {
           "reference_id": 9435,
           "content_id": 148458,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.1",
           "language": "fra"
         }
@@ -2464,6 +2491,7 @@
         {
           "reference_id": 9347,
           "content_id": 148370,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 12.2",
           "language": "fra"
         }
@@ -2571,12 +2599,14 @@
         {
           "reference_id": 9697,
           "content_id": 148720,
+          "resource_code": "Unknown",
           "label": "Deutéronome 4.34",
           "language": "fra"
         },
         {
           "reference_id": 9755,
           "content_id": 148771,
+          "resource_code": "Unknown",
           "label": "Deutéronome 8.2",
           "language": "fra"
         }
@@ -2684,6 +2714,7 @@
         {
           "reference_id": 9443,
           "content_id": 148466,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.34",
           "language": "fra"
         }
@@ -2931,12 +2962,14 @@
         {
           "reference_id": 9697,
           "content_id": 148720,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 4.34",
           "language": "fra"
         },
         {
           "reference_id": 9755,
           "content_id": 148771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 8.2",
           "language": "fra"
         }
@@ -2984,6 +3017,7 @@
         {
           "reference_id": 9746,
           "content_id": 148762,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 7.24",
           "language": "fra"
         }
@@ -3051,6 +3085,7 @@
         {
           "reference_id": 9307,
           "content_id": 148330,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.19",
           "language": "fra"
         }
@@ -3098,12 +3133,14 @@
         {
           "reference_id": 9640,
           "content_id": 148663,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 32.36",
           "language": "fra"
         },
         {
           "reference_id": 9755,
           "content_id": 148771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 8.2",
           "language": "fra"
         }
@@ -3131,12 +3168,14 @@
         {
           "reference_id": 10381,
           "content_id": 148089,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 25.22",
           "language": "fra"
         },
         {
           "reference_id": 19329,
           "content_id": 158766,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 16.2",
           "language": "fra"
         }
@@ -3204,12 +3243,14 @@
         {
           "reference_id": 9745,
           "content_id": 148761,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 7.21",
           "language": "fra"
         },
         {
           "reference_id": 22347,
           "content_id": 697322,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Proverbes 1.7",
           "language": "fra"
         }
@@ -3497,12 +3538,14 @@
         {
           "reference_id": 9746,
           "content_id": 148762,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 7.24",
           "language": "fra"
         },
         {
           "reference_id": 9749,
           "content_id": 148765,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 7.5",
           "language": "fra"
         }
@@ -3550,6 +3593,7 @@
         {
           "reference_id": 9314,
           "content_id": 148337,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.31",
           "language": "fra"
         }
@@ -3637,6 +3681,7 @@
         {
           "reference_id": 19557,
           "content_id": 158994,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 7.26-27",
           "language": "fra"
         }
@@ -3724,6 +3769,7 @@
         {
           "reference_id": 19239,
           "content_id": 158676,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 1.3-17",
           "language": "fra"
         }
@@ -3891,12 +3937,14 @@
         {
           "reference_id": 9348,
           "content_id": 148371,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 12.31",
           "language": "fra"
         },
         {
           "reference_id": 9747,
           "content_id": 148763,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 7.25-26",
           "language": "fra"
         }
@@ -3964,6 +4012,7 @@
         {
           "reference_id": 203122,
           "content_id": 708413,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "pur, impur, et saint",
           "language": "fra"
         }
@@ -4131,12 +4180,14 @@
         {
           "reference_id": 9314,
           "content_id": 148337,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.31",
           "language": "fra"
         },
         {
           "reference_id": 9351,
           "content_id": 148374,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 12.6",
           "language": "fra"
         }
@@ -4224,6 +4275,7 @@
         {
           "reference_id": 19490,
           "content_id": 158927,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 27.30",
           "language": "fra"
         }
@@ -4671,6 +4723,7 @@
         {
           "reference_id": 9305,
           "content_id": 148328,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.16-17",
           "language": "fra"
         }
@@ -4698,6 +4751,7 @@
         {
           "reference_id": 9749,
           "content_id": 148765,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 7.5",
           "language": "fra"
         }
@@ -4805,6 +4859,7 @@
         {
           "reference_id": 13087,
           "content_id": 668144,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Corinthiens 5.12-13",
           "language": "fra"
         }
@@ -4972,6 +5027,7 @@
         {
           "reference_id": 9705,
           "content_id": 148728,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 4.44",
           "language": "fra"
         }
@@ -5339,6 +5395,7 @@
         {
           "reference_id": 13488,
           "content_id": 668275,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 13.1-2",
           "language": "fra"
         }
@@ -5366,6 +5423,7 @@
         {
           "reference_id": 9408,
           "content_id": 148431,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 17.7",
           "language": "fra"
         }
@@ -5533,6 +5591,7 @@
         {
           "reference_id": 9718,
           "content_id": 148741,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 5.17",
           "language": "fra"
         }
@@ -6080,12 +6139,14 @@
         {
           "reference_id": 9434,
           "content_id": 148457,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.19",
           "language": "fra"
         },
         {
           "reference_id": 9448,
           "content_id": 148471,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.9",
           "language": "fra"
         }
@@ -6113,6 +6174,7 @@
         {
           "reference_id": 21970,
           "content_id": 204401,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Nombres 22.5-6",
           "language": "fra"
         }
@@ -6480,6 +6542,7 @@
         {
           "reference_id": 13460,
           "content_id": 668247,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Corinthiens 11.23-24",
           "language": "fra"
         }
@@ -6587,6 +6650,7 @@
         {
           "reference_id": 9425,
           "content_id": 148448,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 19.21",
           "language": "fra"
         }
@@ -6654,6 +6718,7 @@
         {
           "reference_id": 9443,
           "content_id": 148466,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.34",
           "language": "fra"
         }
@@ -6721,6 +6786,7 @@
         {
           "reference_id": 9327,
           "content_id": 148350,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 10.18",
           "language": "fra"
         }
@@ -6748,6 +6814,7 @@
         {
           "reference_id": 9370,
           "content_id": 148393,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 14.28",
           "language": "fra"
         }
@@ -6815,6 +6882,7 @@
         {
           "reference_id": 9733,
           "content_id": 100584,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 6.4-5",
           "language": "fra"
         }
@@ -6902,6 +6970,7 @@
         {
           "reference_id": 203104,
           "content_id": 708408,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Autels",
           "language": "fra"
         }
@@ -7009,6 +7078,7 @@
         {
           "reference_id": 9737,
           "content_id": 100588,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 6.8",
           "language": "fra"
         }
@@ -7216,6 +7286,7 @@
         {
           "reference_id": 9443,
           "content_id": 148466,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.34",
           "language": "fra"
         }
@@ -7643,6 +7714,7 @@
         {
           "reference_id": 9745,
           "content_id": 148761,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 7.21",
           "language": "fra"
         }
@@ -7830,6 +7902,7 @@
         {
           "reference_id": 9327,
           "content_id": 148350,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 10.18",
           "language": "fra"
         }
@@ -8397,6 +8470,7 @@
         {
           "reference_id": 9439,
           "content_id": 148462,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 2.24",
           "language": "fra"
         }
@@ -8444,6 +8518,7 @@
         {
           "reference_id": 9328,
           "content_id": 148351,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 10.1",
           "language": "fra"
         }
@@ -8531,6 +8606,7 @@
         {
           "reference_id": 19237,
           "content_id": 158674,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Lévitique 1.1",
           "language": "fra"
         }
@@ -8558,6 +8634,7 @@
         {
           "reference_id": 9315,
           "content_id": 148338,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.33",
           "language": "fra"
         }
@@ -8585,6 +8662,7 @@
         {
           "reference_id": 9755,
           "content_id": 148771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 8.2",
           "language": "fra"
         }
@@ -8632,6 +8710,7 @@
         {
           "reference_id": 9732,
           "content_id": 148754,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 6.3",
           "language": "fra"
         }
@@ -8859,6 +8938,7 @@
         {
           "reference_id": 9319,
           "content_id": 148342,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 1.4",
           "language": "fra"
         }
@@ -8906,6 +8986,7 @@
         {
           "reference_id": 9693,
           "content_id": 148716,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 4.24",
           "language": "fra"
         }
@@ -9153,6 +9234,7 @@
         {
           "reference_id": 9755,
           "content_id": 148771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 8.2",
           "language": "fra"
         }
@@ -9220,12 +9302,14 @@
         {
           "reference_id": 9697,
           "content_id": 148720,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 4.34",
           "language": "fra"
         },
         {
           "reference_id": 9755,
           "content_id": 148771,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 8.2",
           "language": "fra"
         }
@@ -9473,12 +9557,14 @@
         {
           "reference_id": 9726,
           "content_id": 148748,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 6.16",
           "language": "fra"
         },
         {
           "reference_id": 10411,
           "content_id": 148119,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exode 28.30",
           "language": "fra"
         }
@@ -9826,6 +9912,7 @@
         {
           "reference_id": 9585,
           "content_id": 148608,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 3.17",
           "language": "fra"
         }
@@ -9853,6 +9940,7 @@
         {
           "reference_id": 9649,
           "content_id": 148672,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 32.51",
           "language": "fra"
         }
@@ -9980,6 +10068,7 @@
         {
           "reference_id": 9413,
           "content_id": 148436,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deutéronome 18.15",
           "language": "fra"
         }

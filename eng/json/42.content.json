@@ -80,12 +80,14 @@
         {
           "reference_id": 19621,
           "content_id": 20453,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:8-9",
           "language": "eng"
         },
         {
           "reference_id": 203477,
           "content_id": 500534,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Herod the Great",
           "language": "eng"
         }
@@ -553,6 +555,7 @@
         {
           "reference_id": 19594,
           "content_id": 20426,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:20",
           "language": "eng"
         }
@@ -640,6 +643,7 @@
         {
           "reference_id": 19599,
           "content_id": 20431,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:32-33",
           "language": "eng"
         }
@@ -827,6 +831,7 @@
         {
           "reference_id": 19597,
           "content_id": 20429,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:27",
           "language": "eng"
         }
@@ -914,6 +919,7 @@
         {
           "reference_id": 19599,
           "content_id": 20431,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:32-33",
           "language": "eng"
         }
@@ -1041,6 +1047,7 @@
         {
           "reference_id": 19610,
           "content_id": 20442,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:59",
           "language": "eng"
         }
@@ -1108,6 +1115,7 @@
         {
           "reference_id": 19604,
           "content_id": 20436,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:41",
           "language": "eng"
         }
@@ -1155,6 +1163,7 @@
         {
           "reference_id": 19621,
           "content_id": 20453,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:8-9",
           "language": "eng"
         }
@@ -1222,6 +1231,7 @@
         {
           "reference_id": 19918,
           "content_id": 20750,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 2:9-10",
           "language": "eng"
         }
@@ -1529,12 +1539,14 @@
         {
           "reference_id": 203484,
           "content_id": 500541,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Herod Antipas",
           "language": "eng"
         },
         {
           "reference_id": 203486,
           "content_id": 500543,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Pontius Pilate",
           "language": "eng"
         }
@@ -1882,18 +1894,21 @@
         {
           "reference_id": 19897,
           "content_id": 20729,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 2:2",
           "language": "eng"
         },
         {
           "reference_id": 20100,
           "content_id": 20932,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 3:1",
           "language": "eng"
         },
         {
           "reference_id": 20104,
           "content_id": 20936,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 3:23-38",
           "language": "eng"
         }
@@ -1921,6 +1936,7 @@
         {
           "reference_id": 20105,
           "content_id": 20937,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 3:23",
           "language": "eng"
         }
@@ -2528,6 +2544,7 @@
         {
           "reference_id": 19918,
           "content_id": 20750,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 2:9-10",
           "language": "eng"
         }
@@ -2755,6 +2772,7 @@
         {
           "reference_id": 203294,
           "content_id": 500351,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Secret of the Messiah",
           "language": "eng"
         }
@@ -2782,6 +2800,7 @@
         {
           "reference_id": 203478,
           "content_id": 500535,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "The Pharisees",
           "language": "eng"
         }
@@ -2889,6 +2908,7 @@
         {
           "reference_id": 203285,
           "content_id": 500342,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Son of Man",
           "language": "eng"
         }
@@ -2916,12 +2936,14 @@
         {
           "reference_id": 20095,
           "content_id": 20927,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 3:12",
           "language": "eng"
         },
         {
           "reference_id": 203479,
           "content_id": 500536,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "Matthew (Levi)",
           "language": "eng"
         }
@@ -3269,6 +3291,7 @@
         {
           "reference_id": 20102,
           "content_id": 20934,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 3:21",
           "language": "eng"
         }
@@ -3456,6 +3479,7 @@
         {
           "reference_id": 203303,
           "content_id": 500360,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Suffering Prophet",
           "language": "eng"
         }
@@ -3923,6 +3947,7 @@
         {
           "reference_id": 20160,
           "content_id": 20992,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 5:33",
           "language": "eng"
         }
@@ -4110,6 +4135,7 @@
         {
           "reference_id": 20210,
           "content_id": 21042,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 7:35",
           "language": "eng"
         }
@@ -4177,6 +4203,7 @@
         {
           "reference_id": 20152,
           "content_id": 20984,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 5:22",
           "language": "eng"
         }
@@ -4704,12 +4731,14 @@
         {
           "reference_id": 20132,
           "content_id": 20964,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 4:34",
           "language": "eng"
         },
         {
           "reference_id": 20137,
           "content_id": 20969,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 4:41",
           "language": "eng"
         }
@@ -4737,6 +4766,7 @@
         {
           "reference_id": 20131,
           "content_id": 20963,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 4:33",
           "language": "eng"
         }
@@ -5024,6 +5054,7 @@
         {
           "reference_id": 20199,
           "content_id": 21031,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 7:12",
           "language": "eng"
         }
@@ -5051,6 +5082,7 @@
         {
           "reference_id": 20079,
           "content_id": 20911,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 24:39",
           "language": "eng"
         }
@@ -5078,6 +5110,7 @@
         {
           "reference_id": 203294,
           "content_id": 500351,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Secret of the Messiah",
           "language": "eng"
         }
@@ -5185,6 +5218,7 @@
         {
           "reference_id": 19591,
           "content_id": 20423,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:17",
           "language": "eng"
         }
@@ -5352,6 +5386,7 @@
         {
           "reference_id": 20308,
           "content_id": 21140,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 9:8",
           "language": "eng"
         }
@@ -5499,6 +5534,7 @@
         {
           "reference_id": 203285,
           "content_id": 500342,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Son of Man",
           "language": "eng"
         }
@@ -5746,6 +5782,7 @@
         {
           "reference_id": 20274,
           "content_id": 21106,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 9:22",
           "language": "eng"
         }
@@ -5773,6 +5810,7 @@
         {
           "reference_id": 20711,
           "content_id": 21543,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Mark 6:52",
           "language": "eng"
         }
@@ -5940,6 +5978,7 @@
         {
           "reference_id": 19643,
           "content_id": 20475,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 10:33",
           "language": "eng"
         }
@@ -6147,6 +6186,7 @@
         {
           "reference_id": 20255,
           "content_id": 21087,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 8:48",
           "language": "eng"
         }
@@ -6174,6 +6214,7 @@
         {
           "reference_id": 20297,
           "content_id": 21129,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 9:4",
           "language": "eng"
         }
@@ -6201,6 +6242,7 @@
         {
           "reference_id": 20203,
           "content_id": 21035,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 7:22",
           "language": "eng"
         }
@@ -6228,6 +6270,7 @@
         {
           "reference_id": 20306,
           "content_id": 21138,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 9:5",
           "language": "eng"
         }
@@ -6435,6 +6478,7 @@
         {
           "reference_id": 20150,
           "content_id": 20982,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 5:17",
           "language": "eng"
         }
@@ -6722,6 +6766,7 @@
         {
           "reference_id": 20102,
           "content_id": 20934,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 3:21",
           "language": "eng"
         }
@@ -6989,6 +7034,7 @@
         {
           "reference_id": 20298,
           "content_id": 21130,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 9:50",
           "language": "eng"
         }
@@ -7096,6 +7142,7 @@
         {
           "reference_id": 20229,
           "content_id": 21061,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 8:16-17",
           "language": "eng"
         }
@@ -7143,6 +7190,7 @@
         {
           "reference_id": 20212,
           "content_id": 21044,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 7:36",
           "language": "eng"
         }
@@ -7250,6 +7298,7 @@
         {
           "reference_id": 20180,
           "content_id": 21012,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 6:24-26",
           "language": "eng"
         }
@@ -7537,6 +7586,7 @@
         {
           "reference_id": 20887,
           "content_id": 21719,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthew 12:31",
           "language": "eng"
         }
@@ -7924,6 +7974,7 @@
         {
           "reference_id": 203285,
           "content_id": 500342,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Son of Man",
           "language": "eng"
         }
@@ -8311,6 +8362,7 @@
         {
           "reference_id": 19657,
           "content_id": 20489,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 11:14",
           "language": "eng"
         }
@@ -8458,6 +8510,7 @@
         {
           "reference_id": 20114,
           "content_id": 20946,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 3:8",
           "language": "eng"
         }
@@ -8565,6 +8618,7 @@
         {
           "reference_id": 203303,
           "content_id": 500360,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Suffering Prophet",
           "language": "eng"
         }
@@ -8672,6 +8726,7 @@
         {
           "reference_id": 20193,
           "content_id": 21025,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 6:6-7",
           "language": "eng"
         }
@@ -8699,6 +8754,7 @@
         {
           "reference_id": 19728,
           "content_id": 20560,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 13:15-16",
           "language": "eng"
         }
@@ -9826,12 +9882,14 @@
         {
           "reference_id": 19675,
           "content_id": 20507,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 11:42-52",
           "language": "eng"
         },
         {
           "reference_id": 20180,
           "content_id": 21012,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 6:24-26",
           "language": "eng"
         }
@@ -9939,6 +9997,7 @@
         {
           "reference_id": 20299,
           "content_id": 21131,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 9:51-19.44",
           "language": "eng"
         }
@@ -9986,6 +10045,7 @@
         {
           "reference_id": 20146,
           "content_id": 20978,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 5:12",
           "language": "eng"
         }
@@ -10013,12 +10073,14 @@
         {
           "reference_id": 20146,
           "content_id": 20978,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 5:12",
           "language": "eng"
         },
         {
           "reference_id": 20148,
           "content_id": 20980,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 5:14",
           "language": "eng"
         }
@@ -10046,6 +10108,7 @@
         {
           "reference_id": 19643,
           "content_id": 20475,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 10:33",
           "language": "eng"
         }
@@ -10173,6 +10236,7 @@
         {
           "reference_id": 20274,
           "content_id": 21106,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 9:22",
           "language": "eng"
         }
@@ -10420,6 +10484,7 @@
         {
           "reference_id": 20095,
           "content_id": 20927,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 3:12",
           "language": "eng"
         }
@@ -10507,6 +10572,7 @@
         {
           "reference_id": 20296,
           "content_id": 21128,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 9:48",
           "language": "eng"
         }
@@ -10674,6 +10740,7 @@
         {
           "reference_id": 20405,
           "content_id": 21237,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Mark 10:25",
           "language": "eng"
         }
@@ -10921,6 +10988,7 @@
         {
           "reference_id": 20095,
           "content_id": 20927,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 3:12",
           "language": "eng"
         }
@@ -10988,6 +11056,7 @@
         {
           "reference_id": 20158,
           "content_id": 20990,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 5:30",
           "language": "eng"
         }
@@ -11435,6 +11504,7 @@
         {
           "reference_id": 20432,
           "content_id": 21264,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Mark 11:12-25",
           "language": "eng"
         }
@@ -11842,6 +11912,7 @@
         {
           "reference_id": 203481,
           "content_id": 500538,
+          "resource_code": "TyndaleStudyNotesProfiles",
           "label": "The Sadducees",
           "language": "eng"
         }
@@ -12029,6 +12100,7 @@
         {
           "reference_id": 19849,
           "content_id": 20681,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 18:38",
           "language": "eng"
         }
@@ -12116,18 +12188,21 @@
         {
           "reference_id": 19677,
           "content_id": 20509,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 11:43",
           "language": "eng"
         },
         {
           "reference_id": 19764,
           "content_id": 20596,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 14:7",
           "language": "eng"
         },
         {
           "reference_id": 20158,
           "content_id": 20990,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 5:30",
           "language": "eng"
         }
@@ -12295,6 +12370,7 @@
         {
           "reference_id": 19873,
           "content_id": 20705,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 19:43-44",
           "language": "eng"
         }
@@ -12322,6 +12398,7 @@
         {
           "reference_id": 20513,
           "content_id": 21345,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Mark 13:5-6",
           "language": "eng"
         }
@@ -12369,6 +12446,7 @@
         {
           "reference_id": 19965,
           "content_id": 20797,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 21:25",
           "language": "eng"
         }
@@ -12636,6 +12714,7 @@
         {
           "reference_id": 19786,
           "content_id": 20618,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 16:17",
           "language": "eng"
         }
@@ -12923,6 +13002,7 @@
         {
           "reference_id": 18077,
           "content_id": 18909,
+          "resource_code": "TyndaleStudyNotes",
           "label": "John 13:23",
           "language": "eng"
         }
@@ -12950,6 +13030,7 @@
         {
           "reference_id": 21216,
           "content_id": 22048,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Matthew 26:26-29",
           "language": "eng"
         }
@@ -13317,6 +13398,7 @@
         {
           "reference_id": 19865,
           "content_id": 20697,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 19:29",
           "language": "eng"
         }
@@ -13484,6 +13566,7 @@
         {
           "reference_id": 20107,
           "content_id": 20939,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 3:2",
           "language": "eng"
         }
@@ -13591,6 +13674,7 @@
         {
           "reference_id": 19998,
           "content_id": 20830,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 22:34",
           "language": "eng"
         }
@@ -13658,24 +13742,28 @@
         {
           "reference_id": 19599,
           "content_id": 20431,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:32-33",
           "language": "eng"
         },
         {
           "reference_id": 20137,
           "content_id": 20969,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 4:41",
           "language": "eng"
         },
         {
           "reference_id": 20550,
           "content_id": 21382,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Mark 14:62",
           "language": "eng"
         },
         {
           "reference_id": 20551,
           "content_id": 21383,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Mark 14:63-64",
           "language": "eng"
         }
@@ -13963,6 +14051,7 @@
         {
           "reference_id": 18191,
           "content_id": 19023,
+          "resource_code": "TyndaleStudyNotes",
           "label": "John 19:12",
           "language": "eng"
         }
@@ -14030,6 +14119,7 @@
         {
           "reference_id": 19620,
           "content_id": 20452,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 1:7",
           "language": "eng"
         }
@@ -14277,6 +14367,7 @@
         {
           "reference_id": 20040,
           "content_id": 20872,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 23:35",
           "language": "eng"
         }
@@ -14844,6 +14935,7 @@
         {
           "reference_id": 20066,
           "content_id": 20898,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 24:16",
           "language": "eng"
         }
@@ -14931,6 +15023,7 @@
         {
           "reference_id": 20072,
           "content_id": 20904,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 24:25-26",
           "language": "eng"
         }
@@ -15018,6 +15111,7 @@
         {
           "reference_id": 19865,
           "content_id": 20697,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Luke 19:29",
           "language": "eng"
         }

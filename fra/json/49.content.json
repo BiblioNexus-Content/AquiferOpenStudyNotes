@@ -620,6 +620,7 @@
         {
           "reference_id": 9927,
           "content_id": 667609,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Éphésiens 1.2",
           "language": "fra"
         }
@@ -827,6 +828,7 @@
         {
           "reference_id": 9915,
           "content_id": 667597,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Éphésiens 1.12-13",
           "language": "fra"
         }
@@ -994,6 +996,7 @@
         {
           "reference_id": 9935,
           "content_id": 667617,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Éphésiens 1.8-10",
           "language": "fra"
         }
@@ -1061,6 +1064,7 @@
         {
           "reference_id": 9927,
           "content_id": 667609,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Éphésiens 1.2",
           "language": "fra"
         }
@@ -1108,6 +1112,7 @@
         {
           "reference_id": 9924,
           "content_id": 667606,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Éphésiens 1.21",
           "language": "fra"
         }
@@ -1355,6 +1360,7 @@
         {
           "reference_id": 9968,
           "content_id": 667650,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Éphésiens 3.1",
           "language": "fra"
         }
@@ -2422,6 +2428,7 @@
         {
           "reference_id": 9935,
           "content_id": 667617,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Éphésiens 1.8-10",
           "language": "fra"
         }
@@ -2549,6 +2556,7 @@
         {
           "reference_id": 26433,
           "content_id": 736085,
+          "resource_code": "Unknown",
           "label": "Philémon",
           "language": "fra"
         }
@@ -2836,12 +2844,14 @@
         {
           "reference_id": 9935,
           "content_id": 667617,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Éphésiens 1.8-10",
           "language": "fra"
         },
         {
           "reference_id": 9973,
           "content_id": 667655,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Éphésiens 3.3",
           "language": "fra"
         }

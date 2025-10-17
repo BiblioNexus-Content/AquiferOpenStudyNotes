@@ -160,24 +160,28 @@
         {
           "reference_id": 10823,
           "content_id": 155194,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ézéchiel 28.12-19",
           "language": "fra"
         },
         {
           "reference_id": 13973,
           "content_id": 699351,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Pierre 2.4",
           "language": "fra"
         },
         {
           "reference_id": 15042,
           "content_id": 149457,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ésaïe 14.12",
           "language": "fra"
         },
         {
           "reference_id": 14924,
           "content_id": 699541,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Pierre 3.19-20",
           "language": "fra"
         }
@@ -265,6 +269,7 @@
         {
           "reference_id": 13964,
           "content_id": 699342,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Pierre 2.15",
           "language": "fra"
         }

@@ -1000,6 +1000,7 @@
         {
           "reference_id": 203217,
           "content_id": 500274,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Prayers for Vengeance",
           "language": "eng"
         }
@@ -1827,12 +1828,14 @@
         {
           "reference_id": 10411,
           "content_id": 11243,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Exodus 28:30",
           "language": "eng"
         },
         {
           "reference_id": 19578,
           "content_id": 20410,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Leviticus 8:8",
           "language": "eng"
         }
@@ -2080,6 +2083,7 @@
         {
           "reference_id": 11198,
           "content_id": 12030,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezra 7:6",
           "language": "eng"
         }

@@ -60,6 +60,7 @@
         {
           "reference_id": 25102,
           "content_id": 25934,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Titus 1:12",
           "language": "eng"
         }
@@ -187,6 +188,7 @@
         {
           "reference_id": 16498,
           "content_id": 17330,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothy 3:2",
           "language": "eng"
         }
@@ -334,6 +336,7 @@
         {
           "reference_id": 25102,
           "content_id": 25934,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Titus 1:12",
           "language": "eng"
         }
@@ -481,6 +484,7 @@
         {
           "reference_id": 16535,
           "content_id": 17367,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothy 6:14",
           "language": "eng"
         }
@@ -548,12 +552,14 @@
         {
           "reference_id": 16535,
           "content_id": 17367,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothy 6:14",
           "language": "eng"
         },
         {
           "reference_id": 25102,
           "content_id": 25934,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Titus 1:12",
           "language": "eng"
         }
@@ -621,6 +627,7 @@
         {
           "reference_id": 25119,
           "content_id": 25951,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Titus 2:11-15",
           "language": "eng"
         }
@@ -668,6 +675,7 @@
         {
           "reference_id": 16535,
           "content_id": 17367,
+          "resource_code": "TyndaleStudyNotes",
           "label": "1 Timothy 6:14",
           "language": "eng"
         }

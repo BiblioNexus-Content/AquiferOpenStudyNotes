@@ -180,6 +180,7 @@
         {
           "reference_id": 203237,
           "content_id": 500294,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "The Day of the Lord",
           "language": "eng"
         }
@@ -387,6 +388,7 @@
         {
           "reference_id": 14390,
           "content_id": 15222,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Thessalonians 2:6",
           "language": "eng"
         }
@@ -834,6 +836,7 @@
         {
           "reference_id": 14408,
           "content_id": 15240,
+          "resource_code": "TyndaleStudyNotes",
           "label": "2 Thessalonians 3:6",
           "language": "eng"
         }

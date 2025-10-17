@@ -120,6 +120,7 @@
         {
           "reference_id": 10630,
           "content_id": 11462,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 1:4-28",
           "language": "eng"
         }
@@ -147,6 +148,7 @@
         {
           "reference_id": 9315,
           "content_id": 10147,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Deuteronomy 1:33",
           "language": "eng"
         }
@@ -314,6 +316,7 @@
         {
           "reference_id": 10619,
           "content_id": 11451,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 1:11-14",
           "language": "eng"
         }
@@ -801,6 +804,7 @@
         {
           "reference_id": 203256,
           "content_id": 500313,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Prophetic Sign Acts",
           "language": "eng"
         }
@@ -1528,6 +1532,7 @@
         {
           "reference_id": 10628,
           "content_id": 11460,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 1:2",
           "language": "eng"
         }
@@ -1595,6 +1600,7 @@
         {
           "reference_id": 10630,
           "content_id": 11462,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 1:4-28",
           "language": "eng"
         }
@@ -3422,6 +3428,7 @@
         {
           "reference_id": 10917,
           "content_id": 11749,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 36:17",
           "language": "eng"
         }
@@ -4629,6 +4636,7 @@
         {
           "reference_id": 10686,
           "content_id": 11518,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 16:35-38",
           "language": "eng"
         }
@@ -4836,6 +4844,7 @@
         {
           "reference_id": 203256,
           "content_id": 500313,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Prophetic Sign Acts",
           "language": "eng"
         }
@@ -5143,6 +5152,7 @@
         {
           "reference_id": 10716,
           "content_id": 11548,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 19:1-14",
           "language": "eng"
         }
@@ -5190,6 +5200,7 @@
         {
           "reference_id": 10793,
           "content_id": 11625,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 26:1-28.19",
           "language": "eng"
         }
@@ -5577,6 +5588,7 @@
         {
           "reference_id": 10793,
           "content_id": 11625,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 26:1-28.19",
           "language": "eng"
         }
@@ -6044,6 +6056,7 @@
         {
           "reference_id": 10842,
           "content_id": 11674,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 29:8-13",
           "language": "eng"
         }
@@ -6711,6 +6724,7 @@
         {
           "reference_id": 10848,
           "content_id": 11680,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 3:16-19",
           "language": "eng"
         }
@@ -7298,6 +7312,7 @@
         {
           "reference_id": 203122,
           "content_id": 500179,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Clean, Unclean, and Holy",
           "language": "eng"
         }
@@ -7325,6 +7340,7 @@
         {
           "reference_id": 11016,
           "content_id": 11848,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 44:17-19",
           "language": "eng"
         }
@@ -7672,6 +7688,7 @@
         {
           "reference_id": 203256,
           "content_id": 500313,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Prophetic Sign Acts",
           "language": "eng"
         }
@@ -7779,6 +7796,7 @@
         {
           "reference_id": 203261,
           "content_id": 500318,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Apocalyptic Literature",
           "language": "eng"
         }
@@ -8226,18 +8244,21 @@
         {
           "reference_id": 203262,
           "content_id": 500319,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Temple Design as a Picture of God's Truth",
           "language": "eng"
         },
         {
           "reference_id": 203263,
           "content_id": 500320,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Temple Legislation as Theology",
           "language": "eng"
         },
         {
           "reference_id": 203264,
           "content_id": 500321,
+          "resource_code": "TyndaleStudyNotesThemes",
           "label": "Israel’s Geography as Theology",
           "language": "eng"
         }
@@ -9145,6 +9166,7 @@
         {
           "reference_id": 10917,
           "content_id": 11749,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 36:17",
           "language": "eng"
         }
@@ -9752,6 +9774,7 @@
         {
           "reference_id": 10977,
           "content_id": 11809,
+          "resource_code": "TyndaleStudyNotes",
           "label": "Ezekiel 40:17-19",
           "language": "eng"
         }
